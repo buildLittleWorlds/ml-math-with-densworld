@@ -1,0 +1,257 @@
+debate_id,year,month,venue,topic_category,scholar_a_id,scholar_a_name,scholar_a_school,scholar_a_age,scholar_a_publications,scholar_b_id,scholar_b_name,scholar_b_school,scholar_b_age,scholar_b_publications,judge_count,audience_size,outcome,margin,votes_for_a,votes_for_b,controversy_score,appeals_filed,citations_after_5yr,duration_hours,notes
+DEB003,850,5,University Hall,natural_philosophy,SCH-007,Eulr Voss,water_school,60,48,SCH-006,Fibon Arrel,pebble_school,40,35,7,263,victory_b,decisive,2,5,0.44,0,9,3.3,Clear victory; Water School vs Pebble School
+DEB004,850,8,Senate Chamber,natural_philosophy,SCH-006,Fibon Arrel,pebble_school,40,35,SCH-007,Eulr Voss,water_school,60,48,5,97,victory_a,decisive,5,0,0.48,1,16,4.8,Clear victory; Pebble School vs Water School
+DEB005,850,8,Grand Archive Hall,cosmology,SCH-006,Fibon Arrel,pebble_school,40,35,SCH-018,Solvar Hent,stone_school,25,47,7,374,victory_b,narrow,3,4,0.66,0,9,1.9,Closely contested; Pebble School vs Stone School
+DEB001,850,11,Grand Archive Hall,ethics,SCH-018,Solvar Hent,stone_school,25,47,SCH-007,Eulr Voss,water_school,60,48,3,500,victory_b,narrow,1,2,0.68,0,18,1.0,Closely contested; Stone School vs Water School
+DEB002,850,12,Public Square,natural_philosophy,SCH-007,Eulr Voss,water_school,60,48,SCH-011,Havro Molt,stone_school,30,58,3,884,victory_a,narrow,2,1,0.48,0,16,4.0,Closely contested; Water School vs Stone School
+DEB006,851,9,Senate Chamber,history,SCH-011,Havro Molt,stone_school,31,58,SCH-007,Eulr Voss,water_school,61,48,7,144,victory_a,decisive,7,0,0.41,0,7,5.1,Clear victory; Stone School vs Water School
+DEB007,852,3,University Hall,ethics,SCH-011,Havro Molt,stone_school,32,58,SCH-006,Fibon Arrel,pebble_school,42,35,3,261,victory_b,narrow,1,2,0.83,0,4,4.7,Closely contested; Stone School vs Pebble School
+DEB008,852,10,Grand Archive Hall,history,SCH-007,Eulr Voss,water_school,62,48,SCH-011,Havro Molt,stone_school,32,58,5,318,victory_b,narrow,2,3,0.56,0,38,4.7,Closely contested; Water School vs Stone School
+DEB011,853,3,Senator Huilof Estate,ethics,SCH-007,Eulr Voss,water_school,63,48,SCH-011,Havro Molt,stone_school,33,58,5,72,victory_b,decisive,1,4,0.45,0,30,4.6,Clear victory; Water School vs Stone School
+DEB009,853,4,Senate Chamber,history,SCH-011,Havro Molt,stone_school,33,58,SCH-006,Fibon Arrel,pebble_school,43,35,7,98,victory_a,narrow,4,3,0.44,1,4,4.0,Closely contested; Stone School vs Pebble School
+DEB010,853,5,Senate Chamber,history,SCH-018,Solvar Hent,stone_school,28,47,SCH-007,Eulr Voss,water_school,63,48,3,86,victory_b,decisive,0,3,0.49,0,25,1.9,Clear victory; Stone School vs Water School
+DEB012,853,11,Senate Chamber,politics,SCH-018,Solvar Hent,stone_school,28,47,SCH-007,Eulr Voss,water_school,63,48,7,128,victory_a,decisive,5,2,0.48,0,24,4.1,Clear victory; Stone School vs Water School; Senate observers present
+DEB013,853,12,University Hall,ethics,SCH-006,Fibon Arrel,pebble_school,43,35,SCH-007,Eulr Voss,water_school,63,48,5,128,victory_b,narrow,2,3,0.69,1,27,4.8,Closely contested; Pebble School vs Water School
+DEB016,854,8,Public Square,metaphysics,SCH-007,Eulr Voss,water_school,64,48,SCH-006,Fibon Arrel,pebble_school,44,35,5,605,victory_b,narrow,2,3,0.61,2,23,3.5,Closely contested; Water School vs Pebble School
+DEB014,854,9,Senator Huilof Estate,epistemology,SCH-011,Havro Molt,stone_school,34,58,SCH-007,Eulr Voss,water_school,64,48,7,84,victory_b,decisive,2,5,0.48,0,23,5.3,Clear victory; Stone School vs Water School
+DEB015,854,11,Public Square,ethics,SCH-018,Solvar Hent,stone_school,29,47,SCH-011,Havro Molt,stone_school,34,58,5,1000,victory_b,narrow,2,3,0.31,2,8,3.5,Closely contested
+DEB017,854,11,Public Square,history,SCH-011,Havro Molt,stone_school,34,58,SCH-018,Solvar Hent,stone_school,29,47,5,417,victory_b,decisive,0,5,0.45,0,16,4.6,Clear victory
+DEB021,855,5,Grand Archive Hall,aesthetics,SCH-008,Koro Sandis,stone_school,25,39,SCH-007,Eulr Voss,water_school,65,48,5,402,victory_a,narrow,3,2,0.31,0,8,1.0,Closely contested; Stone School vs Water School
+DEB023,855,5,Public Square,aesthetics,SCH-007,Eulr Voss,water_school,65,48,SCH-008,Koro Sandis,stone_school,25,39,5,551,victory_a,narrow,3,2,0.31,0,14,6.3,Closely contested; Water School vs Stone School
+DEB018,855,9,Senator Huilof Estate,epistemology,SCH-006,Fibon Arrel,pebble_school,45,35,SCH-011,Havro Molt,stone_school,35,58,3,66,victory_b,narrow,1,2,0.51,0,9,5.6,Closely contested; Pebble School vs Stone School
+DEB019,855,10,Public Square,politics,SCH-011,Havro Molt,stone_school,35,58,SCH-006,Fibon Arrel,pebble_school,45,35,5,720,victory_a,narrow,3,2,0.77,1,13,4.6,Closely contested; Stone School vs Pebble School; Senate observers present
+DEB022,855,10,Grand Archive Hall,history,SCH-008,Koro Sandis,stone_school,25,39,SCH-011,Havro Molt,stone_school,35,58,5,272,victory_b,decisive,1,4,0.25,0,26,5.4,Clear victory
+DEB024,855,10,Senate Chamber,epistemology,SCH-018,Solvar Hent,stone_school,30,47,SCH-008,Koro Sandis,stone_school,25,39,5,107,victory_a,decisive,5,0,0.5,0,16,7.0,Clear victory
+DEB020,855,12,Grand Archive Hall,metaphysics,SCH-011,Havro Molt,stone_school,35,58,SCH-006,Fibon Arrel,pebble_school,45,35,3,444,victory_a,decisive,3,0,0.32,0,18,1.0,Clear victory; Stone School vs Pebble School
+DEB025,856,7,University Hall,natural_philosophy,SCH-011,Havro Molt,stone_school,36,58,SCH-018,Solvar Hent,stone_school,31,47,5,113,victory_a,narrow,3,2,0.57,1,9,4.4,Closely contested
+DEB027,856,11,Senator Huilof Estate,politics,SCH-007,Eulr Voss,water_school,66,48,SCH-008,Koro Sandis,stone_school,26,39,3,90,victory_b,narrow,1,2,0.42,0,34,2.8,Closely contested; Water School vs Stone School; Senate observers present
+DEB026,856,12,Public Square,metaphysics,SCH-011,Havro Molt,stone_school,36,58,SCH-018,Solvar Hent,stone_school,31,47,5,531,victory_b,decisive,1,4,0.49,0,10,5.5,Clear victory
+DEB029,857,4,Grand Archive Hall,natural_philosophy,SCH-007,Eulr Voss,water_school,67,48,SCH-011,Havro Molt,stone_school,37,58,7,448,victory_b,narrow,3,4,0.56,0,17,3.6,Closely contested; Water School vs Stone School
+DEB031,857,4,Archivist Shop,epistemology,SCH-018,Solvar Hent,stone_school,32,47,SCH-006,Fibon Arrel,pebble_school,47,35,5,22,victory_b,narrow,2,3,0.22,0,34,4.2,Closely contested; Stone School vs Pebble School
+DEB030,857,6,Senator Huilof Estate,natural_philosophy,SCH-008,Koro Sandis,stone_school,27,39,SCH-006,Fibon Arrel,pebble_school,47,35,3,60,victory_b,narrow,1,2,0.28,1,17,3.2,Closely contested; Stone School vs Pebble School
+DEB033,857,6,University Hall,politics,SCH-011,Havro Molt,stone_school,37,58,SCH-007,Eulr Voss,water_school,67,48,3,142,victory_a,decisive,3,0,0.25,0,34,2.4,Clear victory; Stone School vs Water School; Senate observers present
+DEB032,857,8,Archivist Shop,aesthetics,SCH-007,Eulr Voss,water_school,67,48,SCH-011,Havro Molt,stone_school,37,58,3,27,victory_b,narrow,1,2,0.49,0,6,4.4,Closely contested; Water School vs Stone School
+DEB034,857,11,Grand Archive Hall,aesthetics,SCH-006,Fibon Arrel,pebble_school,47,35,SCH-008,Koro Sandis,stone_school,27,39,3,206,victory_b,decisive,0,3,0.22,0,17,6.3,Clear victory; Pebble School vs Stone School
+DEB028,857,12,Senate Chamber,politics,SCH-011,Havro Molt,stone_school,37,58,SCH-007,Eulr Voss,water_school,67,48,7,200,victory_a,decisive,6,1,0.56,0,31,1.7,Clear victory; Stone School vs Water School; Senate observers present
+DEB037,858,1,Grand Archive Hall,natural_philosophy,SCH-006,Fibon Arrel,pebble_school,48,35,SCH-018,Solvar Hent,stone_school,33,47,5,381,victory_a,narrow,3,2,0.51,0,13,5.0,Closely contested; Pebble School vs Stone School
+DEB041,858,2,Senator Huilof Estate,natural_philosophy,SCH-011,Havro Molt,stone_school,38,58,SCH-006,Fibon Arrel,pebble_school,48,35,3,40,victory_b,narrow,1,2,0.47,0,15,3.6,Closely contested; Stone School vs Pebble School
+DEB036,858,5,University Hall,aesthetics,SCH-011,Havro Molt,stone_school,38,58,SCH-006,Fibon Arrel,pebble_school,48,35,7,242,victory_a,decisive,5,2,0.06,0,7,4.3,Clear victory; Stone School vs Pebble School
+DEB039,858,6,Senate Chamber,natural_philosophy,SCH-018,Solvar Hent,stone_school,33,47,SCH-007,Eulr Voss,water_school,68,48,7,173,victory_b,decisive,2,5,0.29,1,5,3.4,Clear victory; Stone School vs Water School
+DEB038,858,7,Senator Huilof Estate,history,SCH-011,Havro Molt,stone_school,38,58,SCH-008,Koro Sandis,stone_school,28,39,3,30,victory_a,narrow,2,1,0.24,0,14,4.6,Closely contested
+DEB035,858,8,Grand Archive Hall,metaphysics,SCH-018,Solvar Hent,stone_school,33,47,SCH-011,Havro Molt,stone_school,38,58,5,294,victory_a,narrow,3,2,0.72,0,19,2.8,Closely contested
+DEB043,858,8,Grand Archive Hall,ethics,SCH-011,Havro Molt,stone_school,38,58,SCH-008,Koro Sandis,stone_school,28,39,5,500,victory_a,decisive,5,0,0.57,0,7,3.8,Clear victory
+DEB042,858,9,Senator Huilof Estate,history,SCH-018,Solvar Hent,stone_school,33,47,SCH-011,Havro Molt,stone_school,38,58,5,30,victory_a,narrow,3,2,0.51,1,25,2.3,Closely contested
+DEB040,858,11,University Hall,history,SCH-007,Eulr Voss,water_school,68,48,SCH-006,Fibon Arrel,pebble_school,48,35,3,117,victory_a,decisive,3,0,0.16,0,14,4.9,Clear victory; Water School vs Pebble School
+DEB045,859,8,Senate Chamber,epistemology,SCH-018,Solvar Hent,stone_school,34,47,SCH-007,Eulr Voss,water_school,69,48,7,132,victory_a,narrow,4,3,0.25,1,15,1.0,Closely contested; Stone School vs Water School
+DEB044,859,9,University Hall,metaphysics,SCH-018,Solvar Hent,stone_school,34,47,SCH-011,Havro Molt,stone_school,39,58,7,196,victory_a,narrow,4,3,0.6,0,56,5.0,Closely contested
+DEB048,860,4,Senate Chamber,natural_philosophy,SCH-011,Havro Molt,stone_school,40,58,SCH-007,Eulr Voss,water_school,70,48,5,125,victory_a,decisive,5,0,0.15,0,56,2.6,Clear victory; Stone School vs Water School
+DEB046,860,9,Senator Huilof Estate,epistemology,SCH-011,Havro Molt,stone_school,40,58,SCH-007,Eulr Voss,water_school,70,48,5,88,victory_a,decisive,4,1,0.34,0,22,3.8,Clear victory; Stone School vs Water School
+DEB047,860,11,Senator Huilof Estate,politics,SCH-014,Grent Tolliver,stone_school,25,41,SCH-018,Solvar Hent,stone_school,35,47,5,72,victory_b,narrow,2,3,0.55,0,9,3.9,Closely contested; Senate observers present
+DEB052,861,1,University Hall,natural_philosophy,SCH-006,Fibon Arrel,pebble_school,51,35,SCH-008,Koro Sandis,stone_school,31,39,5,237,victory_a,narrow,3,2,0.35,0,21,2.1,Closely contested; Pebble School vs Stone School
+DEB053,861,2,Public Square,politics,SCH-011,Havro Molt,stone_school,41,58,SCH-006,Fibon Arrel,pebble_school,51,35,3,1000,victory_b,narrow,1,2,0.82,2,18,1.8,Closely contested; Stone School vs Pebble School; Senate observers present
+DEB054,861,2,Grand Archive Hall,cosmology,SCH-014,Grent Tolliver,stone_school,26,41,SCH-007,Eulr Voss,water_school,71,48,5,426,victory_b,narrow,2,3,0.57,0,35,2.7,Closely contested; Stone School vs Water School
+DEB049,861,3,Senator Huilof Estate,cosmology,SCH-014,Grent Tolliver,stone_school,26,41,SCH-018,Solvar Hent,stone_school,36,47,7,75,victory_a,decisive,5,2,0.37,0,23,3.9,Clear victory
+DEB051,861,5,Public Square,cosmology,SCH-014,Grent Tolliver,stone_school,26,41,SCH-006,Fibon Arrel,pebble_school,51,35,5,400,victory_b,narrow,2,3,0.66,0,24,4.6,Closely contested; Stone School vs Pebble School
+DEB055,861,8,Senate Chamber,natural_philosophy,SCH-011,Havro Molt,stone_school,41,58,SCH-007,Eulr Voss,water_school,71,48,7,74,victory_a,decisive,7,0,0.38,0,29,2.6,Clear victory; Stone School vs Water School
+DEB050,861,9,University Hall,cosmology,SCH-011,Havro Molt,stone_school,41,58,SCH-008,Koro Sandis,stone_school,31,39,5,173,victory_a,decisive,4,1,0.17,0,14,4.7,Clear victory
+DEB056,862,9,Senator Huilof Estate,history,SCH-018,Solvar Hent,stone_school,37,47,SCH-014,Grent Tolliver,stone_school,27,41,5,74,victory_b,decisive,1,4,0.26,0,16,1.5,Clear victory
+DEB058,863,1,Archivist Shop,natural_philosophy,SCH-014,Grent Tolliver,stone_school,28,41,SCH-010,Lunna Gresk,pebble_school,25,33,5,28,victory_a,decisive,5,0,0.0,0,7,2.3,Clear victory; Stone School vs Pebble School
+DEB059,863,2,Public Square,metaphysics,SCH-008,Koro Sandis,stone_school,33,39,SCH-014,Grent Tolliver,stone_school,28,41,5,452,victory_b,narrow,2,3,0.29,0,25,3.8,Closely contested
+DEB057,863,5,Senate Chamber,politics,SCH-008,Koro Sandis,stone_school,33,39,SCH-007,Eulr Voss,water_school,73,48,5,98,victory_b,narrow,2,3,0.43,0,12,5.2,Closely contested; Stone School vs Water School; Senate observers present
+DEB061,863,5,Public Square,metaphysics,SCH-014,Grent Tolliver,stone_school,28,41,SCH-007,Eulr Voss,water_school,73,48,7,505,victory_b,narrow,3,4,0.29,0,8,6.1,Closely contested; Stone School vs Water School
+DEB060,863,12,Senator Huilof Estate,ethics,SCH-006,Fibon Arrel,pebble_school,53,35,SCH-011,Havro Molt,stone_school,43,58,7,100,victory_b,decisive,2,5,0.24,0,31,4.7,Clear victory; Pebble School vs Stone School
+DEB063,864,5,University Hall,epistemology,SCH-018,Solvar Hent,stone_school,39,47,SCH-011,Havro Molt,stone_school,44,58,3,162,victory_a,decisive,3,0,0.3,0,11,2.1,Clear victory
+DEB062,864,10,Senate Chamber,cosmology,SCH-010,Lunna Gresk,pebble_school,26,33,SCH-011,Havro Molt,stone_school,44,58,5,108,victory_b,narrow,2,3,0.32,0,18,4.4,Closely contested; Pebble School vs Stone School
+DEB065,864,10,Senator Huilof Estate,ethics,SCH-006,Fibon Arrel,pebble_school,54,35,SCH-007,Eulr Voss,water_school,74,48,3,75,victory_b,narrow,1,2,0.55,1,20,1.2,Closely contested; Pebble School vs Water School
+DEB064,864,11,University Hall,metaphysics,SCH-018,Solvar Hent,stone_school,39,47,SCH-008,Koro Sandis,stone_school,34,39,5,158,victory_b,decisive,1,4,0.3,0,17,2.4,Clear victory
+DEB066,864,11,Public Square,natural_philosophy,SCH-010,Lunna Gresk,pebble_school,26,33,SCH-007,Eulr Voss,water_school,74,48,3,345,victory_a,narrow,2,1,0.77,0,21,2.7,Closely contested; Pebble School vs Water School
+DEB069,865,8,Grand Archive Hall,ethics,SCH-006,Fibon Arrel,pebble_school,55,35,SCH-010,Lunna Gresk,pebble_school,27,33,5,477,victory_a,narrow,3,2,0.53,0,15,2.8,Closely contested
+DEB070,865,8,Senate Chamber,natural_philosophy,SCH-008,Koro Sandis,stone_school,35,39,SCH-018,Solvar Hent,stone_school,40,47,5,111,victory_b,narrow,2,3,0.65,2,22,3.2,Closely contested
+DEB068,865,9,Grand Archive Hall,natural_philosophy,SCH-014,Grent Tolliver,stone_school,30,41,SCH-011,Havro Molt,stone_school,45,58,5,449,victory_b,decisive,1,4,0.69,0,11,4.4,Clear victory
+DEB067,865,11,University Hall,politics,SCH-010,Lunna Gresk,pebble_school,27,33,SCH-008,Koro Sandis,stone_school,35,39,5,296,victory_b,narrow,2,3,0.69,1,11,4.4,Closely contested; Pebble School vs Stone School; Senate observers present
+DEB071,865,11,Senate Chamber,aesthetics,SCH-008,Koro Sandis,stone_school,35,39,SCH-011,Havro Molt,stone_school,45,58,5,129,victory_b,decisive,0,5,0.07,0,39,3.8,Clear victory
+DEB072,866,8,Grand Archive Hall,metaphysics,SCH-008,Koro Sandis,stone_school,36,39,SCH-006,Fibon Arrel,pebble_school,56,35,7,163,victory_a,decisive,6,1,0.17,1,10,4.7,Clear victory; Stone School vs Pebble School
+DEB079,867,3,Senate Chamber,history,SCH-014,Grent Tolliver,stone_school,32,41,SCH-008,Koro Sandis,stone_school,37,39,7,72,victory_a,decisive,6,1,0.36,0,13,3.8,Clear victory
+DEB073,867,6,Senate Chamber,metaphysics,SCH-008,Koro Sandis,stone_school,37,39,SCH-002,Yasho Krent,water_school,25,52,7,159,victory_a,decisive,5,2,0.48,0,22,7.2,Clear victory; Stone School vs Water School
+DEB077,867,8,Senator Huilof Estate,metaphysics,SCH-006,Fibon Arrel,pebble_school,57,35,SCH-010,Lunna Gresk,pebble_school,29,33,7,36,victory_a,narrow,4,3,0.59,1,23,3.4,Closely contested
+DEB078,867,10,Archivist Shop,politics,SCH-002,Yasho Krent,water_school,25,52,SCH-014,Grent Tolliver,stone_school,32,41,3,27,victory_b,narrow,1,2,0.61,0,22,6.7,Closely contested; Water School vs Stone School; Senate observers present
+DEB080,867,10,Senator Huilof Estate,cosmology,SCH-014,Grent Tolliver,stone_school,32,41,SCH-010,Lunna Gresk,pebble_school,29,33,5,56,victory_a,decisive,4,1,0.56,0,12,5.2,Clear victory; Stone School vs Pebble School
+DEB074,867,11,Senator Huilof Estate,ethics,SCH-014,Grent Tolliver,stone_school,32,41,SCH-008,Koro Sandis,stone_school,37,39,3,51,victory_a,decisive,3,0,0.54,0,13,4.4,Clear victory
+DEB075,867,12,Senate Chamber,metaphysics,SCH-011,Havro Molt,stone_school,47,58,SCH-018,Solvar Hent,stone_school,42,47,5,70,victory_b,decisive,1,4,0.11,0,11,3.5,Clear victory
+DEB076,867,12,University Hall,cosmology,SCH-007,Eulr Voss,water_school,77,48,SCH-006,Fibon Arrel,pebble_school,57,35,5,253,victory_a,decisive,4,1,0.42,1,16,6.1,Clear victory; Water School vs Pebble School
+DEB081,868,2,Senator Huilof Estate,history,SCH-014,Grent Tolliver,stone_school,33,41,SCH-018,Solvar Hent,stone_school,43,47,5,71,victory_a,decisive,4,1,0.5,1,14,1.8,Clear victory
+DEB082,868,5,University Hall,ethics,SCH-018,Solvar Hent,stone_school,43,47,SCH-002,Yasho Krent,water_school,26,52,5,300,victory_b,decisive,0,5,0.3,0,27,3.0,Clear victory; Stone School vs Water School
+DEB084,869,2,Public Square,natural_philosophy,SCH-014,Grent Tolliver,stone_school,34,41,SCH-006,Fibon Arrel,pebble_school,59,35,5,660,victory_a,narrow,3,2,0.34,0,14,2.6,Closely contested; Stone School vs Pebble School
+DEB086,869,2,Grand Archive Hall,politics,SCH-002,Yasho Krent,water_school,27,52,SCH-008,Koro Sandis,stone_school,39,39,3,408,victory_a,narrow,2,1,0.65,1,12,5.1,Closely contested; Water School vs Stone School; Senate observers present
+DEB083,869,5,University Hall,epistemology,SCH-010,Lunna Gresk,pebble_school,31,33,SCH-002,Yasho Krent,water_school,27,52,5,199,victory_b,decisive,1,4,0.06,0,8,5.2,Clear victory; Pebble School vs Water School
+DEB091,869,6,Grand Archive Hall,ethics,SCH-007,Eulr Voss,water_school,79,48,SCH-014,Grent Tolliver,stone_school,34,41,5,322,victory_a,decisive,4,1,0.63,0,20,3.1,Clear victory; Water School vs Stone School
+DEB088,869,7,Public Square,aesthetics,SCH-002,Yasho Krent,water_school,27,52,SCH-011,Havro Molt,stone_school,49,58,7,884,victory_b,narrow,3,4,0.58,0,29,3.3,Closely contested; Water School vs Stone School
+DEB085,869,8,University Hall,politics,SCH-010,Lunna Gresk,pebble_school,31,33,SCH-011,Havro Molt,stone_school,49,58,5,228,victory_b,decisive,1,4,0.41,0,14,2.4,Clear victory; Pebble School vs Stone School; Senate observers present
+DEB089,869,10,University Hall,natural_philosophy,SCH-002,Yasho Krent,water_school,27,52,SCH-007,Eulr Voss,water_school,79,48,7,194,victory_a,decisive,6,1,0.23,1,15,4.8,Clear victory
+DEB090,869,10,University Hall,aesthetics,SCH-011,Havro Molt,stone_school,49,58,SCH-002,Yasho Krent,water_school,27,52,5,113,victory_a,decisive,4,1,0.34,0,17,5.3,Clear victory; Stone School vs Water School
+DEB087,869,11,Archivist Shop,history,SCH-002,Yasho Krent,water_school,27,52,SCH-011,Havro Molt,stone_school,49,58,5,30,victory_b,decisive,0,5,0.33,0,10,2.7,Clear victory; Water School vs Stone School
+DEB093,870,4,Public Square,ethics,SCH-007,Eulr Voss,water_school,80,48,SCH-014,Grent Tolliver,stone_school,35,41,5,1000,victory_b,decisive,0,5,0.1,0,25,4.0,Clear victory; Water School vs Stone School
+DEB092,870,5,Senate Chamber,ethics,SCH-011,Havro Molt,stone_school,50,58,SCH-012,Pilar Senn,water_school,25,27,5,166,victory_a,narrow,3,2,0.59,0,13,4.1,Closely contested; Stone School vs Water School
+DEB094,870,8,Grand Archive Hall,natural_philosophy,SCH-010,Lunna Gresk,pebble_school,32,33,SCH-002,Yasho Krent,water_school,28,52,3,352,victory_a,narrow,2,1,0.79,0,24,4.2,Closely contested; Pebble School vs Water School
+DEB095,870,10,Archivist Shop,politics,SCH-010,Lunna Gresk,pebble_school,32,33,SCH-011,Havro Molt,stone_school,50,58,5,25,victory_b,decisive,1,4,0.64,0,26,3.1,Clear victory; Pebble School vs Stone School; Senate observers present
+DEB102,871,1,Grand Archive Hall,aesthetics,SCH-012,Pilar Senn,water_school,26,27,SCH-014,Grent Tolliver,stone_school,36,41,5,332,victory_b,decisive,1,4,0.34,0,17,3.5,Clear victory; Water School vs Stone School
+DEB103,871,3,Archivist Shop,metaphysics,SCH-018,Solvar Hent,stone_school,46,47,SCH-002,Yasho Krent,water_school,29,52,3,25,victory_a,narrow,2,1,0.68,1,11,4.8,Closely contested; Stone School vs Water School
+DEB105,871,3,Senator Huilof Estate,history,SCH-008,Koro Sandis,stone_school,41,39,SCH-002,Yasho Krent,water_school,29,52,5,33,victory_a,decisive,4,1,0.31,0,17,1.4,Clear victory; Stone School vs Water School
+DEB099,871,4,University Hall,cosmology,SCH-012,Pilar Senn,water_school,26,27,SCH-006,Fibon Arrel,pebble_school,61,35,3,219,victory_b,narrow,1,2,0.49,0,10,4.3,Closely contested; Water School vs Pebble School
+DEB104,871,5,Senate Chamber,history,SCH-006,Fibon Arrel,pebble_school,61,35,SCH-012,Pilar Senn,water_school,26,27,3,122,victory_b,narrow,1,2,0.27,0,5,4.1,Closely contested; Pebble School vs Water School
+DEB098,871,6,Grand Archive Hall,history,SCH-014,Grent Tolliver,stone_school,36,41,SCH-018,Solvar Hent,stone_school,46,47,7,171,victory_b,narrow,3,4,0.56,0,8,3.4,Closely contested
+DEB097,871,8,University Hall,cosmology,SCH-010,Lunna Gresk,pebble_school,33,33,SCH-008,Koro Sandis,stone_school,41,39,5,176,victory_b,decisive,1,4,0.05,0,29,4.3,Clear victory; Pebble School vs Stone School
+DEB100,871,8,Senator Huilof Estate,politics,SCH-008,Koro Sandis,stone_school,41,39,SCH-018,Solvar Hent,stone_school,46,47,3,80,victory_b,narrow,1,2,0.68,1,11,2.5,Closely contested; Senate observers present
+DEB101,871,10,Senate Chamber,politics,SCH-008,Koro Sandis,stone_school,41,39,SCH-010,Lunna Gresk,pebble_school,33,33,3,189,victory_a,decisive,3,0,0.28,0,45,1.6,Clear victory; Stone School vs Pebble School; Senate observers present
+DEB096,871,11,Senate Chamber,history,SCH-006,Fibon Arrel,pebble_school,61,35,SCH-010,Lunna Gresk,pebble_school,33,33,5,105,victory_a,decisive,4,1,0.47,0,14,3.2,Clear victory
+DEB108,872,1,Grand Archive Hall,history,SCH-001,Grigsu Haldo,stone_school,25,45,SCH-018,Solvar Hent,stone_school,47,47,5,174,victory_b,narrow,2,3,0.45,0,17,3.8,Closely contested
+DEB107,872,2,Senator Huilof Estate,epistemology,SCH-012,Pilar Senn,water_school,27,27,SCH-011,Havro Molt,stone_school,52,58,5,66,victory_b,narrow,2,3,0.5,2,13,4.2,Closely contested; Water School vs Stone School
+DEB106,872,7,Public Square,politics,SCH-002,Yasho Krent,water_school,30,52,SCH-018,Solvar Hent,stone_school,47,47,5,423,victory_a,narrow,3,2,0.65,1,9,2.2,Closely contested; Water School vs Stone School; Senate observers present
+DEB109,872,9,Grand Archive Hall,cosmology,SCH-012,Pilar Senn,water_school,27,27,SCH-018,Solvar Hent,stone_school,47,47,5,202,victory_b,decisive,0,5,0.31,0,20,3.6,Clear victory; Water School vs Stone School
+DEB110,872,12,Public Square,ethics,SCH-001,Grigsu Haldo,stone_school,25,45,SCH-011,Havro Molt,stone_school,52,58,5,765,victory_b,narrow,2,3,0.51,1,8,4.8,Closely contested
+DEB112,873,3,Senate Chamber,epistemology,SCH-006,Fibon Arrel,pebble_school,63,35,SCH-008,Koro Sandis,stone_school,43,39,5,62,victory_a,decisive,4,1,0.18,0,9,3.5,Clear victory; Pebble School vs Stone School
+DEB111,873,12,Senator Huilof Estate,history,SCH-011,Havro Molt,stone_school,53,58,SCH-002,Yasho Krent,water_school,31,52,3,40,victory_a,narrow,2,1,0.56,1,40,1.9,Closely contested; Stone School vs Water School
+DEB113,874,4,Senator Huilof Estate,metaphysics,SCH-014,Grent Tolliver,stone_school,39,41,SCH-015,Willa Harkon,water_school,26,29,7,77,victory_a,decisive,5,2,0.13,0,14,4.9,Clear victory; Stone School vs Water School
+DEB115,874,4,University Hall,epistemology,SCH-010,Lunna Gresk,pebble_school,36,33,SCH-001,Grigsu Haldo,stone_school,27,45,5,137,victory_b,narrow,2,3,0.7,0,18,2.1,Closely contested; Pebble School vs Stone School
+DEB116,874,9,Grand Archive Hall,aesthetics,SCH-006,Fibon Arrel,pebble_school,64,35,SCH-008,Koro Sandis,stone_school,44,39,5,374,victory_b,decisive,1,4,0.46,0,8,1.0,Clear victory; Pebble School vs Stone School
+DEB114,874,11,Senator Huilof Estate,aesthetics,SCH-008,Koro Sandis,stone_school,44,39,SCH-015,Willa Harkon,water_school,26,29,5,60,victory_b,decisive,1,4,0.31,0,9,5.4,Clear victory; Stone School vs Water School
+DEB117,874,12,Grand Archive Hall,aesthetics,SCH-008,Koro Sandis,stone_school,44,39,SCH-018,Solvar Hent,stone_school,49,47,3,394,victory_a,narrow,2,1,0.54,0,20,4.6,Closely contested
+DEB118,875,2,Archivist Shop,metaphysics,SCH-010,Lunna Gresk,pebble_school,37,33,SCH-015,Willa Harkon,water_school,27,29,5,23,victory_b,narrow,2,3,0.59,0,10,4.2,Closely contested; Pebble School vs Water School
+DEB122,875,2,Public Square,history,SCH-014,Grent Tolliver,stone_school,40,41,SCH-012,Pilar Senn,water_school,30,27,7,612,victory_a,narrow,4,3,0.45,0,11,3.2,Closely contested; Stone School vs Water School
+DEB121,875,5,Grand Archive Hall,history,SCH-014,Grent Tolliver,stone_school,40,41,SCH-004,Boffa Trent,water_school,26,31,7,303,victory_a,decisive,5,2,0.35,0,15,2.5,Clear victory; Stone School vs Water School
+DEB120,875,6,Public Square,cosmology,SCH-012,Pilar Senn,water_school,30,27,SCH-004,Boffa Trent,water_school,26,31,3,483,victory_a,narrow,2,1,0.19,0,6,5.7,Closely contested
+DEB119,875,10,Senator Huilof Estate,natural_philosophy,SCH-011,Havro Molt,stone_school,55,58,SCH-002,Yasho Krent,water_school,33,52,3,63,victory_a,decisive,3,0,0.52,0,19,5.7,Clear victory; Stone School vs Water School
+DEB123,875,12,Public Square,history,SCH-002,Yasho Krent,water_school,33,52,SCH-015,Willa Harkon,water_school,27,29,7,530,victory_a,decisive,7,0,0.53,0,16,1.0,Clear victory
+DEB124,876,1,Archivist Shop,epistemology,SCH-011,Havro Molt,stone_school,56,58,SCH-015,Willa Harkon,water_school,28,29,3,21,victory_b,decisive,0,3,0.15,0,9,2.1,Clear victory; Stone School vs Water School
+DEB126,876,7,Grand Archive Hall,history,SCH-003,Vagabu Olt,none,25,18,SCH-004,Boffa Trent,water_school,27,31,3,319,victory_b,narrow,1,2,0.49,0,9,2.3,Closely contested
+DEB127,876,7,Grand Archive Hall,epistemology,SCH-003,Vagabu Olt,none,25,18,SCH-012,Pilar Senn,water_school,31,27,5,333,victory_a,narrow,3,2,0.43,0,7,4.5,Closely contested
+DEB125,876,8,Public Square,ethics,SCH-010,Lunna Gresk,pebble_school,38,33,SCH-002,Yasho Krent,water_school,34,52,3,742,victory_b,narrow,1,2,0.45,0,17,3.6,Closely contested; Pebble School vs Water School
+DEB128,876,10,Grand Archive Hall,history,SCH-006,Fibon Arrel,pebble_school,66,35,SCH-001,Grigsu Haldo,stone_school,29,45,5,251,victory_a,narrow,3,2,0.66,1,9,4.2,Closely contested; Pebble School vs Stone School
+DEB129,876,11,University Hall,epistemology,SCH-006,Fibon Arrel,pebble_school,66,35,SCH-015,Willa Harkon,water_school,28,29,5,171,victory_b,decisive,1,4,0.27,0,26,2.4,Clear victory; Pebble School vs Water School
+DEB131,877,1,Grand Archive Hall,aesthetics,SCH-013,Ursi Dent,pebble_school,25,15,SCH-001,Grigsu Haldo,stone_school,30,45,5,308,victory_b,decisive,1,4,0.35,0,17,3.1,Clear victory; Pebble School vs Stone School
+DEB134,877,1,Senate Chamber,politics,SCH-018,Solvar Hent,stone_school,52,47,SCH-012,Pilar Senn,water_school,32,27,7,196,victory_a,narrow,4,3,0.7,0,18,4.5,Closely contested; Stone School vs Water School; Senate observers present
+DEB133,877,3,Senator Huilof Estate,ethics,SCH-015,Willa Harkon,water_school,29,29,SCH-018,Solvar Hent,stone_school,52,47,3,88,victory_b,decisive,0,3,0.3,0,19,2.0,Clear victory; Water School vs Stone School
+DEB132,877,4,University Hall,ethics,SCH-011,Havro Molt,stone_school,57,58,SCH-010,Lunna Gresk,pebble_school,39,33,7,220,victory_a,decisive,6,1,0.35,0,24,3.2,Clear victory; Stone School vs Pebble School
+DEB130,877,12,Public Square,history,SCH-018,Solvar Hent,stone_school,52,47,SCH-001,Grigsu Haldo,stone_school,30,45,3,836,victory_b,narrow,1,2,0.56,0,17,5.6,Closely contested
+DEB139,878,1,Senator Huilof Estate,politics,SCH-014,Grent Tolliver,stone_school,43,41,SCH-013,Ursi Dent,pebble_school,26,15,3,60,victory_a,narrow,2,1,0.8,0,12,4.5,Closely contested; Stone School vs Pebble School; Senate observers present
+DEB135,878,3,Senator Huilof Estate,ethics,SCH-015,Willa Harkon,water_school,30,29,SCH-006,Fibon Arrel,pebble_school,68,35,7,37,victory_a,decisive,5,2,0.32,1,16,2.5,Clear victory; Water School vs Pebble School
+DEB138,878,3,Archivist Shop,metaphysics,SCH-012,Pilar Senn,water_school,33,27,SCH-001,Grigsu Haldo,stone_school,31,45,3,27,victory_a,narrow,2,1,0.43,0,4,1.2,Closely contested; Water School vs Stone School
+DEB136,878,4,Senate Chamber,epistemology,SCH-002,Yasho Krent,water_school,36,52,SCH-014,Grent Tolliver,stone_school,43,41,5,67,victory_a,decisive,4,1,0.11,0,30,3.7,Clear victory; Water School vs Stone School
+DEB137,878,12,Grand Archive Hall,aesthetics,SCH-015,Willa Harkon,water_school,30,29,SCH-008,Koro Sandis,stone_school,48,39,3,410,victory_b,narrow,1,2,0.48,0,30,3.1,Closely contested; Water School vs Stone School
+DEB140,879,3,Senate Chamber,metaphysics,SCH-002,Yasho Krent,water_school,37,52,SCH-004,Boffa Trent,water_school,30,31,5,147,victory_a,decisive,4,1,0.42,0,27,2.0,Clear victory
+DEB141,879,12,Public Square,metaphysics,SCH-014,Grent Tolliver,stone_school,44,41,SCH-003,Vagabu Olt,none,28,18,5,521,victory_b,narrow,2,3,0.35,0,12,2.5,Closely contested
+DEB144,880,1,University Hall,natural_philosophy,SCH-014,Grent Tolliver,stone_school,45,41,SCH-011,Havro Molt,stone_school,60,58,5,151,victory_b,narrow,2,3,0.39,0,7,5.4,Closely contested
+DEB142,880,2,Senator Huilof Estate,epistemology,SCH-012,Pilar Senn,water_school,35,27,SCH-010,Lunna Gresk,pebble_school,42,33,3,30,victory_b,narrow,1,2,0.4,0,5,4.6,Closely contested; Water School vs Pebble School
+DEB145,880,4,Senate Chamber,ethics,SCH-008,Koro Sandis,stone_school,50,39,SCH-011,Havro Molt,stone_school,60,58,3,200,victory_b,decisive,0,3,0.18,0,9,3.4,Clear victory
+DEB143,880,7,University Hall,politics,SCH-018,Solvar Hent,stone_school,55,47,SCH-008,Koro Sandis,stone_school,50,39,5,285,victory_b,decisive,1,4,0.3,0,36,4.7,Clear victory; Senate observers present
+DEB146,880,10,Senate Chamber,history,SCH-010,Lunna Gresk,pebble_school,42,33,SCH-014,Grent Tolliver,stone_school,45,41,3,63,victory_b,narrow,1,2,0.56,0,21,2.8,Closely contested; Pebble School vs Stone School
+DEB152,881,3,Grand Archive Hall,natural_philosophy,SCH-008,Koro Sandis,stone_school,51,39,SCH-013,Ursi Dent,pebble_school,29,15,5,238,victory_b,narrow,2,3,0.36,1,20,3.2,Closely contested; Stone School vs Pebble School
+DEB149,881,4,Senate Chamber,ethics,SCH-005,Mink Pavar,water_school,26,28,SCH-004,Boffa Trent,water_school,32,31,5,156,victory_b,decisive,0,5,0.61,0,8,2.3,Clear victory
+DEB148,881,6,Senate Chamber,epistemology,SCH-008,Koro Sandis,stone_school,51,39,SCH-015,Willa Harkon,water_school,33,29,3,176,victory_a,decisive,3,0,0.4,0,5,3.4,Clear victory; Stone School vs Water School
+DEB150,881,6,Public Square,aesthetics,SCH-001,Grigsu Haldo,stone_school,34,45,SCH-010,Lunna Gresk,pebble_school,43,33,5,782,victory_a,decisive,4,1,0.2,0,12,4.8,Clear victory; Stone School vs Pebble School
+DEB151,881,7,Senator Huilof Estate,ethics,SCH-002,Yasho Krent,water_school,39,52,SCH-018,Solvar Hent,stone_school,56,47,5,42,victory_b,narrow,2,3,0.6,0,15,2.7,Closely contested; Water School vs Stone School
+DEB147,881,11,Senator Huilof Estate,politics,SCH-006,Fibon Arrel,pebble_school,71,35,SCH-013,Ursi Dent,pebble_school,29,15,5,58,victory_a,narrow,3,2,0.82,0,16,4.6,Closely contested; Senate observers present
+DEB154,882,2,Senate Chamber,epistemology,SCH-004,Boffa Trent,water_school,33,31,SCH-003,Vagabu Olt,none,31,18,7,129,victory_b,narrow,3,4,0.44,0,14,1.9,Closely contested
+DEB155,882,2,Grand Archive Hall,aesthetics,SCH-005,Mink Pavar,water_school,27,28,SCH-013,Ursi Dent,pebble_school,30,15,5,339,victory_a,narrow,3,2,0.38,1,7,5.1,Closely contested; Water School vs Pebble School
+DEB158,882,3,Senator Huilof Estate,natural_philosophy,SCH-010,Lunna Gresk,pebble_school,44,33,SCH-003,Vagabu Olt,none,31,18,3,37,victory_a,narrow,2,1,0.1,0,12,3.5,Closely contested
+DEB156,882,5,Grand Archive Hall,epistemology,SCH-010,Lunna Gresk,pebble_school,44,33,SCH-002,Yasho Krent,water_school,40,52,5,150,victory_b,narrow,2,3,0.55,0,10,5.6,Closely contested; Pebble School vs Water School
+DEB157,882,6,Senator Huilof Estate,politics,SCH-003,Vagabu Olt,none,31,18,SCH-011,Havro Molt,stone_school,62,58,5,57,victory_b,narrow,2,3,0.85,0,12,4.4,Closely contested; Senate observers present
+DEB153,882,9,University Hall,epistemology,SCH-014,Grent Tolliver,stone_school,47,41,SCH-003,Vagabu Olt,none,31,18,7,234,victory_a,decisive,7,0,0.71,1,13,1.0,Clear victory
+DEB162,883,2,University Hall,epistemology,SCH-001,Grigsu Haldo,stone_school,36,45,SCH-003,Vagabu Olt,none,32,18,5,245,victory_a,narrow,3,2,0.49,0,15,3.8,Closely contested
+DEB164,883,2,Senator Huilof Estate,politics,SCH-006,Fibon Arrel,pebble_school,73,35,SCH-005,Mink Pavar,water_school,28,28,3,36,victory_b,narrow,1,2,0.57,0,9,1.9,Closely contested; Pebble School vs Water School; Senate observers present
+DEB165,883,2,Senate Chamber,cosmology,SCH-014,Grent Tolliver,stone_school,48,41,SCH-018,Solvar Hent,stone_school,58,47,7,174,victory_a,decisive,7,0,0.08,0,15,2.5,Clear victory
+DEB167,883,3,Senator Huilof Estate,natural_philosophy,SCH-001,Grigsu Haldo,stone_school,36,45,SCH-004,Boffa Trent,water_school,34,31,3,65,victory_a,narrow,2,1,0.35,0,16,4.6,Closely contested; Stone School vs Water School
+DEB159,883,5,Senate Chamber,epistemology,SCH-004,Boffa Trent,water_school,34,31,SCH-010,Lunna Gresk,pebble_school,45,33,5,128,victory_b,narrow,2,3,0.8,1,27,3.8,Closely contested; Water School vs Pebble School
+DEB160,883,7,University Hall,politics,SCH-013,Ursi Dent,pebble_school,31,15,SCH-018,Solvar Hent,stone_school,58,47,5,120,victory_b,decisive,1,4,0.41,0,10,2.6,Clear victory; Pebble School vs Stone School; Senate observers present
+DEB161,883,10,Senator Huilof Estate,epistemology,SCH-002,Yasho Krent,water_school,41,52,SCH-006,Fibon Arrel,pebble_school,73,35,3,58,victory_a,decisive,3,0,0.39,0,8,3.3,Clear victory; Water School vs Pebble School
+DEB166,883,10,Senator Huilof Estate,politics,SCH-010,Lunna Gresk,pebble_school,45,33,SCH-006,Fibon Arrel,pebble_school,73,35,3,72,victory_b,decisive,0,3,0.5,0,38,1.2,Clear victory; Senate observers present
+DEB163,883,12,University Hall,ethics,SCH-015,Willa Harkon,water_school,35,29,SCH-005,Mink Pavar,water_school,28,28,3,153,victory_a,narrow,2,1,0.71,1,17,3.3,Closely contested
+DEB170,884,1,Archivist Shop,history,SCH-005,Mink Pavar,water_school,29,28,SCH-002,Yasho Krent,water_school,42,52,5,26,victory_a,narrow,3,2,0.65,1,25,4.9,Closely contested
+DEB172,884,3,Senator Huilof Estate,metaphysics,SCH-008,Koro Sandis,stone_school,54,39,SCH-011,Havro Molt,stone_school,64,58,5,62,victory_b,decisive,1,4,0.2,0,18,3.8,Clear victory
+DEB173,884,4,Public Square,politics,SCH-004,Boffa Trent,water_school,35,31,SCH-013,Ursi Dent,pebble_school,32,15,5,397,victory_b,decisive,1,4,0.46,0,6,5.2,Clear victory; Water School vs Pebble School; Senate observers present
+DEB168,884,9,University Hall,politics,SCH-012,Pilar Senn,water_school,39,27,SCH-003,Vagabu Olt,none,33,18,5,118,victory_b,decisive,1,4,0.24,0,18,1.8,Clear victory; Senate observers present
+DEB169,884,9,Senator Huilof Estate,history,SCH-004,Boffa Trent,water_school,35,31,SCH-011,Havro Molt,stone_school,64,58,3,75,victory_b,decisive,0,3,0.32,0,17,1.0,Clear victory; Water School vs Stone School
+DEB171,884,9,Archivist Shop,cosmology,SCH-015,Willa Harkon,water_school,36,29,SCH-010,Lunna Gresk,pebble_school,46,33,5,43,victory_b,decisive,0,5,0.29,0,9,5.7,Clear victory; Water School vs Pebble School
+DEB174,884,9,Senate Chamber,politics,SCH-008,Koro Sandis,stone_school,54,39,SCH-004,Boffa Trent,water_school,35,31,7,184,victory_a,narrow,4,3,0.65,1,18,3.2,Closely contested; Stone School vs Water School; Senate observers present
+DEB175,885,10,Senate Chamber,ethics,SCH-008,Koro Sandis,stone_school,55,39,SCH-014,Grent Tolliver,stone_school,50,41,5,146,victory_a,narrow,3,2,0.8,1,18,1.9,Closely contested
+DEB176,885,11,Public Square,epistemology,SCH-001,Grigsu Haldo,stone_school,38,45,SCH-011,Havro Molt,stone_school,65,58,7,450,victory_a,narrow,4,3,0.65,0,24,1.2,Closely contested
+DEB180,886,1,Archivist Shop,natural_philosophy,SCH-011,Havro Molt,stone_school,66,58,SCH-003,Vagabu Olt,none,35,18,5,22,victory_a,narrow,3,2,0.76,1,11,4.8,Closely contested
+DEB179,886,2,Senator Huilof Estate,ethics,SCH-018,Solvar Hent,stone_school,61,47,SCH-010,Lunna Gresk,pebble_school,48,33,3,92,victory_a,narrow,2,1,0.23,1,25,2.4,Closely contested; Stone School vs Pebble School
+DEB178,886,5,Public Square,aesthetics,SCH-005,Mink Pavar,water_school,31,28,SCH-002,Yasho Krent,water_school,44,52,3,419,victory_b,decisive,0,3,0.39,0,10,2.2,Clear victory
+DEB182,886,5,Senate Chamber,cosmology,SCH-006,Fibon Arrel,pebble_school,76,35,SCH-003,Vagabu Olt,none,35,18,7,154,victory_b,decisive,1,6,0.52,0,17,3.1,Clear victory
+DEB177,886,6,Senate Chamber,aesthetics,SCH-005,Mink Pavar,water_school,31,28,SCH-015,Willa Harkon,water_school,38,29,5,148,victory_a,narrow,3,2,0.33,0,19,3.0,Closely contested
+DEB183,886,6,University Hall,epistemology,SCH-011,Havro Molt,stone_school,66,58,SCH-013,Ursi Dent,pebble_school,34,15,3,172,victory_a,decisive,3,0,0.2,0,32,2.8,Clear victory; Stone School vs Pebble School
+DEB181,886,11,Grand Archive Hall,metaphysics,SCH-005,Mink Pavar,water_school,31,28,SCH-002,Yasho Krent,water_school,44,52,3,197,victory_b,decisive,0,3,0.14,0,10,4.0,Clear victory
+DEB185,887,2,Public Square,natural_philosophy,SCH-018,Solvar Hent,stone_school,62,47,SCH-004,Boffa Trent,water_school,38,31,5,551,victory_a,narrow,3,2,0.39,0,9,4.8,Closely contested; Stone School vs Water School
+DEB184,887,3,Senator Huilof Estate,cosmology,SCH-001,Grigsu Haldo,stone_school,40,45,SCH-008,Koro Sandis,stone_school,57,39,7,54,victory_a,narrow,4,3,0.55,0,11,4.5,Closely contested
+DEB186,887,9,University Hall,aesthetics,SCH-005,Mink Pavar,water_school,32,28,SCH-008,Koro Sandis,stone_school,57,39,3,243,victory_a,decisive,3,0,0.45,0,12,4.9,Clear victory; Water School vs Stone School
+DEB187,887,9,Grand Archive Hall,ethics,SCH-015,Willa Harkon,water_school,39,29,SCH-003,Vagabu Olt,none,36,18,3,306,victory_b,narrow,1,2,0.57,0,20,5.4,Closely contested
+DEB189,887,9,Archivist Shop,politics,SCH-010,Lunna Gresk,pebble_school,49,33,SCH-009,Tova Melk,stone_school,27,22,5,43,victory_b,decisive,1,4,0.3,0,11,1.4,Clear victory; Pebble School vs Stone School; Senate observers present
+DEB188,887,11,University Hall,cosmology,SCH-003,Vagabu Olt,none,36,18,SCH-011,Havro Molt,stone_school,67,58,5,234,victory_b,decisive,1,4,0.31,0,10,4.3,Clear victory
+DEB190,887,12,University Hall,ethics,SCH-005,Mink Pavar,water_school,32,28,SCH-010,Lunna Gresk,pebble_school,49,33,7,244,victory_b,decisive,1,6,0.27,0,17,1.4,Clear victory; Water School vs Pebble School
+DEB193,888,3,Grand Archive Hall,ethics,SCH-005,Mink Pavar,water_school,33,28,SCH-009,Tova Melk,stone_school,28,22,5,357,victory_a,decisive,4,1,0.57,0,21,3.0,Clear victory; Water School vs Stone School
+DEB196,888,4,Public Square,history,SCH-018,Solvar Hent,stone_school,63,47,SCH-002,Yasho Krent,water_school,46,52,7,579,victory_a,decisive,5,2,0.27,0,15,2.4,Clear victory; Stone School vs Water School
+DEB191,888,5,Grand Archive Hall,natural_philosophy,SCH-018,Solvar Hent,stone_school,63,47,SCH-002,Yasho Krent,water_school,46,52,5,278,victory_a,narrow,3,2,0.29,0,12,3.9,Closely contested; Stone School vs Water School
+DEB192,888,8,Grand Archive Hall,ethics,SCH-002,Yasho Krent,water_school,46,52,SCH-013,Ursi Dent,pebble_school,36,15,7,325,victory_b,decisive,2,5,0.57,0,5,1.2,Clear victory; Water School vs Pebble School
+DEB194,888,8,Senate Chamber,cosmology,SCH-004,Boffa Trent,water_school,39,31,SCH-016,Ferris Olt,none,26,8,5,114,victory_a,decisive,5,0,0.37,0,16,5.5,Clear victory
+DEB195,888,11,Senate Chamber,politics,SCH-018,Solvar Hent,stone_school,63,47,SCH-011,Havro Molt,stone_school,68,58,3,177,victory_a,narrow,2,1,0.47,0,18,3.3,Closely contested; Senate observers present
+DEB197,889,4,Grand Archive Hall,cosmology,SCH-008,Koro Sandis,stone_school,59,39,SCH-018,Solvar Hent,stone_school,64,47,3,219,victory_b,narrow,1,2,0.41,0,13,4.0,Closely contested
+DEB198,889,6,Grand Archive Hall,history,SCH-010,Lunna Gresk,pebble_school,51,33,SCH-001,Grigsu Haldo,stone_school,42,45,7,268,victory_b,decisive,1,6,0.45,0,22,1.0,Clear victory; Pebble School vs Stone School
+DEB199,890,7,Public Square,metaphysics,SCH-003,Vagabu Olt,none,39,18,SCH-006,Fibon Arrel,pebble_school,80,35,7,544,victory_a,narrow,4,3,0.21,0,14,1.6,Closely contested
+DEB200,890,9,Senate Chamber,aesthetics,SCH-012,Pilar Senn,water_school,45,27,SCH-016,Ferris Olt,none,28,8,5,168,victory_a,decisive,4,1,0.58,0,9,4.7,Clear victory
+DEB201,890,10,Senate Chamber,aesthetics,SCH-011,Havro Molt,stone_school,70,58,SCH-009,Tova Melk,stone_school,30,22,5,132,victory_a,narrow,3,2,0.42,0,7,3.9,Closely contested
+DEB204,891,1,Senator Huilof Estate,epistemology,SCH-004,Boffa Trent,water_school,42,31,SCH-003,Vagabu Olt,none,40,18,3,46,victory_b,decisive,0,3,0.2,0,14,2.9,Clear victory
+DEB208,891,5,Archivist Shop,metaphysics,SCH-018,Solvar Hent,stone_school,66,47,SCH-003,Vagabu Olt,none,40,18,3,20,victory_a,decisive,3,0,0.32,0,19,3.8,Clear victory
+DEB203,891,7,Senate Chamber,history,SCH-010,Lunna Gresk,pebble_school,53,33,SCH-012,Pilar Senn,water_school,46,27,5,152,victory_b,narrow,2,3,0.57,0,15,2.5,Closely contested; Pebble School vs Water School
+DEB206,891,8,Grand Archive Hall,history,SCH-011,Havro Molt,stone_school,71,58,SCH-003,Vagabu Olt,none,40,18,3,328,victory_a,narrow,2,1,0.05,0,27,4.7,Closely contested
+DEB207,891,8,Senate Chamber,history,SCH-014,Grent Tolliver,stone_school,56,41,SCH-008,Koro Sandis,stone_school,61,39,5,150,victory_b,decisive,0,5,0.14,0,17,3.6,Clear victory
+DEB205,891,11,Senator Huilof Estate,politics,SCH-018,Solvar Hent,stone_school,66,47,SCH-011,Havro Molt,stone_school,71,58,7,36,victory_a,narrow,4,3,0.76,2,10,1.6,Closely contested; Senate observers present
+DEB202,891,12,University Hall,ethics,SCH-004,Boffa Trent,water_school,42,31,SCH-003,Vagabu Olt,none,40,18,3,151,victory_b,narrow,1,2,0.28,1,17,9.4,Closely contested
+DEB209,891,12,Archivist Shop,aesthetics,SCH-012,Pilar Senn,water_school,46,27,SCH-005,Mink Pavar,water_school,36,28,3,20,victory_b,narrow,1,2,0.46,0,15,3.9,Closely contested
+DEB216,892,6,Senator Huilof Estate,history,SCH-018,Solvar Hent,stone_school,67,47,SCH-014,Grent Tolliver,stone_school,57,41,3,83,victory_b,decisive,0,3,0.0,0,18,1.9,Clear victory
+DEB215,892,7,Grand Archive Hall,metaphysics,SCH-001,Grigsu Haldo,stone_school,45,45,SCH-014,Grent Tolliver,stone_school,57,41,5,247,victory_a,narrow,3,2,0.4,1,9,3.2,Closely contested
+DEB211,892,8,Grand Archive Hall,history,SCH-009,Tova Melk,stone_school,32,22,SCH-010,Lunna Gresk,pebble_school,54,33,7,265,victory_b,narrow,3,4,0.44,0,15,4.2,Closely contested; Stone School vs Pebble School
+DEB212,892,9,Senator Huilof Estate,history,SCH-010,Lunna Gresk,pebble_school,54,33,SCH-011,Havro Molt,stone_school,72,58,5,36,victory_b,narrow,2,3,0.52,0,22,1.0,Closely contested; Pebble School vs Stone School
+DEB217,892,9,Senate Chamber,ethics,SCH-010,Lunna Gresk,pebble_school,54,33,SCH-013,Ursi Dent,pebble_school,40,15,7,200,victory_b,decisive,2,5,0.27,0,10,1.4,Clear victory
+DEB213,892,10,Grand Archive Hall,history,SCH-015,Willa Harkon,water_school,44,29,SCH-011,Havro Molt,stone_school,72,58,3,316,victory_b,narrow,1,2,0.42,0,13,2.6,Closely contested; Water School vs Stone School
+DEB214,892,11,Archivist Shop,natural_philosophy,SCH-016,Ferris Olt,none,30,8,SCH-008,Koro Sandis,stone_school,62,39,3,38,victory_b,narrow,1,2,0.18,0,10,3.1,Closely contested
+DEB210,892,12,Grand Archive Hall,aesthetics,SCH-015,Willa Harkon,water_school,44,29,SCH-003,Vagabu Olt,none,41,18,5,225,victory_b,narrow,2,3,0.65,1,4,3.0,Closely contested
+DEB219,893,5,Archivist Shop,history,SCH-011,Havro Molt,stone_school,73,58,SCH-003,Vagabu Olt,none,42,18,5,30,victory_b,narrow,2,3,0.32,0,13,3.2,Closely contested
+DEB218,893,6,Archivist Shop,history,SCH-016,Ferris Olt,none,31,8,SCH-001,Grigsu Haldo,stone_school,46,45,5,31,victory_b,narrow,2,3,0.41,1,10,2.4,Closely contested
+DEB223,894,2,Senate Chamber,politics,SCH-010,Lunna Gresk,pebble_school,56,33,SCH-016,Ferris Olt,none,32,8,5,104,victory_b,narrow,2,3,0.71,1,14,2.0,Closely contested; Senate observers present
+DEB220,894,4,Senate Chamber,epistemology,SCH-013,Ursi Dent,pebble_school,42,15,SCH-005,Mink Pavar,water_school,39,28,7,154,victory_b,decisive,1,6,0.13,0,15,6.6,Clear victory; Pebble School vs Water School
+DEB221,894,6,Public Square,metaphysics,SCH-005,Mink Pavar,water_school,39,28,SCH-001,Grigsu Haldo,stone_school,47,45,5,682,victory_b,decisive,1,4,0.0,0,47,3.5,Clear victory; Water School vs Stone School
+DEB222,894,7,Senator Huilof Estate,politics,SCH-011,Havro Molt,stone_school,74,58,SCH-014,Grent Tolliver,stone_school,59,41,3,82,victory_a,narrow,2,1,0.7,0,15,3.1,Closely contested; Senate observers present
+DEB226,895,1,Public Square,cosmology,SCH-010,Lunna Gresk,pebble_school,57,33,SCH-012,Pilar Senn,water_school,50,27,5,370,victory_b,decisive,0,5,0.19,0,19,7.6,Clear victory; Pebble School vs Water School
+DEB224,895,2,Archivist Shop,epistemology,SCH-008,Koro Sandis,stone_school,65,39,SCH-005,Mink Pavar,water_school,40,28,3,34,victory_b,narrow,1,2,0.64,0,6,5.1,Closely contested; Stone School vs Water School
+DEB227,895,6,Senator Huilof Estate,cosmology,SCH-015,Willa Harkon,water_school,47,29,SCH-012,Pilar Senn,water_school,50,27,5,35,victory_b,decisive,1,4,0.24,0,25,3.4,Clear victory
+DEB225,895,10,Senate Chamber,cosmology,SCH-012,Pilar Senn,water_school,50,27,SCH-003,Vagabu Olt,none,44,18,5,69,victory_a,decisive,4,1,0.38,0,13,3.2,Clear victory
+DEB229,896,3,Grand Archive Hall,ethics,SCH-016,Ferris Olt,none,34,8,SCH-005,Mink Pavar,water_school,41,28,7,388,victory_b,decisive,2,5,0.6,0,16,2.1,Clear victory
+DEB228,896,4,Grand Archive Hall,politics,SCH-013,Ursi Dent,pebble_school,44,15,SCH-010,Lunna Gresk,pebble_school,58,33,5,368,victory_b,decisive,1,4,0.24,0,21,4.2,Clear victory; Senate observers present
+DEB231,896,9,University Hall,metaphysics,SCH-002,Yasho Krent,water_school,54,52,SCH-011,Havro Molt,stone_school,76,58,5,159,victory_a,narrow,3,2,0.79,0,21,3.7,Closely contested; Water School vs Stone School
+DEB232,896,9,Grand Archive Hall,natural_philosophy,SCH-003,Vagabu Olt,none,45,18,SCH-013,Ursi Dent,pebble_school,44,15,3,162,victory_b,decisive,0,3,0.26,0,13,1.0,Clear victory
+DEB233,896,11,Senator Huilof Estate,epistemology,SCH-017,Maxa Krent,water_school,26,12,SCH-010,Lunna Gresk,pebble_school,58,33,5,77,victory_b,narrow,2,3,0.6,0,7,5.3,Closely contested; Water School vs Pebble School
+DEB230,896,12,Senate Chamber,metaphysics,SCH-018,Solvar Hent,stone_school,71,47,SCH-017,Maxa Krent,water_school,26,12,5,96,victory_a,narrow,3,2,0.18,0,5,4.9,Closely contested; Stone School vs Water School
+DEB237,897,4,Archivist Shop,natural_philosophy,SCH-002,Yasho Krent,water_school,55,52,SCH-014,Grent Tolliver,stone_school,62,41,3,31,victory_a,decisive,3,0,0.32,1,13,3.2,Clear victory; Water School vs Stone School
+DEB236,897,6,Archivist Shop,aesthetics,SCH-010,Lunna Gresk,pebble_school,59,33,SCH-001,Grigsu Haldo,stone_school,50,45,5,20,victory_b,narrow,2,3,0.13,0,14,3.8,Closely contested; Pebble School vs Stone School
+DEB239,897,9,University Hall,aesthetics,SCH-013,Ursi Dent,pebble_school,45,15,SCH-016,Ferris Olt,none,35,8,5,256,victory_a,narrow,3,2,0.45,1,11,3.6,Closely contested
+DEB234,897,10,Senate Chamber,natural_philosophy,SCH-010,Lunna Gresk,pebble_school,59,33,SCH-002,Yasho Krent,water_school,55,52,5,105,victory_a,narrow,3,2,0.41,0,13,1.3,Closely contested; Pebble School vs Water School
+DEB235,897,11,University Hall,history,SCH-011,Havro Molt,stone_school,77,58,SCH-009,Tova Melk,stone_school,37,22,5,164,victory_b,narrow,2,3,0.59,0,27,6.4,Closely contested
+DEB238,897,12,Senate Chamber,epistemology,SCH-013,Ursi Dent,pebble_school,45,15,SCH-015,Willa Harkon,water_school,49,29,3,140,victory_a,narrow,2,1,0.39,0,10,3.6,Closely contested; Pebble School vs Water School
+DEB240,897,12,Senate Chamber,ethics,SCH-016,Ferris Olt,none,35,8,SCH-005,Mink Pavar,water_school,42,28,5,146,victory_b,narrow,2,3,0.91,1,8,3.7,Closely contested
+DEB241,897,12,Senate Chamber,cosmology,SCH-017,Maxa Krent,water_school,27,12,SCH-012,Pilar Senn,water_school,52,27,5,144,victory_a,narrow,3,2,0.52,0,7,4.4,Closely contested
+DEB243,898,6,Senate Chamber,aesthetics,SCH-018,Solvar Hent,stone_school,73,47,SCH-011,Havro Molt,stone_school,78,58,3,137,victory_b,decisive,0,3,0.03,0,28,1.3,Clear victory
+DEB242,898,8,University Hall,politics,SCH-014,Grent Tolliver,stone_school,63,41,SCH-018,Solvar Hent,stone_school,73,47,3,198,victory_a,narrow,2,1,0.98,0,6,3.5,Closely contested; Senate observers present
+DEB245,899,3,Senate Chamber,cosmology,SCH-003,Vagabu Olt,none,48,18,SCH-008,Koro Sandis,stone_school,69,39,5,98,victory_b,narrow,2,3,0.34,0,37,3.7,Closely contested
+DEB247,899,3,Senate Chamber,ethics,SCH-005,Mink Pavar,water_school,44,28,SCH-016,Ferris Olt,none,37,8,5,200,victory_a,decisive,5,0,0.31,0,51,2.1,Clear victory
+DEB248,899,7,Public Square,natural_philosophy,SCH-015,Willa Harkon,water_school,51,29,SCH-014,Grent Tolliver,stone_school,64,41,3,483,victory_a,decisive,3,0,0.28,0,12,4.5,Clear victory; Water School vs Stone School
+DEB244,899,12,Grand Archive Hall,politics,SCH-014,Grent Tolliver,stone_school,64,41,SCH-017,Maxa Krent,water_school,29,12,3,309,victory_a,narrow,2,1,0.82,0,8,2.1,Closely contested; Stone School vs Water School; Senate observers present
+DEB246,899,12,Grand Archive Hall,metaphysics,SCH-016,Ferris Olt,none,37,8,SCH-008,Koro Sandis,stone_school,69,39,5,322,victory_b,decisive,1,4,0.08,0,25,4.6,Clear victory
+DEB250,900,1,Senate Chamber,history,SCH-001,Grigsu Haldo,stone_school,53,45,SCH-016,Ferris Olt,none,38,8,3,173,victory_a,decisive,3,0,0.19,0,14,3.1,Clear victory
+DEB251,900,1,Senate Chamber,natural_philosophy,SCH-012,Pilar Senn,water_school,55,27,SCH-003,Vagabu Olt,none,49,18,3,139,victory_b,narrow,1,2,0.76,1,17,2.8,Closely contested
+DEB254,900,2,Senator Huilof Estate,ethics,SCH-011,Havro Molt,stone_school,80,58,SCH-013,Ursi Dent,pebble_school,48,15,3,74,victory_b,decisive,0,3,0.53,0,7,3.7,Clear victory; Stone School vs Pebble School
+DEB256,900,5,Senator Huilof Estate,history,SCH-015,Willa Harkon,water_school,52,29,SCH-012,Pilar Senn,water_school,55,27,7,66,victory_b,narrow,3,4,0.5,1,41,1.6,Closely contested
+DEB253,900,6,Archivist Shop,metaphysics,SCH-008,Koro Sandis,stone_school,70,39,SCH-011,Havro Molt,stone_school,80,58,5,20,victory_a,decisive,4,1,0.23,0,17,6.6,Clear victory
+DEB255,900,6,Public Square,natural_philosophy,SCH-005,Mink Pavar,water_school,45,28,SCH-012,Pilar Senn,water_school,55,27,3,492,victory_a,decisive,3,0,0.22,0,15,5.5,Clear victory
+DEB249,900,7,University Hall,cosmology,SCH-016,Ferris Olt,none,38,8,SCH-015,Willa Harkon,water_school,52,29,7,239,victory_b,narrow,3,4,0.55,0,7,5.6,Closely contested
+DEB252,900,10,Senate Chamber,cosmology,SCH-008,Koro Sandis,stone_school,70,39,SCH-011,Havro Molt,stone_school,80,58,5,66,victory_b,decisive,1,4,0.1,0,11,4.3,Clear victory

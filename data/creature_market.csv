@@ -1,0 +1,2001 @@
+sale_id,creature_id,creature_name,category,danger_rating,rarity_rating,condition,year,week,seller_reputation,buyer_type,destination,quantity,price_per_unit,total_price
+SALE-00458,CR004,Swamp Hornet,insect,4,1,partial,1850,1,0.713,scholar,Scholar Study,1,1.0,1.0
+SALE-00992,CR003,Granite Wren,bird,1,2,damaged,1850,1,0.665,archivist,Capital Archives,1,15.8,15.8
+SALE-01083,CR003,Granite Wren,bird,1,2,pristine,1850,1,0.707,archivist,Capital Archives,4,23.94,95.76
+SALE-01584,CR010,Grimslew,mammal,7,7,partial,1850,1,0.759,collector,Senate Zoological,2,55.22,110.44
+SALE-01720,CR012,Tunnel Eel,fish,3,4,damaged,1850,1,0.692,collector,Capital Archives,1,12.67,12.67
+SALE-01935,CR002,Stone Spine Lizard,reptile,5,7,good,1850,1,0.656,display,Capital Display,1,462.44,462.44
+SALE-00817,CR008,Wharver,mammal,8,6,fair,1850,2,0.464,unknown,Unknown,1,161.61,161.61
+SALE-01910,CR012,Tunnel Eel,fish,3,4,damaged,1850,2,0.854,trader,Miasto Market,1,35.66,35.66
+SALE-01913,CR001,Leatherback Burrower,bird,3,4,damaged,1850,2,0.744,unknown,Miasto Market,1,13.95,13.95
+SALE-01986,CR008,Wharver,mammal,8,6,pristine,1850,2,0.92,scholar,Scholar Study,1,590.84,590.84
+SALE-00041,CR013,Quarry Toad,amphibian,2,3,pristine,1850,3,0.686,scholar,Scholar Study,2,21.27,42.54
+SALE-00400,CR006,Glass Beetle,insect,2,6,damaged,1850,3,0.359,display,Capital Display,1,36.46,36.46
+SALE-00775,CR005,Marsh Stalker,reptile,6,5,good,1850,3,0.908,collector,Senate Zoological,1,302.88,302.88
+SALE-01225,CR014,Densmuck Crawler,arthropod,4,5,pristine,1850,3,0.794,collector,Capital Display,2,65.95,131.9
+SALE-01269,CR005,Marsh Stalker,reptile,6,5,good,1850,3,0.98,senator,Private Collection,1,72.4,72.4
+SALE-01971,CR003,Granite Wren,bird,1,2,fair,1850,3,0.685,trader,Miasto Market,2,25.12,50.24
+SALE-00852,CR001,Leatherback Burrower,bird,3,4,damaged,1850,4,0.492,unknown,Unknown,1,15.08,15.08
+SALE-01054,CR006,Glass Beetle,insect,2,6,fair,1850,4,0.803,collector,Miasto Market,1,65.08,65.08
+SALE-01728,CR011,Cave Moth,insect,0,2,fair,1850,4,0.861,collector,Miasto Market,1,7.33,7.33
+SALE-00059,CR012,Tunnel Eel,fish,3,4,partial,1850,5,0.739,collector,Miasto Market,1,12.67,12.67
+SALE-00178,CR012,Tunnel Eel,fish,3,4,damaged,1850,5,0.584,display,Capital Display,1,24.97,24.97
+SALE-00605,CR014,Densmuck Crawler,arthropod,4,5,damaged,1850,5,0.505,unknown,Unknown,1,17.46,17.46
+SALE-01473,CR007,Yeller Bird,bird,0,3,fair,1850,5,0.715,unknown,Miasto Market,2,42.49,84.98
+SALE-00158,CR007,Yeller Bird,bird,0,3,fair,1850,7,0.603,trader,Miasto Market,2,30.82,61.64
+SALE-00762,CR007,Yeller Bird,bird,0,3,damaged,1850,7,0.638,display,Capital Display,3,20.73,62.19
+SALE-01296,CR003,Granite Wren,bird,1,2,good,1850,8,0.768,trader,Miasto Market,2,16.35,32.7
+SALE-01561,CR004,Swamp Hornet,insect,4,1,fair,1850,8,0.657,collector,Private Collection,2,2.66,5.32
+SALE-00015,CR004,Swamp Hornet,insect,4,1,good,1850,9,0.557,trader,Miasto Market,3,2.66,7.98
+SALE-01484,CR005,Marsh Stalker,reptile,6,5,damaged,1850,9,0.738,display,Capital Display,1,58.31,58.31
+SALE-00146,CR014,Densmuck Crawler,arthropod,4,5,good,1850,10,0.536,trader,Miasto Market,1,64.14,64.14
+SALE-00357,CR014,Densmuck Crawler,arthropod,4,5,damaged,1850,10,0.516,archivist,Capital Archives,1,19.11,19.11
+SALE-00945,CR007,Yeller Bird,bird,0,3,damaged,1850,10,0.761,scholar,Scholar Study,2,28.34,56.68
+SALE-01005,CR007,Yeller Bird,bird,0,3,fair,1850,10,0.675,senator,Private Collection,5,20.4,102.0
+SALE-01444,CR012,Tunnel Eel,fish,3,4,fair,1850,10,0.728,senator,Senate Zoological,1,35.07,35.07
+SALE-01610,CR011,Cave Moth,insect,0,2,fair,1850,10,0.841,display,Capital Display,5,5.59,27.95
+SALE-01424,CR004,Swamp Hornet,insect,4,1,fair,1850,11,0.72,unknown,Senate Zoological,1,3.32,3.32
+SALE-01635,CR010,Grimslew,mammal,7,7,fair,1850,11,0.897,collector,Senate Zoological,1,91.81,91.81
+SALE-00187,CR009,Stakdur,reptile,9,8,partial,1850,12,0.909,display,Capital Display,1,105.19,105.19
+SALE-01560,CR001,Leatherback Burrower,bird,3,4,pristine,1850,12,0.859,archivist,Capital Archives,1,74.89,74.89
+SALE-00385,CR002,Stone Spine Lizard,reptile,5,7,fair,1850,13,0.91,archivist,Capital Archives,2,242.12,484.24
+SALE-00603,CR013,Quarry Toad,amphibian,2,3,damaged,1850,13,0.555,display,Capital Display,4,4.33,17.32
+SALE-00722,CR008,Wharver,mammal,8,6,fair,1850,13,0.772,unknown,Capital Display,1,275.42,275.42
+SALE-00946,CR003,Granite Wren,bird,1,2,good,1850,13,0.893,archivist,Capital Archives,2,20.24,40.48
+SALE-01602,CR005,Marsh Stalker,reptile,6,5,good,1850,13,0.763,display,Capital Display,1,147.51,147.51
+SALE-01770,CR008,Wharver,mammal,8,6,damaged,1850,13,0.418,collector,Capital Display,1,83.86,83.86
+SALE-00394,CR011,Cave Moth,insect,0,2,partial,1850,14,0.652,senator,Senate Zoological,2,2.37,4.74
+SALE-00966,CR001,Leatherback Burrower,bird,3,4,fair,1850,14,0.719,senator,Senate Zoological,1,53.37,53.37
+SALE-01152,CR001,Leatherback Burrower,bird,3,4,good,1850,14,0.765,archivist,Capital Archives,1,64.28,64.28
+SALE-01552,CR012,Tunnel Eel,fish,3,4,damaged,1850,14,0.901,unknown,Senate Zoological,1,30.37,30.37
+SALE-00460,CR007,Yeller Bird,bird,0,3,partial,1850,15,0.908,trader,Miasto Market,1,4.45,4.45
+SALE-01395,CR011,Cave Moth,insect,0,2,fair,1850,15,0.558,trader,Miasto Market,1,8.1,8.1
+SALE-01563,CR009,Stakdur,reptile,9,8,good,1850,15,0.477,scholar,Scholar Study,2,1240.41,2480.82
+SALE-00240,CR002,Stone Spine Lizard,reptile,5,7,fair,1850,16,0.449,senator,Private Collection,1,490.69,490.69
+SALE-00382,CR004,Swamp Hornet,insect,4,1,damaged,1850,16,0.728,trader,Miasto Market,1,2.36,2.36
+SALE-00393,CR014,Densmuck Crawler,arthropod,4,5,fair,1850,16,0.952,collector,Miasto Market,2,68.08,136.16
+SALE-00228,CR014,Densmuck Crawler,arthropod,4,5,damaged,1850,17,0.937,display,Capital Display,1,36.95,36.95
+SALE-00243,CR005,Marsh Stalker,reptile,6,5,good,1850,17,0.72,scholar,Scholar Study,1,136.1,136.1
+SALE-00569,CR007,Yeller Bird,bird,0,3,damaged,1850,17,0.958,trader,Miasto Market,4,25.96,103.84
+SALE-00694,CR007,Yeller Bird,bird,0,3,damaged,1850,17,0.544,archivist,Capital Archives,3,33.72,101.16
+SALE-00811,CR003,Granite Wren,bird,1,2,damaged,1850,17,0.676,archivist,Capital Archives,1,13.18,13.18
+SALE-01985,CR008,Wharver,mammal,8,6,damaged,1850,18,0.805,archivist,Capital Archives,1,93.79,93.79
+SALE-00810,CR009,Stakdur,reptile,9,8,good,1850,19,0.408,unknown,Scholar Study,2,688.85,1377.7
+SALE-01506,CR003,Granite Wren,bird,1,2,good,1850,19,0.898,collector,Senate Zoological,3,26.21,78.63
+SALE-01733,CR005,Marsh Stalker,reptile,6,5,fair,1850,19,0.695,unknown,Unknown,2,112.28,224.56
+SALE-00203,CR007,Yeller Bird,bird,0,3,pristine,1850,20,0.876,collector,Capital Archives,2,106.62,213.24
+SALE-00295,CR005,Marsh Stalker,reptile,6,5,good,1850,20,0.911,scholar,Scholar Study,2,84.35,168.7
+SALE-00840,CR002,Stone Spine Lizard,reptile,5,7,damaged,1850,20,0.95,scholar,Scholar Study,1,284.63,284.63
+SALE-00363,CR007,Yeller Bird,bird,0,3,fair,1850,21,0.565,trader,Miasto Market,2,26.45,52.9
+SALE-00413,CR004,Swamp Hornet,insect,4,1,good,1850,21,0.812,trader,Miasto Market,1,2.57,2.57
+SALE-00531,CR014,Densmuck Crawler,arthropod,4,5,damaged,1850,21,0.814,scholar,Scholar Study,2,38.21,76.42
+SALE-00837,CR003,Granite Wren,bird,1,2,fair,1850,21,0.982,display,Capital Display,2,17.67,35.34
+SALE-01001,CR013,Quarry Toad,amphibian,2,3,good,1850,21,0.996,senator,Senate Zoological,3,28.4,85.2
+SALE-01278,CR003,Granite Wren,bird,1,2,damaged,1850,21,0.593,unknown,Unknown,2,9.99,19.98
+SALE-01307,CR008,Wharver,mammal,8,6,good,1850,21,0.785,collector,Capital Display,1,193.11,193.11
+SALE-01566,CR006,Glass Beetle,insect,2,6,fair,1850,21,0.754,archivist,Capital Archives,1,116.27,116.27
+SALE-00987,CR008,Wharver,mammal,8,6,good,1850,22,0.818,collector,Miasto Market,1,254.11,254.11
+SALE-01456,CR014,Densmuck Crawler,arthropod,4,5,damaged,1850,22,0.611,collector,Capital Archives,1,41.42,41.42
+SALE-01809,CR011,Cave Moth,insect,0,2,fair,1850,22,0.783,scholar,Scholar Study,5,12.14,60.7
+SALE-00457,CR010,Grimslew,mammal,7,7,good,1850,23,0.509,collector,Miasto Market,1,520.89,520.89
+SALE-01211,CR013,Quarry Toad,amphibian,2,3,fair,1850,23,0.872,trader,Miasto Market,2,16.44,32.88
+SALE-01251,CR007,Yeller Bird,bird,0,3,good,1850,23,0.948,archivist,Capital Archives,2,48.7,97.4
+SALE-00018,CR013,Quarry Toad,amphibian,2,3,partial,1850,24,0.632,scholar,Scholar Study,2,6.41,12.82
+SALE-00196,CR005,Marsh Stalker,reptile,6,5,good,1850,24,0.816,trader,Miasto Market,1,136.92,136.92
+SALE-00424,CR003,Granite Wren,bird,1,2,damaged,1850,24,0.76,unknown,Unknown,2,6.66,13.32
+SALE-00459,CR003,Granite Wren,bird,1,2,damaged,1850,24,0.649,scholar,Scholar Study,4,5.28,21.12
+SALE-00906,CR003,Granite Wren,bird,1,2,good,1850,24,0.32,collector,Senate Zoological,1,16.16,16.16
+SALE-00831,CR004,Swamp Hornet,insect,4,1,fair,1850,25,0.447,trader,Miasto Market,1,2.07,2.07
+SALE-01521,CR003,Granite Wren,bird,1,2,partial,1850,25,0.56,unknown,Private Collection,1,5.04,5.04
+SALE-01904,CR013,Quarry Toad,amphibian,2,3,good,1850,25,0.61,collector,Scholar Study,2,23.08,46.16
+SALE-00647,CR002,Stone Spine Lizard,reptile,5,7,fair,1850,26,0.713,scholar,Scholar Study,1,191.4,191.4
+SALE-00665,CR008,Wharver,mammal,8,6,fair,1850,26,0.46,display,Capital Display,1,144.09,144.09
+SALE-00735,CR007,Yeller Bird,bird,0,3,good,1850,27,0.568,display,Capital Display,3,39.64,118.92
+SALE-01189,CR006,Glass Beetle,insect,2,6,partial,1850,27,0.853,unknown,Capital Display,1,19.42,19.42
+SALE-01849,CR014,Densmuck Crawler,arthropod,4,5,damaged,1850,27,0.673,archivist,Capital Archives,1,12.52,12.52
+SALE-00702,CR006,Glass Beetle,insect,2,6,partial,1850,28,0.613,trader,Miasto Market,1,9.76,9.76
+SALE-00857,CR008,Wharver,mammal,8,6,good,1850,28,0.748,display,Capital Display,1,118.33,118.33
+SALE-01242,CR004,Swamp Hornet,insect,4,1,damaged,1850,29,0.712,unknown,Private Collection,2,1.43,2.86
+SALE-00263,CR001,Leatherback Burrower,bird,3,4,good,1850,30,0.865,senator,Senate Zoological,1,34.97,34.97
+SALE-01483,CR001,Leatherback Burrower,bird,3,4,good,1850,30,0.677,collector,Capital Archives,1,21.4,21.4
+SALE-00611,CR004,Swamp Hornet,insect,4,1,fair,1850,31,0.531,display,Capital Display,2,2.57,5.14
+SALE-01320,CR011,Cave Moth,insect,0,2,partial,1850,31,0.458,trader,Miasto Market,2,1.53,3.06
+SALE-01134,CR008,Wharver,mammal,8,6,good,1850,32,0.607,senator,Senate Zoological,1,383.27,383.27
+SALE-01150,CR001,Leatherback Burrower,bird,3,4,fair,1850,32,0.855,trader,Miasto Market,1,39.68,39.68
+SALE-01185,CR014,Densmuck Crawler,arthropod,4,5,damaged,1850,32,0.795,trader,Miasto Market,2,19.22,38.44
+SALE-01824,CR011,Cave Moth,insect,0,2,fair,1850,32,0.956,collector,Unknown,1,10.88,10.88
+SALE-01962,CR006,Glass Beetle,insect,2,6,pristine,1850,32,0.934,archivist,Capital Archives,1,116.21,116.21
+SALE-00329,CR007,Yeller Bird,bird,0,3,good,1850,33,0.703,unknown,Private Collection,1,40.19,40.19
+SALE-00488,CR012,Tunnel Eel,fish,3,4,partial,1850,33,0.694,archivist,Capital Archives,1,4.55,4.55
+SALE-01491,CR004,Swamp Hornet,insect,4,1,fair,1850,33,0.711,scholar,Scholar Study,2,2.55,5.1
+SALE-00904,CR003,Granite Wren,bird,1,2,pristine,1850,34,0.631,unknown,Unknown,1,19.4,19.4
+SALE-00962,CR013,Quarry Toad,amphibian,2,3,fair,1850,34,0.766,scholar,Scholar Study,5,15.83,79.15
+SALE-01172,CR012,Tunnel Eel,fish,3,4,damaged,1850,34,0.741,senator,Private Collection,1,20.14,20.14
+SALE-01370,CR002,Stone Spine Lizard,reptile,5,7,pristine,1850,35,0.758,archivist,Capital Archives,1,296.77,296.77
+SALE-01740,CR011,Cave Moth,insect,0,2,good,1850,35,0.834,unknown,Private Collection,3,9.0,27.0
+SALE-00601,CR003,Granite Wren,bird,1,2,fair,1850,36,0.568,scholar,Scholar Study,1,15.09,15.09
+SALE-01727,CR006,Glass Beetle,insect,2,6,damaged,1850,36,0.664,senator,Senate Zoological,1,42.2,42.2
+SALE-00077,CR010,Grimslew,mammal,7,7,damaged,1850,37,0.747,unknown,Miasto Market,1,116.9,116.9
+SALE-00202,CR008,Wharver,mammal,8,6,good,1850,37,0.686,display,Capital Display,1,514.14,514.14
+SALE-00616,CR014,Densmuck Crawler,arthropod,4,5,fair,1850,37,0.819,trader,Miasto Market,1,55.44,55.44
+SALE-00197,CR013,Quarry Toad,amphibian,2,3,fair,1850,38,0.918,scholar,Scholar Study,5,12.14,60.7
+SALE-00698,CR006,Glass Beetle,insect,2,6,good,1850,38,0.778,display,Capital Display,1,27.79,27.79
+SALE-00838,CR003,Granite Wren,bird,1,2,good,1850,38,0.93,senator,Senate Zoological,2,24.9,49.8
+SALE-00180,CR012,Tunnel Eel,fish,3,4,pristine,1850,39,0.759,unknown,Senate Zoological,1,24.28,24.28
+SALE-00489,CR008,Wharver,mammal,8,6,fair,1850,39,0.575,trader,Miasto Market,2,356.59,713.18
+SALE-00190,CR006,Glass Beetle,insect,2,6,fair,1850,40,0.908,trader,Miasto Market,2,79.78,159.56
+SALE-00221,CR003,Granite Wren,bird,1,2,damaged,1850,40,0.822,collector,Miasto Market,2,7.04,14.08
+SALE-00308,CR001,Leatherback Burrower,bird,3,4,fair,1850,40,0.617,scholar,Scholar Study,1,29.74,29.74
+SALE-00802,CR008,Wharver,mammal,8,6,fair,1850,40,0.897,trader,Miasto Market,1,147.95,147.95
+SALE-01098,CR002,Stone Spine Lizard,reptile,5,7,partial,1850,40,0.744,display,Capital Display,1,37.96,37.96
+SALE-00442,CR015,Golden Amalgam Snail,mollusk,0,9,damaged,1850,41,0.698,senator,Private Collection,2,1033.45,2066.9
+SALE-00638,CR004,Swamp Hornet,insect,4,1,pristine,1850,41,0.729,trader,Miasto Market,1,3.87,3.87
+SALE-00884,CR001,Leatherback Burrower,bird,3,4,good,1850,41,0.441,display,Capital Display,1,29.11,29.11
+SALE-00367,CR003,Granite Wren,bird,1,2,good,1850,42,0.483,scholar,Scholar Study,2,16.66,33.32
+SALE-01213,CR010,Grimslew,mammal,7,7,damaged,1850,42,0.838,trader,Miasto Market,1,358.72,358.72
+SALE-01445,CR010,Grimslew,mammal,7,7,fair,1850,42,0.546,unknown,Capital Display,1,129.86,129.86
+SALE-01654,CR011,Cave Moth,insect,0,2,partial,1850,42,0.748,senator,Senate Zoological,5,1.17,5.85
+SALE-00230,CR005,Marsh Stalker,reptile,6,5,partial,1850,43,0.85,senator,Senate Zoological,1,38.85,38.85
+SALE-00456,CR013,Quarry Toad,amphibian,2,3,damaged,1850,43,0.85,trader,Miasto Market,1,7.92,7.92
+SALE-01726,CR014,Densmuck Crawler,arthropod,4,5,damaged,1850,43,0.771,senator,Senate Zoological,1,38.98,38.98
+SALE-00467,CR013,Quarry Toad,amphibian,2,3,partial,1850,44,0.692,display,Capital Display,4,4.12,16.48
+SALE-01482,CR013,Quarry Toad,amphibian,2,3,fair,1850,44,0.733,display,Capital Display,2,20.47,40.94
+SALE-00070,CR005,Marsh Stalker,reptile,6,5,damaged,1850,45,0.762,display,Capital Display,1,126.65,126.65
+SALE-00080,CR003,Granite Wren,bird,1,2,fair,1850,45,0.863,senator,Senate Zoological,2,10.46,20.92
+SALE-00445,CR013,Quarry Toad,amphibian,2,3,damaged,1850,45,0.633,display,Capital Display,2,9.08,18.16
+SALE-00719,CR006,Glass Beetle,insect,2,6,pristine,1850,45,0.651,collector,Unknown,1,121.21,121.21
+SALE-00738,CR012,Tunnel Eel,fish,3,4,good,1850,45,0.507,trader,Miasto Market,1,44.19,44.19
+SALE-00833,CR014,Densmuck Crawler,arthropod,4,5,damaged,1850,45,0.797,display,Capital Display,1,47.35,47.35
+SALE-01379,CR010,Grimslew,mammal,7,7,fair,1850,45,0.322,scholar,Scholar Study,1,102.68,102.68
+SALE-00959,CR002,Stone Spine Lizard,reptile,5,7,good,1850,46,0.847,senator,Private Collection,1,218.24,218.24
+SALE-01428,CR001,Leatherback Burrower,bird,3,4,damaged,1850,47,0.328,archivist,Capital Archives,1,12.05,12.05
+SALE-00008,CR005,Marsh Stalker,reptile,6,5,fair,1850,48,0.619,trader,Miasto Market,1,151.37,151.37
+SALE-01284,CR003,Granite Wren,bird,1,2,good,1850,48,0.642,archivist,Capital Archives,2,16.01,32.02
+SALE-01146,CR014,Densmuck Crawler,arthropod,4,5,fair,1850,49,0.752,unknown,Capital Archives,1,138.82,138.82
+SALE-00234,CR013,Quarry Toad,amphibian,2,3,damaged,1850,50,0.868,scholar,Scholar Study,1,13.12,13.12
+SALE-00247,CR006,Glass Beetle,insect,2,6,fair,1850,50,0.757,trader,Miasto Market,1,121.76,121.76
+SALE-00998,CR012,Tunnel Eel,fish,3,4,good,1850,50,0.618,scholar,Scholar Study,2,20.61,41.22
+SALE-01575,CR007,Yeller Bird,bird,0,3,damaged,1850,50,0.638,collector,Capital Display,3,40.98,122.94
+SALE-01034,CR011,Cave Moth,insect,0,2,fair,1850,51,0.751,senator,Private Collection,3,11.33,33.99
+SALE-01883,CR001,Leatherback Burrower,bird,3,4,partial,1850,51,0.816,trader,Miasto Market,1,8.73,8.73
+SALE-00013,CR004,Swamp Hornet,insect,4,1,fair,1850,52,0.798,display,Capital Display,2,2.96,5.92
+SALE-00446,CR004,Swamp Hornet,insect,4,1,damaged,1850,52,0.79,trader,Miasto Market,1,1.07,1.07
+SALE-00516,CR011,Cave Moth,insect,0,2,fair,1850,52,0.948,senator,Private Collection,4,10.97,43.88
+SALE-00997,CR003,Granite Wren,bird,1,2,pristine,1850,52,0.534,archivist,Capital Archives,2,18.45,36.9
+SALE-01190,CR013,Quarry Toad,amphibian,2,3,damaged,1850,52,0.908,display,Capital Display,4,10.46,41.84
+SALE-00314,CR006,Glass Beetle,insect,2,6,damaged,1851,1,0.853,collector,Senate Zoological,1,37.85,37.85
+SALE-00712,CR003,Granite Wren,bird,1,2,damaged,1851,1,0.937,scholar,Scholar Study,3,11.72,35.16
+SALE-01750,CR003,Granite Wren,bird,1,2,good,1851,1,0.727,senator,Private Collection,1,25.83,25.83
+SALE-00074,CR013,Quarry Toad,amphibian,2,3,fair,1851,2,0.63,display,Capital Display,2,12.95,25.9
+SALE-01249,CR001,Leatherback Burrower,bird,3,4,good,1851,2,0.807,scholar,Scholar Study,1,23.8,23.8
+SALE-00046,CR007,Yeller Bird,bird,0,3,damaged,1851,3,0.793,collector,Private Collection,1,64.29,64.29
+SALE-00084,CR011,Cave Moth,insect,0,2,good,1851,3,0.721,unknown,Unknown,1,7.17,7.17
+SALE-01051,CR014,Densmuck Crawler,arthropod,4,5,fair,1851,3,0.732,senator,Private Collection,1,49.87,49.87
+SALE-00087,CR011,Cave Moth,insect,0,2,fair,1851,4,0.815,archivist,Capital Archives,3,7.4,22.2
+SALE-01071,CR008,Wharver,mammal,8,6,partial,1851,4,0.916,display,Capital Display,1,106.42,106.42
+SALE-01446,CR005,Marsh Stalker,reptile,6,5,damaged,1851,4,0.921,archivist,Capital Archives,1,40.22,40.22
+SALE-01725,CR001,Leatherback Burrower,bird,3,4,pristine,1851,4,0.746,display,Capital Display,1,41.01,41.01
+SALE-01880,CR011,Cave Moth,insect,0,2,damaged,1851,4,0.732,display,Capital Display,1,5.07,5.07
+SALE-01956,CR011,Cave Moth,insect,0,2,fair,1851,4,0.526,collector,Capital Display,1,11.31,11.31
+SALE-01313,CR007,Yeller Bird,bird,0,3,good,1851,5,0.745,trader,Miasto Market,2,83.1,166.2
+SALE-01734,CR012,Tunnel Eel,fish,3,4,good,1851,5,0.654,display,Capital Display,1,52.54,52.54
+SALE-00176,CR011,Cave Moth,insect,0,2,good,1851,6,0.654,display,Capital Display,3,10.49,31.47
+SALE-01006,CR004,Swamp Hornet,insect,4,1,good,1851,6,0.786,scholar,Scholar Study,2,4.29,8.58
+SALE-01140,CR007,Yeller Bird,bird,0,3,fair,1851,6,0.832,display,Capital Display,2,41.8,83.6
+SALE-01371,CR013,Quarry Toad,amphibian,2,3,fair,1851,6,0.552,unknown,Private Collection,3,13.94,41.82
+SALE-01746,CR011,Cave Moth,insect,0,2,good,1851,6,0.829,archivist,Capital Archives,1,10.74,10.74
+SALE-01762,CR010,Grimslew,mammal,7,7,fair,1851,6,0.614,archivist,Capital Archives,1,361.08,361.08
+SALE-00984,CR012,Tunnel Eel,fish,3,4,damaged,1851,7,0.801,senator,Private Collection,1,10.85,10.85
+SALE-01411,CR003,Granite Wren,bird,1,2,fair,1851,7,0.775,archivist,Capital Archives,2,15.3,30.6
+SALE-00797,CR002,Stone Spine Lizard,reptile,5,7,good,1851,8,0.58,trader,Miasto Market,1,404.52,404.52
+SALE-00943,CR013,Quarry Toad,amphibian,2,3,damaged,1851,8,0.66,display,Capital Display,1,15.67,15.67
+SALE-01221,CR005,Marsh Stalker,reptile,6,5,fair,1851,8,0.713,collector,Miasto Market,1,95.94,95.94
+SALE-01397,CR013,Quarry Toad,amphibian,2,3,partial,1851,8,0.853,archivist,Capital Archives,2,6.77,13.54
+SALE-01475,CR006,Glass Beetle,insect,2,6,damaged,1851,8,0.759,archivist,Capital Archives,1,38.61,38.61
+SALE-01940,CR008,Wharver,mammal,8,6,good,1851,8,0.83,collector,Miasto Market,1,940.69,940.69
+SALE-00115,CR007,Yeller Bird,bird,0,3,partial,1851,9,0.829,trader,Miasto Market,1,13.89,13.89
+SALE-00506,CR011,Cave Moth,insect,0,2,fair,1851,9,0.641,senator,Private Collection,3,6.85,20.55
+SALE-00745,CR011,Cave Moth,insect,0,2,damaged,1851,9,0.302,trader,Miasto Market,2,2.45,4.9
+SALE-01390,CR002,Stone Spine Lizard,reptile,5,7,fair,1851,10,0.455,archivist,Capital Archives,1,147.63,147.63
+SALE-01713,CR009,Stakdur,reptile,9,8,damaged,1851,10,0.463,collector,Senate Zoological,1,410.57,410.57
+SALE-01879,CR011,Cave Moth,insect,0,2,good,1851,10,0.926,display,Capital Display,2,10.62,21.24
+SALE-00091,CR001,Leatherback Burrower,bird,3,4,good,1851,12,0.761,archivist,Capital Archives,1,26.47,26.47
+SALE-00321,CR001,Leatherback Burrower,bird,3,4,partial,1851,12,0.944,display,Capital Display,1,9.04,9.04
+SALE-00334,CR003,Granite Wren,bird,1,2,damaged,1851,12,0.663,trader,Miasto Market,4,6.34,25.36
+SALE-00469,CR012,Tunnel Eel,fish,3,4,good,1851,12,0.845,trader,Miasto Market,2,39.91,79.82
+SALE-00543,CR003,Granite Wren,bird,1,2,pristine,1851,12,0.488,collector,Capital Display,4,15.51,62.04
+SALE-01025,CR011,Cave Moth,insect,0,2,good,1851,12,0.809,trader,Miasto Market,4,4.91,19.64
+SALE-01404,CR014,Densmuck Crawler,arthropod,4,5,fair,1851,12,0.714,unknown,Scholar Study,1,25.65,25.65
+SALE-00291,CR011,Cave Moth,insect,0,2,fair,1851,13,0.653,scholar,Scholar Study,1,6.96,6.96
+SALE-00297,CR011,Cave Moth,insect,0,2,damaged,1851,13,0.68,unknown,Capital Archives,2,2.18,4.36
+SALE-01174,CR003,Granite Wren,bird,1,2,good,1851,13,0.565,unknown,Senate Zoological,3,16.19,48.57
+SALE-01204,CR010,Grimslew,mammal,7,7,partial,1851,13,0.528,scholar,Scholar Study,1,24.8,24.8
+SALE-01419,CR009,Stakdur,reptile,9,8,partial,1851,13,0.61,trader,Miasto Market,1,19.96,19.96
+SALE-01124,CR001,Leatherback Burrower,bird,3,4,partial,1851,14,0.814,senator,Senate Zoological,1,7.13,7.13
+SALE-00379,CR001,Leatherback Burrower,bird,3,4,good,1851,15,0.909,senator,Private Collection,1,49.18,49.18
+SALE-00732,CR008,Wharver,mammal,8,6,damaged,1851,16,0.872,scholar,Scholar Study,1,95.75,95.75
+SALE-01978,CR007,Yeller Bird,bird,0,3,partial,1851,16,0.772,archivist,Capital Archives,4,7.51,30.04
+SALE-01402,CR010,Grimslew,mammal,7,7,good,1851,17,0.616,collector,Private Collection,1,378.24,378.24
+SALE-01776,CR007,Yeller Bird,bird,0,3,good,1851,17,0.717,archivist,Capital Archives,3,53.46,160.38
+SALE-01538,CR011,Cave Moth,insect,0,2,damaged,1851,18,0.74,trader,Miasto Market,1,3.81,3.81
+SALE-00432,CR014,Densmuck Crawler,arthropod,4,5,pristine,1851,19,0.731,unknown,Senate Zoological,1,120.08,120.08
+SALE-01462,CR001,Leatherback Burrower,bird,3,4,fair,1851,19,0.832,trader,Miasto Market,1,18.25,18.25
+SALE-01739,CR014,Densmuck Crawler,arthropod,4,5,damaged,1851,19,0.451,scholar,Scholar Study,2,31.0,62.0
+SALE-00517,CR014,Densmuck Crawler,arthropod,4,5,fair,1851,20,0.79,collector,Scholar Study,2,28.98,57.96
+SALE-01097,CR012,Tunnel Eel,fish,3,4,good,1851,20,0.543,archivist,Capital Archives,1,27.91,27.91
+SALE-01543,CR013,Quarry Toad,amphibian,2,3,damaged,1851,20,0.619,senator,Senate Zoological,5,5.53,27.65
+SALE-01599,CR001,Leatherback Burrower,bird,3,4,partial,1851,21,0.9,display,Capital Display,1,3.31,3.31
+SALE-00325,CR003,Granite Wren,bird,1,2,good,1851,22,0.36,collector,Private Collection,5,7.61,38.05
+SALE-01165,CR005,Marsh Stalker,reptile,6,5,pristine,1851,22,0.621,collector,Miasto Market,1,171.13,171.13
+SALE-01613,CR004,Swamp Hornet,insect,4,1,pristine,1851,22,0.739,senator,Senate Zoological,1,8.18,8.18
+SALE-00447,CR003,Granite Wren,bird,1,2,good,1851,23,0.453,display,Capital Display,4,12.62,50.48
+SALE-00806,CR014,Densmuck Crawler,arthropod,4,5,fair,1851,23,0.627,senator,Private Collection,1,42.29,42.29
+SALE-01036,CR004,Swamp Hornet,insect,4,1,pristine,1851,23,0.923,trader,Miasto Market,2,2.71,5.42
+SALE-01361,CR008,Wharver,mammal,8,6,good,1851,23,0.777,scholar,Scholar Study,1,716.64,716.64
+SALE-01900,CR004,Swamp Hornet,insect,4,1,damaged,1851,23,0.705,collector,Capital Display,1,2.52,2.52
+SALE-01061,CR011,Cave Moth,insect,0,2,good,1851,24,0.532,collector,Senate Zoological,3,4.91,14.73
+SALE-01764,CR004,Swamp Hornet,insect,4,1,fair,1851,24,0.684,senator,Senate Zoological,1,1.99,1.99
+SALE-00372,CR011,Cave Moth,insect,0,2,fair,1851,25,0.475,senator,Senate Zoological,3,3.94,11.82
+SALE-00871,CR013,Quarry Toad,amphibian,2,3,fair,1851,25,0.986,display,Capital Display,1,19.66,19.66
+SALE-01637,CR003,Granite Wren,bird,1,2,good,1851,25,0.872,display,Capital Display,2,16.38,32.76
+SALE-01916,CR006,Glass Beetle,insect,2,6,good,1851,25,0.7,archivist,Capital Archives,1,156.62,156.62
+SALE-00312,CR014,Densmuck Crawler,arthropod,4,5,good,1851,26,0.898,collector,Scholar Study,1,111.85,111.85
+SALE-00910,CR007,Yeller Bird,bird,0,3,fair,1851,26,0.857,unknown,Scholar Study,1,36.97,36.97
+SALE-00919,CR004,Swamp Hornet,insect,4,1,good,1851,26,0.845,unknown,Capital Display,4,3.37,13.48
+SALE-00947,CR003,Granite Wren,bird,1,2,damaged,1851,26,0.631,trader,Miasto Market,1,6.07,6.07
+SALE-00956,CR015,Golden Amalgam Snail,mollusk,0,9,damaged,1851,26,0.842,scholar,Scholar Study,1,214.17,214.17
+SALE-01084,CR004,Swamp Hornet,insect,4,1,good,1851,26,0.88,collector,Capital Archives,1,4.21,4.21
+SALE-01288,CR012,Tunnel Eel,fish,3,4,fair,1851,26,0.839,senator,Private Collection,1,32.24,32.24
+SALE-00384,CR005,Marsh Stalker,reptile,6,5,fair,1851,27,0.889,scholar,Scholar Study,1,114.95,114.95
+SALE-00868,CR003,Granite Wren,bird,1,2,damaged,1851,27,0.775,trader,Miasto Market,3,7.95,23.85
+SALE-00358,CR010,Grimslew,mammal,7,7,fair,1851,28,0.713,unknown,Capital Archives,1,256.63,256.63
+SALE-00501,CR001,Leatherback Burrower,bird,3,4,fair,1851,28,0.834,trader,Miasto Market,1,13.61,13.61
+SALE-00514,CR012,Tunnel Eel,fish,3,4,fair,1851,28,0.638,unknown,Capital Archives,2,36.12,72.24
+SALE-00807,CR007,Yeller Bird,bird,0,3,fair,1851,28,0.376,collector,Senate Zoological,1,73.72,73.72
+SALE-00875,CR013,Quarry Toad,amphibian,2,3,damaged,1851,29,0.834,archivist,Capital Archives,4,6.41,25.64
+SALE-00928,CR004,Swamp Hornet,insect,4,1,good,1851,29,0.968,archivist,Capital Archives,4,2.97,11.88
+SALE-01298,CR011,Cave Moth,insect,0,2,fair,1851,29,0.948,scholar,Scholar Study,4,5.91,23.64
+SALE-01468,CR012,Tunnel Eel,fish,3,4,damaged,1851,29,0.627,trader,Miasto Market,2,8.84,17.68
+SALE-01938,CR001,Leatherback Burrower,bird,3,4,damaged,1851,29,0.742,display,Capital Display,1,10.61,10.61
+SALE-00315,CR002,Stone Spine Lizard,reptile,5,7,good,1851,31,0.403,unknown,Capital Display,1,67.72,67.72
+SALE-00786,CR007,Yeller Bird,bird,0,3,pristine,1851,31,0.649,archivist,Capital Archives,1,52.96,52.96
+SALE-01081,CR004,Swamp Hornet,insect,4,1,good,1851,31,0.718,archivist,Capital Archives,1,3.94,3.94
+SALE-01331,CR011,Cave Moth,insect,0,2,fair,1851,31,0.875,collector,Miasto Market,1,7.8,7.8
+SALE-00095,CR002,Stone Spine Lizard,reptile,5,7,good,1851,32,0.449,archivist,Capital Archives,1,167.21,167.21
+SALE-00332,CR007,Yeller Bird,bird,0,3,partial,1851,32,0.71,archivist,Capital Archives,1,12.01,12.01
+SALE-00974,CR005,Marsh Stalker,reptile,6,5,fair,1851,32,0.753,senator,Senate Zoological,1,107.21,107.21
+SALE-00653,CR011,Cave Moth,insect,0,2,fair,1851,33,0.707,unknown,Capital Archives,2,6.38,12.76
+SALE-00754,CR008,Wharver,mammal,8,6,partial,1851,33,0.79,archivist,Capital Archives,1,36.24,36.24
+SALE-01540,CR007,Yeller Bird,bird,0,3,partial,1851,33,0.852,trader,Miasto Market,1,8.15,8.15
+SALE-00700,CR006,Glass Beetle,insect,2,6,fair,1851,34,0.757,scholar,Scholar Study,1,86.39,86.39
+SALE-01053,CR002,Stone Spine Lizard,reptile,5,7,fair,1851,34,0.729,trader,Miasto Market,1,59.49,59.49
+SALE-00031,CR010,Grimslew,mammal,7,7,fair,1851,35,0.612,display,Capital Display,1,76.5,76.5
+SALE-00736,CR011,Cave Moth,insect,0,2,good,1851,35,0.553,trader,Miasto Market,1,8.05,8.05
+SALE-01600,CR003,Granite Wren,bird,1,2,pristine,1851,35,0.715,scholar,Scholar Study,1,14.91,14.91
+SALE-00404,CR006,Glass Beetle,insect,2,6,good,1851,36,0.647,scholar,Scholar Study,1,189.54,189.54
+SALE-00898,CR008,Wharver,mammal,8,6,damaged,1851,36,0.882,trader,Miasto Market,1,222.78,222.78
+SALE-00980,CR013,Quarry Toad,amphibian,2,3,fair,1851,36,0.698,senator,Senate Zoological,1,30.6,30.6
+SALE-00081,CR001,Leatherback Burrower,bird,3,4,partial,1851,37,0.578,collector,Senate Zoological,1,4.09,4.09
+SALE-00618,CR003,Granite Wren,bird,1,2,fair,1851,37,0.535,unknown,Scholar Study,1,10.49,10.49
+SALE-00773,CR005,Marsh Stalker,reptile,6,5,damaged,1851,37,0.836,senator,Private Collection,1,98.7,98.7
+SALE-01389,CR006,Glass Beetle,insect,2,6,damaged,1851,37,0.652,trader,Miasto Market,1,88.08,88.08
+SALE-01683,CR014,Densmuck Crawler,arthropod,4,5,fair,1851,37,0.918,scholar,Scholar Study,1,35.49,35.49
+SALE-00985,CR001,Leatherback Burrower,bird,3,4,good,1851,38,0.687,archivist,Capital Archives,1,23.6,23.6
+SALE-01429,CR003,Granite Wren,bird,1,2,pristine,1851,38,0.597,archivist,Capital Archives,1,13.29,13.29
+SALE-01821,CR003,Granite Wren,bird,1,2,good,1851,38,0.722,senator,Private Collection,2,12.49,24.98
+SALE-00210,CR006,Glass Beetle,insect,2,6,good,1851,39,0.854,collector,Unknown,1,55.29,55.29
+SALE-00478,CR004,Swamp Hornet,insect,4,1,partial,1851,39,0.681,display,Capital Display,2,1.0,2.0
+SALE-00820,CR011,Cave Moth,insect,0,2,damaged,1851,39,0.805,display,Capital Display,4,3.13,12.52
+SALE-01163,CR001,Leatherback Burrower,bird,3,4,damaged,1851,39,0.915,collector,Capital Archives,1,6.52,6.52
+SALE-01315,CR006,Glass Beetle,insect,2,6,fair,1851,39,0.847,scholar,Scholar Study,1,102.27,102.27
+SALE-01567,CR014,Densmuck Crawler,arthropod,4,5,damaged,1851,39,0.712,display,Capital Display,1,24.38,24.38
+SALE-00145,CR012,Tunnel Eel,fish,3,4,fair,1851,40,0.859,trader,Miasto Market,1,26.31,26.31
+SALE-00741,CR006,Glass Beetle,insect,2,6,good,1851,40,0.398,trader,Miasto Market,1,46.71,46.71
+SALE-01459,CR011,Cave Moth,insect,0,2,good,1851,40,0.873,archivist,Capital Archives,2,8.51,17.02
+SALE-00365,CR007,Yeller Bird,bird,0,3,good,1851,41,0.794,collector,Scholar Study,2,51.82,103.64
+SALE-00536,CR010,Grimslew,mammal,7,7,good,1851,41,0.903,unknown,Unknown,1,222.09,222.09
+SALE-00626,CR006,Glass Beetle,insect,2,6,pristine,1851,41,0.912,trader,Miasto Market,1,100.84,100.84
+SALE-01090,CR003,Granite Wren,bird,1,2,pristine,1851,41,0.416,senator,Private Collection,2,29.2,58.4
+SALE-01303,CR003,Granite Wren,bird,1,2,good,1851,41,0.954,trader,Miasto Market,1,14.4,14.4
+SALE-01844,CR004,Swamp Hornet,insect,4,1,damaged,1851,41,0.895,collector,Miasto Market,4,1.28,5.12
+SALE-00725,CR008,Wharver,mammal,8,6,good,1851,42,0.579,senator,Senate Zoological,2,615.08,1230.16
+SALE-00742,CR012,Tunnel Eel,fish,3,4,fair,1851,42,0.759,scholar,Scholar Study,1,39.87,39.87
+SALE-00495,CR002,Stone Spine Lizard,reptile,5,7,pristine,1851,43,0.532,unknown,Private Collection,1,189.79,189.79
+SALE-00552,CR012,Tunnel Eel,fish,3,4,damaged,1851,43,0.839,senator,Private Collection,1,28.36,28.36
+SALE-01252,CR001,Leatherback Burrower,bird,3,4,partial,1851,43,0.552,display,Capital Display,2,5.54,11.08
+SALE-00014,CR006,Glass Beetle,insect,2,6,fair,1851,44,0.82,unknown,Private Collection,1,105.89,105.89
+SALE-00075,CR004,Swamp Hornet,insect,4,1,partial,1851,44,0.459,scholar,Scholar Study,3,1.0,3.0
+SALE-00353,CR014,Densmuck Crawler,arthropod,4,5,fair,1851,44,0.652,unknown,Capital Archives,1,55.43,55.43
+SALE-00675,CR006,Glass Beetle,insect,2,6,partial,1851,44,0.579,scholar,Scholar Study,1,16.14,16.14
+SALE-00886,CR004,Swamp Hornet,insect,4,1,damaged,1851,44,0.536,collector,Scholar Study,2,1.93,3.86
+SALE-01013,CR001,Leatherback Burrower,bird,3,4,pristine,1851,44,0.649,unknown,Scholar Study,1,23.62,23.62
+SALE-01421,CR001,Leatherback Burrower,bird,3,4,damaged,1851,44,0.512,display,Capital Display,1,6.48,6.48
+SALE-00209,CR014,Densmuck Crawler,arthropod,4,5,fair,1851,45,0.854,senator,Private Collection,1,137.22,137.22
+SALE-00522,CR007,Yeller Bird,bird,0,3,pristine,1851,45,0.912,display,Capital Display,2,110.61,221.22
+SALE-00624,CR010,Grimslew,mammal,7,7,pristine,1851,45,0.682,scholar,Scholar Study,1,86.81,86.81
+SALE-00830,CR006,Glass Beetle,insect,2,6,fair,1851,45,0.85,trader,Miasto Market,1,81.29,81.29
+SALE-00905,CR014,Densmuck Crawler,arthropod,4,5,pristine,1851,45,0.452,unknown,Unknown,1,82.2,82.2
+SALE-01276,CR009,Stakdur,reptile,9,8,damaged,1851,45,0.677,archivist,Capital Archives,1,75.1,75.1
+SALE-01678,CR015,Golden Amalgam Snail,mollusk,0,9,fair,1851,45,0.777,unknown,Capital Archives,2,1544.16,3088.32
+SALE-01536,CR012,Tunnel Eel,fish,3,4,damaged,1851,46,0.832,trader,Miasto Market,1,20.74,20.74
+SALE-00006,CR012,Tunnel Eel,fish,3,4,fair,1851,47,0.431,scholar,Scholar Study,1,9.47,9.47
+SALE-00054,CR008,Wharver,mammal,8,6,damaged,1851,47,0.307,unknown,Capital Archives,1,73.28,73.28
+SALE-00492,CR001,Leatherback Burrower,bird,3,4,damaged,1851,47,0.571,collector,Senate Zoological,2,9.1,18.2
+SALE-00927,CR013,Quarry Toad,amphibian,2,3,damaged,1851,48,0.647,display,Capital Display,2,20.18,40.36
+SALE-01297,CR013,Quarry Toad,amphibian,2,3,damaged,1851,48,0.789,display,Capital Display,1,12.38,12.38
+SALE-01980,CR005,Marsh Stalker,reptile,6,5,damaged,1851,48,0.805,collector,Unknown,1,126.77,126.77
+SALE-01004,CR002,Stone Spine Lizard,reptile,5,7,good,1851,49,0.752,archivist,Capital Archives,1,425.89,425.89
+SALE-01198,CR006,Glass Beetle,insect,2,6,good,1851,49,0.799,scholar,Scholar Study,2,152.57,305.14
+SALE-01362,CR010,Grimslew,mammal,7,7,damaged,1851,49,0.871,trader,Miasto Market,1,52.78,52.78
+SALE-01820,CR004,Swamp Hornet,insect,4,1,good,1851,49,0.648,trader,Miasto Market,2,3.66,7.32
+SALE-01829,CR013,Quarry Toad,amphibian,2,3,partial,1851,49,0.689,collector,Capital Display,3,3.04,9.12
+SALE-01954,CR011,Cave Moth,insect,0,2,partial,1851,49,0.481,collector,Miasto Market,1,1.85,1.85
+SALE-00032,CR010,Grimslew,mammal,7,7,good,1851,51,0.928,senator,Private Collection,1,323.35,323.35
+SALE-01142,CR014,Densmuck Crawler,arthropod,4,5,pristine,1851,51,0.851,trader,Miasto Market,1,113.19,113.19
+SALE-01169,CR005,Marsh Stalker,reptile,6,5,good,1851,52,0.453,archivist,Capital Archives,1,349.81,349.81
+SALE-01073,CR004,Swamp Hornet,insect,4,1,fair,1852,1,0.743,display,Capital Display,1,2.86,2.86
+SALE-01601,CR002,Stone Spine Lizard,reptile,5,7,good,1852,1,0.752,archivist,Capital Archives,1,191.31,191.31
+SALE-01852,CR013,Quarry Toad,amphibian,2,3,pristine,1852,1,0.143,senator,Private Collection,4,49.03,196.12
+SALE-00391,CR003,Granite Wren,bird,1,2,good,1852,2,0.632,trader,Miasto Market,1,24.93,24.93
+SALE-00451,CR012,Tunnel Eel,fish,3,4,damaged,1852,2,0.506,senator,Senate Zoological,1,30.24,30.24
+SALE-00480,CR004,Swamp Hornet,insect,4,1,partial,1852,2,0.661,unknown,Capital Display,2,1.0,2.0
+SALE-01030,CR011,Cave Moth,insect,0,2,partial,1852,2,0.513,trader,Miasto Market,1,1.74,1.74
+SALE-01383,CR011,Cave Moth,insect,0,2,fair,1852,2,0.553,trader,Miasto Market,2,8.25,16.5
+SALE-00182,CR011,Cave Moth,insect,0,2,damaged,1852,3,0.717,scholar,Scholar Study,2,5.26,10.52
+SALE-00377,CR003,Granite Wren,bird,1,2,pristine,1852,3,0.644,display,Capital Display,2,19.04,38.08
+SALE-00021,CR001,Leatherback Burrower,bird,3,4,fair,1852,4,0.707,archivist,Capital Archives,1,26.51,26.51
+SALE-00186,CR011,Cave Moth,insect,0,2,good,1852,4,0.485,scholar,Scholar Study,2,9.44,18.88
+SALE-00581,CR003,Granite Wren,bird,1,2,damaged,1852,4,0.661,collector,Senate Zoological,4,6.06,24.24
+SALE-01009,CR006,Glass Beetle,insect,2,6,fair,1852,4,0.871,collector,Unknown,1,43.87,43.87
+SALE-01128,CR013,Quarry Toad,amphibian,2,3,fair,1852,4,0.704,senator,Private Collection,2,29.41,58.82
+SALE-01531,CR010,Grimslew,mammal,7,7,good,1852,4,0.751,scholar,Scholar Study,1,202.7,202.7
+SALE-01881,CR011,Cave Moth,insect,0,2,fair,1852,4,0.811,archivist,Capital Archives,3,7.01,21.03
+SALE-00147,CR011,Cave Moth,insect,0,2,fair,1852,5,0.634,trader,Miasto Market,1,3.34,3.34
+SALE-00901,CR006,Glass Beetle,insect,2,6,good,1852,5,0.808,scholar,Scholar Study,2,149.52,299.04
+SALE-01197,CR007,Yeller Bird,bird,0,3,fair,1852,5,0.632,archivist,Capital Archives,1,25.9,25.9
+SALE-01868,CR014,Densmuck Crawler,arthropod,4,5,damaged,1852,5,0.861,archivist,Capital Archives,1,46.85,46.85
+SALE-01927,CR013,Quarry Toad,amphibian,2,3,fair,1852,5,0.648,archivist,Capital Archives,1,24.02,24.02
+SALE-01554,CR002,Stone Spine Lizard,reptile,5,7,fair,1852,7,0.784,trader,Miasto Market,1,272.02,272.02
+SALE-00348,CR005,Marsh Stalker,reptile,6,5,damaged,1852,8,0.558,senator,Private Collection,1,107.97,107.97
+SALE-00444,CR001,Leatherback Burrower,bird,3,4,fair,1852,8,0.767,trader,Miasto Market,1,10.58,10.58
+SALE-00558,CR001,Leatherback Burrower,bird,3,4,fair,1852,8,0.89,display,Capital Display,1,15.68,15.68
+SALE-00739,CR008,Wharver,mammal,8,6,good,1852,8,0.788,trader,Miasto Market,2,589.74,1179.48
+SALE-00464,CR006,Glass Beetle,insect,2,6,good,1852,9,0.304,senator,Private Collection,1,117.5,117.5
+SALE-01089,CR013,Quarry Toad,amphibian,2,3,good,1852,9,0.892,unknown,Capital Archives,1,68.23,68.23
+SALE-01291,CR005,Marsh Stalker,reptile,6,5,partial,1852,9,0.788,collector,Private Collection,1,13.69,13.69
+SALE-01772,CR004,Swamp Hornet,insect,4,1,fair,1852,9,0.692,senator,Senate Zoological,4,4.65,18.6
+SALE-01853,CR005,Marsh Stalker,reptile,6,5,fair,1852,9,0.787,senator,Senate Zoological,1,124.63,124.63
+SALE-01911,CR011,Cave Moth,insect,0,2,good,1852,9,0.361,collector,Private Collection,1,10.0,10.0
+SALE-00294,CR005,Marsh Stalker,reptile,6,5,pristine,1852,10,0.444,archivist,Capital Archives,1,462.76,462.76
+SALE-00355,CR003,Granite Wren,bird,1,2,fair,1852,10,0.415,collector,Private Collection,1,11.53,11.53
+SALE-00600,CR011,Cave Moth,insect,0,2,fair,1852,10,0.799,senator,Senate Zoological,4,5.74,22.96
+SALE-00098,CR011,Cave Moth,insect,0,2,fair,1852,11,0.632,collector,Senate Zoological,1,7.43,7.43
+SALE-00299,CR008,Wharver,mammal,8,6,fair,1852,11,0.576,archivist,Capital Archives,1,380.69,380.69
+SALE-00888,CR001,Leatherback Burrower,bird,3,4,partial,1852,11,0.855,unknown,Capital Display,2,5.91,11.82
+SALE-01136,CR008,Wharver,mammal,8,6,partial,1852,11,0.777,archivist,Capital Archives,1,43.69,43.69
+SALE-00036,CR004,Swamp Hornet,insect,4,1,fair,1852,12,0.813,scholar,Scholar Study,3,3.34,10.02
+SALE-00395,CR009,Stakdur,reptile,9,8,fair,1852,12,0.601,unknown,Scholar Study,1,253.52,253.52
+SALE-00804,CR008,Wharver,mammal,8,6,partial,1852,12,0.822,collector,Capital Display,1,26.0,26.0
+SALE-00920,CR003,Granite Wren,bird,1,2,good,1852,12,0.945,collector,Miasto Market,1,31.65,31.65
+SALE-00787,CR004,Swamp Hornet,insect,4,1,damaged,1852,13,0.6,senator,Senate Zoological,1,1.48,1.48
+SALE-01797,CR003,Granite Wren,bird,1,2,pristine,1852,13,0.637,scholar,Scholar Study,1,23.12,23.12
+SALE-00113,CR004,Swamp Hornet,insect,4,1,fair,1852,14,0.92,scholar,Scholar Study,3,2.84,8.52
+SALE-00743,CR005,Marsh Stalker,reptile,6,5,partial,1852,14,0.976,trader,Miasto Market,1,26.49,26.49
+SALE-01909,CR001,Leatherback Burrower,bird,3,4,pristine,1852,14,0.585,trader,Miasto Market,1,27.81,27.81
+SALE-00124,CR003,Granite Wren,bird,1,2,fair,1852,15,0.949,display,Capital Display,1,20.23,20.23
+SALE-00267,CR013,Quarry Toad,amphibian,2,3,good,1852,15,0.684,senator,Private Collection,2,37.61,75.22
+SALE-00324,CR005,Marsh Stalker,reptile,6,5,fair,1852,15,0.777,display,Capital Display,1,131.05,131.05
+SALE-00418,CR003,Granite Wren,bird,1,2,damaged,1852,15,0.95,archivist,Capital Archives,3,11.03,33.09
+SALE-00799,CR015,Golden Amalgam Snail,mollusk,0,9,good,1852,15,0.733,trader,Miasto Market,1,1086.88,1086.88
+SALE-01132,CR014,Densmuck Crawler,arthropod,4,5,good,1852,15,0.357,archivist,Capital Archives,1,101.11,101.11
+SALE-01983,CR004,Swamp Hornet,insect,4,1,good,1852,15,0.689,unknown,Capital Archives,1,2.56,2.56
+SALE-01994,CR008,Wharver,mammal,8,6,damaged,1852,15,0.944,archivist,Capital Archives,1,112.42,112.42
+SALE-00608,CR011,Cave Moth,insect,0,2,fair,1852,16,0.307,display,Capital Display,1,6.72,6.72
+SALE-00672,CR006,Glass Beetle,insect,2,6,fair,1852,16,0.308,senator,Senate Zoological,1,122.0,122.0
+SALE-01287,CR005,Marsh Stalker,reptile,6,5,good,1852,16,0.499,collector,Senate Zoological,1,45.32,45.32
+SALE-01399,CR007,Yeller Bird,bird,0,3,damaged,1852,17,0.767,trader,Miasto Market,1,16.28,16.28
+SALE-01591,CR003,Granite Wren,bird,1,2,fair,1852,17,0.582,scholar,Scholar Study,1,29.04,29.04
+SALE-00883,CR002,Stone Spine Lizard,reptile,5,7,fair,1852,18,0.776,scholar,Scholar Study,1,301.61,301.61
+SALE-00977,CR008,Wharver,mammal,8,6,fair,1852,18,0.828,collector,Senate Zoological,2,494.99,989.98
+SALE-01085,CR011,Cave Moth,insect,0,2,partial,1852,18,0.703,collector,Scholar Study,3,1.76,5.28
+SALE-01236,CR014,Densmuck Crawler,arthropod,4,5,pristine,1852,18,0.763,collector,Capital Archives,1,125.23,125.23
+SALE-00207,CR003,Granite Wren,bird,1,2,partial,1852,19,0.641,unknown,Scholar Study,1,5.23,5.23
+SALE-00639,CR004,Swamp Hornet,insect,4,1,damaged,1852,19,0.922,scholar,Scholar Study,1,2.32,2.32
+SALE-01027,CR007,Yeller Bird,bird,0,3,good,1852,19,0.537,archivist,Capital Archives,1,34.7,34.7
+SALE-01271,CR013,Quarry Toad,amphibian,2,3,damaged,1852,19,0.37,archivist,Capital Archives,1,16.6,16.6
+SALE-01626,CR003,Granite Wren,bird,1,2,good,1852,19,0.934,scholar,Scholar Study,1,19.12,19.12
+SALE-01790,CR011,Cave Moth,insect,0,2,damaged,1852,19,0.567,senator,Senate Zoological,3,2.52,7.56
+SALE-00193,CR010,Grimslew,mammal,7,7,damaged,1852,20,0.918,trader,Miasto Market,1,114.56,114.56
+SALE-00749,CR014,Densmuck Crawler,arthropod,4,5,fair,1852,20,0.623,senator,Private Collection,1,102.33,102.33
+SALE-01360,CR012,Tunnel Eel,fish,3,4,good,1852,20,0.665,unknown,Capital Archives,1,24.06,24.06
+SALE-01377,CR004,Swamp Hornet,insect,4,1,fair,1852,20,0.667,collector,Capital Archives,2,3.8,7.6
+SALE-01992,CR013,Quarry Toad,amphibian,2,3,good,1852,20,0.928,collector,Senate Zoological,1,34.47,34.47
+SALE-00902,CR013,Quarry Toad,amphibian,2,3,fair,1852,21,0.949,archivist,Capital Archives,1,26.67,26.67
+SALE-00942,CR012,Tunnel Eel,fish,3,4,good,1852,22,0.456,collector,Unknown,1,22.22,22.22
+SALE-01055,CR001,Leatherback Burrower,bird,3,4,fair,1852,22,0.864,unknown,Private Collection,1,40.28,40.28
+SALE-01641,CR006,Glass Beetle,insect,2,6,pristine,1852,22,0.562,collector,Private Collection,1,106.68,106.68
+SALE-00680,CR012,Tunnel Eel,fish,3,4,partial,1852,23,0.728,unknown,Private Collection,1,11.36,11.36
+SALE-01736,CR013,Quarry Toad,amphibian,2,3,partial,1852,23,0.588,collector,Capital Display,1,8.88,8.88
+SALE-01116,CR011,Cave Moth,insect,0,2,good,1852,24,0.705,display,Capital Display,3,8.71,26.13
+SALE-01920,CR007,Yeller Bird,bird,0,3,fair,1852,24,0.789,collector,Miasto Market,1,56.61,56.61
+SALE-00220,CR011,Cave Moth,insect,0,2,good,1852,25,0.728,scholar,Scholar Study,2,8.87,17.74
+SALE-01674,CR013,Quarry Toad,amphibian,2,3,fair,1852,25,0.833,trader,Miasto Market,4,9.65,38.6
+SALE-01522,CR008,Wharver,mammal,8,6,good,1852,26,0.71,unknown,Scholar Study,1,95.17,95.17
+SALE-01902,CR005,Marsh Stalker,reptile,6,5,damaged,1852,26,0.937,scholar,Scholar Study,2,36.76,73.52
+SALE-00050,CR011,Cave Moth,insect,0,2,good,1852,27,0.749,senator,Senate Zoological,2,8.19,16.38
+SALE-00482,CR003,Granite Wren,bird,1,2,fair,1852,27,0.698,archivist,Capital Archives,2,20.54,41.08
+SALE-01759,CR005,Marsh Stalker,reptile,6,5,pristine,1852,27,0.739,archivist,Capital Archives,1,257.91,257.91
+SALE-01951,CR005,Marsh Stalker,reptile,6,5,pristine,1852,27,0.785,scholar,Scholar Study,1,73.08,73.08
+SALE-00731,CR007,Yeller Bird,bird,0,3,good,1852,28,0.97,senator,Senate Zoological,1,44.59,44.59
+SALE-01038,CR013,Quarry Toad,amphibian,2,3,fair,1852,28,0.908,display,Capital Display,5,22.75,113.75
+SALE-01095,CR001,Leatherback Burrower,bird,3,4,fair,1852,28,0.427,archivist,Capital Archives,1,35.77,35.77
+SALE-01698,CR013,Quarry Toad,amphibian,2,3,good,1852,28,0.822,collector,Capital Display,3,25.69,77.07
+SALE-01798,CR001,Leatherback Burrower,bird,3,4,pristine,1852,28,0.603,unknown,Miasto Market,2,26.72,53.44
+SALE-01907,CR004,Swamp Hornet,insect,4,1,fair,1852,28,0.825,archivist,Capital Archives,2,3.47,6.94
+SALE-00774,CR003,Granite Wren,bird,1,2,good,1852,29,0.912,unknown,Private Collection,1,28.05,28.05
+SALE-01177,CR005,Marsh Stalker,reptile,6,5,damaged,1852,29,0.772,trader,Miasto Market,1,70.31,70.31
+SALE-00137,CR013,Quarry Toad,amphibian,2,3,damaged,1852,30,0.505,collector,Capital Display,1,18.0,18.0
+SALE-00316,CR011,Cave Moth,insect,0,2,fair,1852,30,0.833,trader,Miasto Market,2,3.51,7.02
+SALE-00494,CR002,Stone Spine Lizard,reptile,5,7,pristine,1852,30,0.595,unknown,Capital Display,1,325.38,325.38
+SALE-01135,CR011,Cave Moth,insect,0,2,good,1852,30,0.604,collector,Miasto Market,3,5.34,16.02
+SALE-00582,CR006,Glass Beetle,insect,2,6,partial,1852,31,0.739,senator,Senate Zoological,1,25.52,25.52
+SALE-01722,CR004,Swamp Hornet,insect,4,1,fair,1852,31,0.819,scholar,Scholar Study,2,3.71,7.42
+SALE-01805,CR003,Granite Wren,bird,1,2,fair,1852,31,0.656,unknown,Miasto Market,3,20.03,60.09
+SALE-00073,CR015,Golden Amalgam Snail,mollusk,0,9,fair,1852,32,0.95,collector,Capital Display,1,426.66,426.66
+SALE-00174,CR003,Granite Wren,bird,1,2,damaged,1852,32,0.766,unknown,Capital Archives,1,13.61,13.61
+SALE-01405,CR006,Glass Beetle,insect,2,6,partial,1852,32,0.747,archivist,Capital Archives,1,13.65,13.65
+SALE-00345,CR007,Yeller Bird,bird,0,3,good,1852,33,0.955,collector,Private Collection,1,26.06,26.06
+SALE-00630,CR006,Glass Beetle,insect,2,6,fair,1852,33,0.85,scholar,Scholar Study,1,153.26,153.26
+SALE-01644,CR001,Leatherback Burrower,bird,3,4,pristine,1852,33,0.764,scholar,Scholar Study,1,28.01,28.01
+SALE-01102,CR011,Cave Moth,insect,0,2,partial,1852,34,0.378,trader,Miasto Market,1,1.36,1.36
+SALE-01229,CR012,Tunnel Eel,fish,3,4,partial,1852,34,0.687,unknown,Scholar Study,1,5.94,5.94
+SALE-00747,CR008,Wharver,mammal,8,6,partial,1852,35,0.938,archivist,Capital Archives,1,90.29,90.29
+SALE-01228,CR007,Yeller Bird,bird,0,3,fair,1852,35,0.651,scholar,Scholar Study,2,27.71,55.42
+SALE-01415,CR002,Stone Spine Lizard,reptile,5,7,fair,1852,35,0.67,senator,Private Collection,1,357.01,357.01
+SALE-00990,CR004,Swamp Hornet,insect,4,1,pristine,1852,36,0.616,display,Capital Display,5,5.63,28.15
+SALE-01241,CR003,Granite Wren,bird,1,2,damaged,1852,36,0.694,scholar,Scholar Study,3,11.08,33.24
+SALE-01338,CR005,Marsh Stalker,reptile,6,5,partial,1852,36,0.75,trader,Miasto Market,1,54.87,54.87
+SALE-01500,CR007,Yeller Bird,bird,0,3,damaged,1852,36,0.708,collector,Senate Zoological,3,11.56,34.68
+SALE-01280,CR004,Swamp Hornet,insect,4,1,partial,1852,37,0.623,collector,Capital Display,1,1.0,1.0
+SALE-01588,CR007,Yeller Bird,bird,0,3,fair,1852,37,0.753,trader,Miasto Market,2,20.66,41.32
+SALE-01382,CR009,Stakdur,reptile,9,8,fair,1852,38,0.906,scholar,Scholar Study,1,263.15,263.15
+SALE-00047,CR003,Granite Wren,bird,1,2,pristine,1852,39,0.299,collector,Senate Zoological,1,35.14,35.14
+SALE-00841,CR012,Tunnel Eel,fish,3,4,fair,1852,39,0.621,collector,Scholar Study,1,38.64,38.64
+SALE-00846,CR006,Glass Beetle,insect,2,6,fair,1852,39,0.72,collector,Miasto Market,1,62.05,62.05
+SALE-00939,CR001,Leatherback Burrower,bird,3,4,partial,1852,39,0.653,senator,Senate Zoological,1,7.58,7.58
+SALE-01332,CR008,Wharver,mammal,8,6,fair,1852,39,0.718,collector,Capital Archives,1,217.94,217.94
+SALE-01367,CR010,Grimslew,mammal,7,7,pristine,1852,39,0.769,trader,Miasto Market,1,683.83,683.83
+SALE-00405,CR007,Yeller Bird,bird,0,3,damaged,1852,40,0.722,collector,Private Collection,1,39.53,39.53
+SALE-00671,CR011,Cave Moth,insect,0,2,good,1852,40,0.529,trader,Miasto Market,1,6.86,6.86
+SALE-00972,CR014,Densmuck Crawler,arthropod,4,5,fair,1852,40,0.774,senator,Private Collection,2,69.32,138.64
+SALE-01209,CR008,Wharver,mammal,8,6,good,1852,40,0.626,archivist,Capital Archives,1,133.4,133.4
+SALE-01431,CR001,Leatherback Burrower,bird,3,4,damaged,1852,40,0.644,unknown,Scholar Study,1,24.54,24.54
+SALE-01448,CR012,Tunnel Eel,fish,3,4,fair,1852,40,0.54,display,Capital Display,1,31.03,31.03
+SALE-01778,CR004,Swamp Hornet,insect,4,1,good,1852,40,0.967,display,Capital Display,2,2.88,5.76
+SALE-00268,CR007,Yeller Bird,bird,0,3,fair,1852,41,0.665,display,Capital Display,4,32.21,128.84
+SALE-01351,CR007,Yeller Bird,bird,0,3,damaged,1852,41,0.82,collector,Miasto Market,1,43.43,43.43
+SALE-01968,CR013,Quarry Toad,amphibian,2,3,fair,1852,41,0.777,senator,Senate Zoological,1,23.77,23.77
+SALE-00130,CR006,Glass Beetle,insect,2,6,damaged,1852,42,0.483,archivist,Capital Archives,1,34.84,34.84
+SALE-00979,CR013,Quarry Toad,amphibian,2,3,fair,1852,42,0.822,display,Capital Display,1,18.84,18.84
+SALE-01131,CR003,Granite Wren,bird,1,2,good,1852,42,0.496,archivist,Capital Archives,1,21.22,21.22
+SALE-00589,CR005,Marsh Stalker,reptile,6,5,fair,1852,43,0.67,archivist,Capital Archives,2,73.06,146.12
+SALE-00842,CR007,Yeller Bird,bird,0,3,good,1852,43,0.871,trader,Miasto Market,2,14.05,28.1
+SALE-01449,CR004,Swamp Hornet,insect,4,1,damaged,1852,43,0.681,display,Capital Display,1,2.66,2.66
+SALE-00003,CR007,Yeller Bird,bird,0,3,fair,1852,44,0.653,display,Capital Display,4,17.85,71.4
+SALE-00648,CR011,Cave Moth,insect,0,2,damaged,1852,44,0.495,senator,Private Collection,3,4.78,14.34
+SALE-00792,CR008,Wharver,mammal,8,6,partial,1852,44,0.92,display,Capital Display,2,31.12,62.24
+SALE-01972,CR003,Granite Wren,bird,1,2,damaged,1852,44,0.611,display,Capital Display,2,9.45,18.9
+SALE-00057,CR012,Tunnel Eel,fish,3,4,good,1852,45,0.992,collector,Private Collection,1,34.61,34.61
+SALE-00173,CR013,Quarry Toad,amphibian,2,3,good,1852,45,0.681,collector,Capital Archives,3,40.56,121.68
+SALE-00362,CR003,Granite Wren,bird,1,2,good,1852,45,0.936,unknown,Scholar Study,1,46.23,46.23
+SALE-00808,CR012,Tunnel Eel,fish,3,4,damaged,1852,45,0.581,senator,Private Collection,1,41.02,41.02
+SALE-01914,CR005,Marsh Stalker,reptile,6,5,good,1852,45,0.878,unknown,Senate Zoological,1,117.88,117.88
+SALE-00915,CR014,Densmuck Crawler,arthropod,4,5,pristine,1852,46,0.655,senator,Private Collection,1,71.94,71.94
+SALE-01214,CR011,Cave Moth,insect,0,2,good,1852,46,0.877,scholar,Scholar Study,1,11.79,11.79
+SALE-01804,CR001,Leatherback Burrower,bird,3,4,fair,1852,46,0.728,trader,Miasto Market,1,17.88,17.88
+SALE-00237,CR012,Tunnel Eel,fish,3,4,damaged,1852,47,0.709,trader,Miasto Market,1,18.68,18.68
+SALE-00373,CR013,Quarry Toad,amphibian,2,3,damaged,1852,47,0.899,archivist,Capital Archives,1,18.27,18.27
+SALE-00566,CR001,Leatherback Burrower,bird,3,4,good,1852,47,0.66,scholar,Scholar Study,1,50.85,50.85
+SALE-01329,CR008,Wharver,mammal,8,6,fair,1852,47,0.456,display,Capital Display,1,113.93,113.93
+SALE-00462,CR012,Tunnel Eel,fish,3,4,good,1852,48,0.934,unknown,Capital Archives,1,74.4,74.4
+SALE-00497,CR013,Quarry Toad,amphibian,2,3,good,1852,48,0.561,scholar,Scholar Study,2,35.18,70.36
+SALE-00843,CR003,Granite Wren,bird,1,2,partial,1852,48,0.476,scholar,Scholar Study,2,2.7,5.4
+SALE-01364,CR012,Tunnel Eel,fish,3,4,damaged,1852,48,0.775,senator,Private Collection,1,21.58,21.58
+SALE-00159,CR010,Grimslew,mammal,7,7,good,1852,49,0.844,trader,Miasto Market,1,274.47,274.47
+SALE-00374,CR001,Leatherback Burrower,bird,3,4,fair,1852,49,0.838,display,Capital Display,1,32.07,32.07
+SALE-00994,CR006,Glass Beetle,insect,2,6,fair,1852,49,0.721,trader,Miasto Market,2,97.8,195.6
+SALE-01275,CR003,Granite Wren,bird,1,2,fair,1852,49,0.245,senator,Senate Zoological,1,20.35,20.35
+SALE-01316,CR007,Yeller Bird,bird,0,3,fair,1852,49,0.808,trader,Miasto Market,3,23.86,71.58
+SALE-00677,CR005,Marsh Stalker,reptile,6,5,good,1852,50,0.596,display,Capital Display,1,304.79,304.79
+SALE-01099,CR003,Granite Wren,bird,1,2,fair,1852,50,0.573,scholar,Scholar Study,4,19.42,77.68
+SALE-01385,CR005,Marsh Stalker,reptile,6,5,fair,1852,50,0.976,display,Capital Display,1,136.31,136.31
+SALE-01816,CR012,Tunnel Eel,fish,3,4,pristine,1852,50,0.589,archivist,Capital Archives,1,67.1,67.1
+SALE-01865,CR011,Cave Moth,insect,0,2,pristine,1852,50,0.82,archivist,Capital Archives,3,14.58,43.74
+SALE-00369,CR011,Cave Moth,insect,0,2,fair,1852,52,0.731,unknown,Senate Zoological,1,8.53,8.53
+SALE-00952,CR012,Tunnel Eel,fish,3,4,good,1852,52,0.878,collector,Unknown,1,41.24,41.24
+SALE-01200,CR013,Quarry Toad,amphibian,2,3,fair,1852,52,0.846,trader,Miasto Market,1,20.11,20.11
+SALE-01308,CR006,Glass Beetle,insect,2,6,fair,1852,52,0.867,scholar,Scholar Study,1,83.08,83.08
+SALE-00071,CR005,Marsh Stalker,reptile,6,5,pristine,1853,1,0.329,display,Capital Display,1,95.7,95.7
+SALE-00567,CR004,Swamp Hornet,insect,4,1,damaged,1853,1,0.841,trader,Miasto Market,1,2.25,2.25
+SALE-01233,CR011,Cave Moth,insect,0,2,good,1853,1,0.667,scholar,Scholar Study,3,9.69,29.07
+SALE-01285,CR010,Grimslew,mammal,7,7,pristine,1853,1,0.908,display,Capital Display,1,548.96,548.96
+SALE-00110,CR009,Stakdur,reptile,9,8,damaged,1853,2,0.837,unknown,Senate Zoological,1,90.07,90.07
+SALE-01322,CR008,Wharver,mammal,8,6,good,1853,2,0.833,display,Capital Display,1,77.35,77.35
+SALE-01593,CR010,Grimslew,mammal,7,7,pristine,1853,2,0.819,archivist,Capital Archives,1,158.63,158.63
+SALE-01767,CR014,Densmuck Crawler,arthropod,4,5,fair,1853,2,0.62,display,Capital Display,1,49.17,49.17
+SALE-00599,CR003,Granite Wren,bird,1,2,pristine,1853,3,0.791,senator,Private Collection,2,47.96,95.92
+SALE-01018,CR001,Leatherback Burrower,bird,3,4,fair,1853,3,0.554,collector,Capital Display,1,34.16,34.16
+SALE-01035,CR004,Swamp Hornet,insect,4,1,fair,1853,3,0.67,archivist,Capital Archives,2,1.93,3.86
+SALE-00318,CR004,Swamp Hornet,insect,4,1,good,1853,4,0.838,collector,Scholar Study,2,2.5,5.0
+SALE-00606,CR012,Tunnel Eel,fish,3,4,good,1853,4,0.491,trader,Miasto Market,2,18.96,37.92
+SALE-01301,CR008,Wharver,mammal,8,6,fair,1853,4,0.59,archivist,Capital Archives,2,57.84,115.68
+SALE-00637,CR001,Leatherback Burrower,bird,3,4,fair,1853,6,0.649,archivist,Capital Archives,1,59.88,59.88
+SALE-01217,CR006,Glass Beetle,insect,2,6,fair,1853,6,0.706,senator,Private Collection,1,108.87,108.87
+SALE-01681,CR004,Swamp Hornet,insect,4,1,good,1853,7,0.724,scholar,Scholar Study,1,5.94,5.94
+SALE-00559,CR011,Cave Moth,insect,0,2,fair,1853,8,0.858,collector,Unknown,4,7.83,31.32
+SALE-01634,CR013,Quarry Toad,amphibian,2,3,fair,1853,8,0.548,unknown,Unknown,1,26.78,26.78
+SALE-01437,CR005,Marsh Stalker,reptile,6,5,damaged,1853,9,0.317,archivist,Capital Archives,1,31.45,31.45
+SALE-01752,CR013,Quarry Toad,amphibian,2,3,pristine,1853,9,0.74,senator,Senate Zoological,2,43.26,86.52
+SALE-01846,CR004,Swamp Hornet,insect,4,1,damaged,1853,9,0.909,unknown,Private Collection,5,1.68,8.4
+SALE-00328,CR006,Glass Beetle,insect,2,6,good,1853,10,0.871,archivist,Capital Archives,1,188.15,188.15
+SALE-00549,CR012,Tunnel Eel,fish,3,4,partial,1853,10,0.805,collector,Capital Archives,1,5.56,5.56
+SALE-00580,CR007,Yeller Bird,bird,0,3,fair,1853,10,0.596,senator,Senate Zoological,3,41.34,124.02
+SALE-00604,CR003,Granite Wren,bird,1,2,fair,1853,10,0.876,trader,Miasto Market,2,18.33,36.66
+SALE-00772,CR010,Grimslew,mammal,7,7,good,1853,10,0.713,collector,Scholar Study,1,412.81,412.81
+SALE-01199,CR011,Cave Moth,insect,0,2,pristine,1853,10,0.921,archivist,Capital Archives,4,9.8,39.2
+SALE-01248,CR001,Leatherback Burrower,bird,3,4,fair,1853,10,0.766,senator,Private Collection,1,29.08,29.08
+SALE-01319,CR003,Granite Wren,bird,1,2,pristine,1853,10,0.811,collector,Miasto Market,1,38.28,38.28
+SALE-01650,CR014,Densmuck Crawler,arthropod,4,5,good,1853,10,0.757,senator,Senate Zoological,2,29.44,58.88
+SALE-01655,CR004,Swamp Hornet,insect,4,1,partial,1853,10,0.94,trader,Miasto Market,3,1.0,3.0
+SALE-00148,CR014,Densmuck Crawler,arthropod,4,5,partial,1853,11,0.763,display,Capital Display,1,12.16,12.16
+SALE-01569,CR006,Glass Beetle,insect,2,6,fair,1853,11,0.732,unknown,Scholar Study,1,141.91,141.91
+SALE-01646,CR012,Tunnel Eel,fish,3,4,pristine,1853,11,0.604,senator,Private Collection,1,32.52,32.52
+SALE-01926,CR007,Yeller Bird,bird,0,3,good,1853,11,0.665,collector,Capital Archives,1,15.52,15.52
+SALE-00150,CR007,Yeller Bird,bird,0,3,good,1853,12,0.785,trader,Miasto Market,1,40.9,40.9
+SALE-00260,CR004,Swamp Hornet,insect,4,1,fair,1853,12,0.829,unknown,Capital Archives,1,1.49,1.49
+SALE-00058,CR007,Yeller Bird,bird,0,3,pristine,1853,13,0.55,senator,Private Collection,2,22.05,44.1
+SALE-00619,CR011,Cave Moth,insect,0,2,good,1853,13,0.857,collector,Unknown,2,12.06,24.12
+SALE-00699,CR008,Wharver,mammal,8,6,fair,1853,13,0.642,trader,Miasto Market,1,260.5,260.5
+SALE-01148,CR011,Cave Moth,insect,0,2,fair,1853,13,0.829,archivist,Capital Archives,5,4.38,21.9
+SALE-00900,CR001,Leatherback Burrower,bird,3,4,pristine,1853,14,0.945,unknown,Capital Archives,1,69.03,69.03
+SALE-01103,CR003,Granite Wren,bird,1,2,fair,1853,14,0.614,scholar,Scholar Study,1,11.78,11.78
+SALE-00123,CR005,Marsh Stalker,reptile,6,5,fair,1853,15,0.301,collector,Senate Zoological,2,67.51,135.02
+SALE-00287,CR003,Granite Wren,bird,1,2,partial,1853,15,0.657,collector,Capital Archives,1,2.53,2.53
+SALE-01063,CR003,Granite Wren,bird,1,2,fair,1853,15,0.774,unknown,Capital Display,1,22.83,22.83
+SALE-01619,CR001,Leatherback Burrower,bird,3,4,damaged,1853,15,0.77,display,Capital Display,1,27.98,27.98
+SALE-01870,CR011,Cave Moth,insect,0,2,fair,1853,15,0.856,unknown,Capital Archives,4,5.89,23.56
+SALE-00117,CR014,Densmuck Crawler,arthropod,4,5,damaged,1853,16,0.85,senator,Senate Zoological,1,82.36,82.36
+SALE-01596,CR003,Granite Wren,bird,1,2,fair,1853,16,0.897,archivist,Capital Archives,2,19.21,38.42
+SALE-00590,CR001,Leatherback Burrower,bird,3,4,partial,1853,17,0.869,unknown,Capital Archives,1,6.23,6.23
+SALE-01268,CR012,Tunnel Eel,fish,3,4,fair,1853,17,0.693,senator,Senate Zoological,2,34.14,68.28
+SALE-00565,CR006,Glass Beetle,insect,2,6,fair,1853,18,0.61,senator,Senate Zoological,1,33.86,33.86
+SALE-00949,CR001,Leatherback Burrower,bird,3,4,good,1853,18,0.789,senator,Private Collection,1,41.89,41.89
+SALE-01325,CR002,Stone Spine Lizard,reptile,5,7,damaged,1853,18,0.843,collector,Capital Display,1,216.26,216.26
+SALE-01537,CR003,Granite Wren,bird,1,2,fair,1853,18,0.831,scholar,Scholar Study,3,17.53,52.59
+SALE-01705,CR005,Marsh Stalker,reptile,6,5,fair,1853,18,0.431,unknown,Capital Display,1,53.22,53.22
+SALE-00503,CR010,Grimslew,mammal,7,7,fair,1853,19,0.934,display,Capital Display,1,145.45,145.45
+SALE-00594,CR014,Densmuck Crawler,arthropod,4,5,partial,1853,19,0.809,collector,Unknown,1,19.59,19.59
+SALE-00455,CR003,Granite Wren,bird,1,2,fair,1853,20,0.832,unknown,Unknown,1,14.22,14.22
+SALE-01264,CR007,Yeller Bird,bird,0,3,good,1853,20,0.656,archivist,Capital Archives,1,49.34,49.34
+SALE-00335,CR010,Grimslew,mammal,7,7,fair,1853,21,0.473,unknown,Scholar Study,1,80.37,80.37
+SALE-01091,CR003,Granite Wren,bird,1,2,fair,1853,21,0.755,display,Capital Display,2,16.11,32.22
+SALE-01562,CR011,Cave Moth,insect,0,2,partial,1853,21,0.366,senator,Senate Zoological,1,2.33,2.33
+SALE-01139,CR001,Leatherback Burrower,bird,3,4,fair,1853,22,0.883,collector,Capital Archives,1,55.48,55.48
+SALE-01272,CR013,Quarry Toad,amphibian,2,3,fair,1853,22,0.528,scholar,Scholar Study,1,18.28,18.28
+SALE-01453,CR007,Yeller Bird,bird,0,3,damaged,1853,22,0.726,trader,Miasto Market,5,11.81,59.05
+SALE-01676,CR014,Densmuck Crawler,arthropod,4,5,good,1853,22,0.94,archivist,Capital Archives,1,80.72,80.72
+SALE-01718,CR013,Quarry Toad,amphibian,2,3,damaged,1853,22,0.708,collector,Unknown,2,11.09,22.18
+SALE-00238,CR014,Densmuck Crawler,arthropod,4,5,fair,1853,23,0.877,trader,Miasto Market,1,37.33,37.33
+SALE-00336,CR011,Cave Moth,insect,0,2,damaged,1853,23,0.878,unknown,Capital Display,1,8.3,8.3
+SALE-01330,CR001,Leatherback Burrower,bird,3,4,good,1853,23,0.958,archivist,Capital Archives,1,32.91,32.91
+SALE-01749,CR011,Cave Moth,insect,0,2,fair,1853,23,0.793,collector,Capital Archives,2,10.51,21.02
+SALE-01886,CR004,Swamp Hornet,insect,4,1,damaged,1853,23,0.256,senator,Private Collection,3,1.87,5.61
+SALE-01901,CR001,Leatherback Burrower,bird,3,4,damaged,1853,23,0.815,archivist,Capital Archives,1,15.8,15.8
+SALE-00231,CR012,Tunnel Eel,fish,3,4,damaged,1853,24,0.813,scholar,Scholar Study,1,23.84,23.84
+SALE-00244,CR011,Cave Moth,insect,0,2,damaged,1853,24,0.674,archivist,Capital Archives,2,4.73,9.46
+SALE-00333,CR007,Yeller Bird,bird,0,3,fair,1853,24,0.614,archivist,Capital Archives,1,27.82,27.82
+SALE-00387,CR001,Leatherback Burrower,bird,3,4,partial,1853,24,0.891,collector,Capital Archives,1,5.07,5.07
+SALE-00448,CR010,Grimslew,mammal,7,7,good,1853,24,0.811,trader,Miasto Market,1,268.84,268.84
+SALE-00756,CR002,Stone Spine Lizard,reptile,5,7,damaged,1853,24,0.944,archivist,Capital Archives,1,90.74,90.74
+SALE-01518,CR001,Leatherback Burrower,bird,3,4,good,1853,24,0.924,collector,Unknown,2,27.55,55.1
+SALE-01991,CR012,Tunnel Eel,fish,3,4,good,1853,24,0.496,unknown,Miasto Market,1,64.3,64.3
+SALE-00343,CR011,Cave Moth,insect,0,2,damaged,1853,25,0.654,scholar,Scholar Study,3,5.25,15.75
+SALE-00437,CR013,Quarry Toad,amphibian,2,3,good,1853,25,0.757,collector,Scholar Study,3,17.86,53.58
+SALE-00633,CR006,Glass Beetle,insect,2,6,good,1853,25,0.283,unknown,Private Collection,2,82.61,165.22
+SALE-01087,CR004,Swamp Hornet,insect,4,1,fair,1853,25,0.937,display,Capital Display,1,2.57,2.57
+SALE-01917,CR002,Stone Spine Lizard,reptile,5,7,good,1853,25,0.725,trader,Miasto Market,1,133.92,133.92
+SALE-01388,CR004,Swamp Hornet,insect,4,1,good,1853,26,0.68,scholar,Scholar Study,1,5.37,5.37
+SALE-00692,CR004,Swamp Hornet,insect,4,1,fair,1853,27,0.654,scholar,Scholar Study,2,1.61,3.22
+SALE-01627,CR003,Granite Wren,bird,1,2,pristine,1853,27,0.503,display,Capital Display,1,28.97,28.97
+SALE-01693,CR004,Swamp Hornet,insect,4,1,good,1853,27,0.923,archivist,Capital Archives,2,1.6,3.2
+SALE-01649,CR005,Marsh Stalker,reptile,6,5,damaged,1853,28,0.743,scholar,Scholar Study,1,90.02,90.02
+SALE-00142,CR010,Grimslew,mammal,7,7,fair,1853,29,0.622,unknown,Senate Zoological,1,481.92,481.92
+SALE-00644,CR003,Granite Wren,bird,1,2,pristine,1853,29,0.732,collector,Scholar Study,1,26.83,26.83
+SALE-01679,CR007,Yeller Bird,bird,0,3,damaged,1853,29,0.548,display,Capital Display,1,21.25,21.25
+SALE-01777,CR014,Densmuck Crawler,arthropod,4,5,fair,1853,29,0.764,trader,Miasto Market,1,32.0,32.0
+SALE-00011,CR013,Quarry Toad,amphibian,2,3,good,1853,30,0.825,unknown,Private Collection,1,13.02,13.02
+SALE-00835,CR011,Cave Moth,insect,0,2,pristine,1853,30,0.61,unknown,Scholar Study,3,8.18,24.54
+SALE-01668,CR014,Densmuck Crawler,arthropod,4,5,good,1853,30,0.507,display,Capital Display,1,30.98,30.98
+SALE-00421,CR010,Grimslew,mammal,7,7,damaged,1853,31,0.503,archivist,Capital Archives,2,80.91,161.82
+SALE-00512,CR010,Grimslew,mammal,7,7,damaged,1853,31,0.771,scholar,Scholar Study,1,149.3,149.3
+SALE-01458,CR014,Densmuck Crawler,arthropod,4,5,fair,1853,31,0.68,trader,Miasto Market,1,41.78,41.78
+SALE-01669,CR001,Leatherback Burrower,bird,3,4,damaged,1853,32,0.928,collector,Capital Archives,1,19.28,19.28
+SALE-00104,CR008,Wharver,mammal,8,6,pristine,1853,33,0.578,scholar,Scholar Study,1,211.11,211.11
+SALE-00507,CR006,Glass Beetle,insect,2,6,good,1853,33,0.786,archivist,Capital Archives,1,101.48,101.48
+SALE-01648,CR013,Quarry Toad,amphibian,2,3,partial,1853,33,0.759,collector,Private Collection,1,5.52,5.52
+SALE-01867,CR013,Quarry Toad,amphibian,2,3,fair,1853,34,0.838,archivist,Capital Archives,5,24.32,121.6
+SALE-00038,CR005,Marsh Stalker,reptile,6,5,pristine,1853,36,0.918,trader,Miasto Market,1,50.25,50.25
+SALE-00463,CR002,Stone Spine Lizard,reptile,5,7,good,1853,36,0.92,senator,Private Collection,1,216.9,216.9
+SALE-01082,CR007,Yeller Bird,bird,0,3,good,1853,36,0.805,archivist,Capital Archives,5,61.62,308.1
+SALE-01210,CR006,Glass Beetle,insect,2,6,damaged,1853,36,0.923,display,Capital Display,1,75.27,75.27
+SALE-01578,CR003,Granite Wren,bird,1,2,good,1853,36,0.901,display,Capital Display,1,26.54,26.54
+SALE-01671,CR008,Wharver,mammal,8,6,fair,1853,36,0.937,scholar,Scholar Study,2,196.24,392.48
+SALE-00441,CR001,Leatherback Burrower,bird,3,4,good,1853,37,0.786,unknown,Private Collection,1,32.73,32.73
+SALE-01943,CR010,Grimslew,mammal,7,7,fair,1853,37,0.588,archivist,Capital Archives,1,507.67,507.67
+SALE-00751,CR003,Granite Wren,bird,1,2,damaged,1853,38,0.567,collector,Private Collection,3,5.7,17.1
+SALE-01096,CR013,Quarry Toad,amphibian,2,3,good,1853,38,0.397,display,Capital Display,2,17.35,34.7
+SALE-01933,CR010,Grimslew,mammal,7,7,damaged,1853,38,0.459,display,Capital Display,1,153.0,153.0
+SALE-00322,CR001,Leatherback Burrower,bird,3,4,pristine,1853,39,0.661,display,Capital Display,1,41.65,41.65
+SALE-00723,CR003,Granite Wren,bird,1,2,fair,1853,39,0.393,senator,Private Collection,1,18.39,18.39
+SALE-01707,CR012,Tunnel Eel,fish,3,4,damaged,1853,39,0.757,archivist,Capital Archives,2,7.87,15.74
+SALE-00131,CR010,Grimslew,mammal,7,7,fair,1853,40,0.845,archivist,Capital Archives,1,148.95,148.95
+SALE-01496,CR011,Cave Moth,insect,0,2,damaged,1853,40,0.788,trader,Miasto Market,3,2.18,6.54
+SALE-01068,CR011,Cave Moth,insect,0,2,damaged,1853,41,0.763,archivist,Capital Archives,1,3.0,3.0
+SALE-01357,CR003,Granite Wren,bird,1,2,fair,1853,41,0.598,trader,Miasto Market,4,8.39,33.56
+SALE-01630,CR004,Swamp Hornet,insect,4,1,damaged,1853,41,0.651,scholar,Scholar Study,2,1.53,3.06
+SALE-01810,CR015,Golden Amalgam Snail,mollusk,0,9,fair,1853,41,0.868,collector,Unknown,1,547.69,547.69
+SALE-01871,CR006,Glass Beetle,insect,2,6,damaged,1853,41,0.439,unknown,Private Collection,1,34.33,34.33
+SALE-01989,CR011,Cave Moth,insect,0,2,good,1853,41,0.785,display,Capital Display,2,6.99,13.98
+SALE-00622,CR014,Densmuck Crawler,arthropod,4,5,fair,1853,43,0.817,display,Capital Display,1,59.79,59.79
+SALE-01144,CR011,Cave Moth,insect,0,2,pristine,1853,43,0.849,scholar,Scholar Study,2,12.57,25.14
+SALE-01352,CR010,Grimslew,mammal,7,7,damaged,1853,43,0.943,senator,Senate Zoological,1,52.89,52.89
+SALE-02000,CR002,Stone Spine Lizard,reptile,5,7,good,1853,43,0.478,scholar,Scholar Study,1,169.22,169.22
+SALE-01454,CR012,Tunnel Eel,fish,3,4,partial,1853,44,0.581,trader,Miasto Market,1,6.5,6.5
+SALE-01645,CR004,Swamp Hornet,insect,4,1,fair,1853,44,0.833,unknown,Miasto Market,1,1.71,1.71
+SALE-01814,CR012,Tunnel Eel,fish,3,4,fair,1853,44,0.607,collector,Senate Zoological,1,18.89,18.89
+SALE-00685,CR013,Quarry Toad,amphibian,2,3,damaged,1853,45,0.827,collector,Senate Zoological,2,8.07,16.14
+SALE-00241,CR011,Cave Moth,insect,0,2,damaged,1853,47,0.53,collector,Capital Archives,2,7.53,15.06
+SALE-01511,CR012,Tunnel Eel,fish,3,4,good,1853,47,0.819,archivist,Capital Archives,1,46.36,46.36
+SALE-01841,CR012,Tunnel Eel,fish,3,4,pristine,1853,47,0.865,senator,Senate Zoological,1,132.86,132.86
+SALE-01955,CR004,Swamp Hornet,insect,4,1,partial,1853,47,0.239,scholar,Scholar Study,3,1.0,3.0
+SALE-00746,CR011,Cave Moth,insect,0,2,fair,1853,48,0.785,unknown,Unknown,1,17.03,17.03
+SALE-01156,CR012,Tunnel Eel,fish,3,4,damaged,1853,48,0.65,scholar,Scholar Study,1,9.84,9.84
+SALE-01168,CR011,Cave Moth,insect,0,2,damaged,1853,48,0.922,senator,Private Collection,1,6.6,6.6
+SALE-01997,CR004,Swamp Hornet,insect,4,1,partial,1853,48,0.914,collector,Miasto Market,3,1.01,3.03
+SALE-00160,CR009,Stakdur,reptile,9,8,damaged,1853,49,0.463,display,Capital Display,1,185.03,185.03
+SALE-00380,CR004,Swamp Hornet,insect,4,1,pristine,1853,49,0.57,unknown,Private Collection,1,2.82,2.82
+SALE-00922,CR003,Granite Wren,bird,1,2,damaged,1853,49,0.771,scholar,Scholar Study,2,8.79,17.58
+SALE-00116,CR014,Densmuck Crawler,arthropod,4,5,pristine,1853,50,0.813,senator,Senate Zoological,1,117.1,117.1
+SALE-00508,CR013,Quarry Toad,amphibian,2,3,fair,1853,50,0.45,unknown,Scholar Study,2,18.56,37.12
+SALE-01226,CR006,Glass Beetle,insect,2,6,good,1853,50,0.898,display,Capital Display,1,153.32,153.32
+SALE-01929,CR012,Tunnel Eel,fish,3,4,good,1853,50,0.966,scholar,Scholar Study,1,29.21,29.21
+SALE-00649,CR006,Glass Beetle,insect,2,6,damaged,1853,51,0.958,trader,Miasto Market,2,90.0,180.0
+SALE-00815,CR013,Quarry Toad,amphibian,2,3,fair,1853,51,0.623,scholar,Scholar Study,1,13.41,13.41
+SALE-01112,CR003,Granite Wren,bird,1,2,partial,1853,51,0.823,collector,Senate Zoological,3,2.73,8.19
+SALE-01474,CR005,Marsh Stalker,reptile,6,5,good,1853,51,0.75,unknown,Capital Archives,1,98.09,98.09
+SALE-01784,CR006,Glass Beetle,insect,2,6,fair,1853,51,0.897,archivist,Capital Archives,1,135.15,135.15
+SALE-01866,CR003,Granite Wren,bird,1,2,fair,1853,51,0.69,trader,Miasto Market,2,13.13,26.26
+SALE-01889,CR007,Yeller Bird,bird,0,3,fair,1853,51,0.78,collector,Unknown,4,59.2,236.8
+SALE-00427,CR014,Densmuck Crawler,arthropod,4,5,good,1853,52,0.503,archivist,Capital Archives,2,37.73,75.46
+SALE-00652,CR006,Glass Beetle,insect,2,6,fair,1853,52,0.699,trader,Miasto Market,1,40.01,40.01
+SALE-01304,CR004,Swamp Hornet,insect,4,1,good,1853,52,0.62,senator,Private Collection,3,3.23,9.69
+SALE-01702,CR003,Granite Wren,bird,1,2,damaged,1853,52,0.659,display,Capital Display,2,7.93,15.86
+SALE-01751,CR008,Wharver,mammal,8,6,pristine,1853,52,0.753,scholar,Scholar Study,1,207.71,207.71
+SALE-00697,CR013,Quarry Toad,amphibian,2,3,fair,1854,1,0.43,display,Capital Display,2,14.04,28.08
+SALE-01039,CR003,Granite Wren,bird,1,2,fair,1854,1,0.883,scholar,Scholar Study,2,9.86,19.72
+SALE-01426,CR003,Granite Wren,bird,1,2,good,1854,1,0.632,unknown,Unknown,1,27.36,27.36
+SALE-01802,CR012,Tunnel Eel,fish,3,4,good,1854,1,0.942,collector,Unknown,1,20.61,20.61
+SALE-00002,CR011,Cave Moth,insect,0,2,partial,1854,2,0.801,senator,Private Collection,5,1.67,8.35
+SALE-01045,CR004,Swamp Hornet,insect,4,1,fair,1854,2,0.819,collector,Capital Display,4,2.18,8.72
+SALE-01147,CR005,Marsh Stalker,reptile,6,5,damaged,1854,2,0.789,senator,Private Collection,1,71.21,71.21
+SALE-01343,CR010,Grimslew,mammal,7,7,good,1854,2,0.481,archivist,Capital Archives,2,292.16,584.32
+SALE-01530,CR004,Swamp Hornet,insect,4,1,pristine,1854,2,0.668,trader,Miasto Market,2,3.94,7.88
+SALE-00453,CR013,Quarry Toad,amphibian,2,3,damaged,1854,3,0.597,unknown,Capital Display,2,13.52,27.04
+SALE-00667,CR013,Quarry Toad,amphibian,2,3,damaged,1854,3,0.666,scholar,Scholar Study,5,7.36,36.8
+SALE-00996,CR006,Glass Beetle,insect,2,6,fair,1854,3,0.472,unknown,Unknown,1,71.8,71.8
+SALE-01923,CR012,Tunnel Eel,fish,3,4,fair,1854,3,0.746,unknown,Unknown,1,74.73,74.73
+SALE-00157,CR005,Marsh Stalker,reptile,6,5,fair,1854,4,0.75,senator,Private Collection,1,71.83,71.83
+SALE-01833,CR003,Granite Wren,bird,1,2,pristine,1854,4,0.8,trader,Miasto Market,2,33.05,66.1
+SALE-00666,CR002,Stone Spine Lizard,reptile,5,7,pristine,1854,5,0.659,display,Capital Display,1,182.82,182.82
+SALE-01130,CR005,Marsh Stalker,reptile,6,5,good,1854,5,0.979,scholar,Scholar Study,1,35.54,35.54
+SALE-01283,CR004,Swamp Hornet,insect,4,1,fair,1854,5,0.796,senator,Senate Zoological,1,3.25,3.25
+SALE-00040,CR012,Tunnel Eel,fish,3,4,partial,1854,6,0.754,trader,Miasto Market,2,11.03,22.06
+SALE-00758,CR004,Swamp Hornet,insect,4,1,fair,1854,6,0.647,scholar,Scholar Study,1,4.17,4.17
+SALE-00789,CR003,Granite Wren,bird,1,2,good,1854,6,0.761,scholar,Scholar Study,3,15.22,45.66
+SALE-01659,CR007,Yeller Bird,bird,0,3,partial,1854,6,0.855,senator,Private Collection,2,11.68,23.36
+SALE-00083,CR004,Swamp Hornet,insect,4,1,partial,1854,7,0.58,senator,Senate Zoological,1,1.0,1.0
+SALE-01143,CR004,Swamp Hornet,insect,4,1,pristine,1854,7,0.713,display,Capital Display,3,2.7,8.1
+SALE-01260,CR015,Golden Amalgam Snail,mollusk,0,9,fair,1854,7,0.708,senator,Private Collection,1,1464.17,1464.17
+SALE-01335,CR014,Densmuck Crawler,arthropod,4,5,good,1854,7,0.758,archivist,Capital Archives,1,75.12,75.12
+SALE-01363,CR008,Wharver,mammal,8,6,pristine,1854,7,0.848,display,Capital Display,2,342.88,685.76
+SALE-01480,CR001,Leatherback Burrower,bird,3,4,good,1854,7,0.634,collector,Capital Display,1,34.24,34.24
+SALE-01988,CR012,Tunnel Eel,fish,3,4,fair,1854,7,0.537,collector,Private Collection,1,28.39,28.39
+SALE-00101,CR012,Tunnel Eel,fish,3,4,damaged,1854,8,0.812,scholar,Scholar Study,1,13.17,13.17
+SALE-00181,CR003,Granite Wren,bird,1,2,fair,1854,8,0.703,unknown,Scholar Study,5,12.28,61.4
+SALE-00878,CR011,Cave Moth,insect,0,2,fair,1854,8,0.744,scholar,Scholar Study,4,8.89,35.56
+SALE-01183,CR004,Swamp Hornet,insect,4,1,good,1854,8,0.66,unknown,Senate Zoological,1,4.28,4.28
+SALE-01832,CR006,Glass Beetle,insect,2,6,pristine,1854,8,0.435,display,Capital Display,1,109.7,109.7
+SALE-01930,CR003,Granite Wren,bird,1,2,partial,1854,8,0.317,trader,Miasto Market,1,1.9,1.9
+SALE-01706,CR010,Grimslew,mammal,7,7,fair,1854,9,0.801,display,Capital Display,1,152.78,152.78
+SALE-00414,CR006,Glass Beetle,insect,2,6,partial,1854,10,0.433,senator,Private Collection,1,15.81,15.81
+SALE-00428,CR004,Swamp Hornet,insect,4,1,fair,1854,10,0.536,display,Capital Display,1,3.16,3.16
+SALE-00510,CR011,Cave Moth,insect,0,2,damaged,1854,10,0.347,trader,Miasto Market,5,1.0,5.0
+SALE-01884,CR007,Yeller Bird,bird,0,3,good,1854,10,0.838,display,Capital Display,3,89.4,268.2
+SALE-00965,CR003,Granite Wren,bird,1,2,partial,1854,11,0.714,senator,Private Collection,5,3.44,17.2
+SALE-01212,CR001,Leatherback Burrower,bird,3,4,partial,1854,11,0.498,unknown,Capital Archives,1,5.0,5.0
+SALE-01452,CR011,Cave Moth,insect,0,2,partial,1854,11,0.553,trader,Miasto Market,2,1.01,2.02
+SALE-01598,CR011,Cave Moth,insect,0,2,fair,1854,11,0.815,unknown,Unknown,1,4.89,4.89
+SALE-00948,CR013,Quarry Toad,amphibian,2,3,damaged,1854,12,0.222,unknown,Unknown,2,4.36,8.72
+SALE-01118,CR001,Leatherback Burrower,bird,3,4,good,1854,12,0.762,unknown,Miasto Market,1,37.39,37.39
+SALE-01178,CR003,Granite Wren,bird,1,2,good,1854,12,0.803,senator,Private Collection,3,35.99,107.97
+SALE-01439,CR001,Leatherback Burrower,bird,3,4,partial,1854,12,0.536,archivist,Capital Archives,1,3.82,3.82
+SALE-01859,CR014,Densmuck Crawler,arthropod,4,5,fair,1854,12,0.562,unknown,Private Collection,1,62.1,62.1
+SALE-01974,CR013,Quarry Toad,amphibian,2,3,pristine,1854,12,0.8,trader,Miasto Market,1,35.5,35.5
+SALE-00133,CR010,Grimslew,mammal,7,7,damaged,1854,13,0.855,unknown,Senate Zoological,1,54.15,54.15
+SALE-00239,CR006,Glass Beetle,insect,2,6,good,1854,13,0.855,collector,Miasto Market,2,248.33,496.66
+SALE-00704,CR011,Cave Moth,insect,0,2,fair,1854,13,0.722,collector,Capital Display,2,11.47,22.94
+SALE-01571,CR004,Swamp Hornet,insect,4,1,partial,1854,13,0.564,display,Capital Display,1,1.0,1.0
+SALE-01748,CR007,Yeller Bird,bird,0,3,partial,1854,13,0.818,senator,Private Collection,3,26.14,78.42
+SALE-01553,CR008,Wharver,mammal,8,6,good,1854,14,0.57,display,Capital Display,1,230.74,230.74
+SALE-00129,CR004,Swamp Hornet,insect,4,1,good,1854,15,0.534,display,Capital Display,5,2.15,10.75
+SALE-00620,CR012,Tunnel Eel,fish,3,4,good,1854,15,0.778,unknown,Scholar Study,1,29.79,29.79
+SALE-00879,CR005,Marsh Stalker,reptile,6,5,good,1854,15,0.976,collector,Scholar Study,1,240.04,240.04
+SALE-01658,CR014,Densmuck Crawler,arthropod,4,5,partial,1854,15,0.352,archivist,Capital Archives,1,9.1,9.1
+SALE-00863,CR005,Marsh Stalker,reptile,6,5,fair,1854,16,0.746,scholar,Scholar Study,1,44.87,44.87
+SALE-00728,CR007,Yeller Bird,bird,0,3,fair,1854,17,0.766,trader,Miasto Market,3,22.32,66.96
+SALE-00855,CR001,Leatherback Burrower,bird,3,4,partial,1854,17,0.713,unknown,Miasto Market,1,5.84,5.84
+SALE-01401,CR004,Swamp Hornet,insect,4,1,damaged,1854,17,0.68,unknown,Capital Archives,3,1.66,4.98
+SALE-00498,CR001,Leatherback Burrower,bird,3,4,fair,1854,18,0.191,archivist,Capital Archives,1,25.19,25.19
+SALE-00823,CR003,Granite Wren,bird,1,2,fair,1854,18,0.947,scholar,Scholar Study,2,11.69,23.38
+SALE-01738,CR010,Grimslew,mammal,7,7,fair,1854,19,0.837,display,Capital Display,1,132.5,132.5
+SALE-01811,CR015,Golden Amalgam Snail,mollusk,0,9,fair,1854,19,0.832,archivist,Capital Archives,1,156.75,156.75
+SALE-01958,CR008,Wharver,mammal,8,6,damaged,1854,19,0.504,trader,Miasto Market,1,180.22,180.22
+SALE-00216,CR012,Tunnel Eel,fish,3,4,fair,1854,20,0.788,senator,Senate Zoological,1,20.43,20.43
+SALE-00578,CR011,Cave Moth,insect,0,2,fair,1854,20,0.393,scholar,Scholar Study,1,3.44,3.44
+SALE-00430,CR008,Wharver,mammal,8,6,good,1854,21,0.644,trader,Miasto Market,1,947.46,947.46
+SALE-00951,CR013,Quarry Toad,amphibian,2,3,damaged,1854,21,0.689,trader,Miasto Market,1,4.79,4.79
+SALE-01387,CR013,Quarry Toad,amphibian,2,3,fair,1854,21,0.726,archivist,Capital Archives,2,11.01,22.02
+SALE-01481,CR004,Swamp Hornet,insect,4,1,fair,1854,21,0.883,scholar,Scholar Study,2,3.33,6.66
+SALE-01843,CR014,Densmuck Crawler,arthropod,4,5,fair,1854,21,0.883,scholar,Scholar Study,1,74.35,74.35
+SALE-00327,CR011,Cave Moth,insect,0,2,good,1854,22,0.631,senator,Senate Zoological,1,12.12,12.12
+SALE-00968,CR015,Golden Amalgam Snail,mollusk,0,9,good,1854,22,0.724,collector,Capital Display,1,495.93,495.93
+SALE-01533,CR001,Leatherback Burrower,bird,3,4,damaged,1854,22,0.755,trader,Miasto Market,1,15.86,15.86
+SALE-01794,CR009,Stakdur,reptile,9,8,fair,1854,22,0.756,unknown,Scholar Study,1,451.51,451.51
+SALE-00856,CR007,Yeller Bird,bird,0,3,good,1854,23,0.202,unknown,Unknown,1,49.51,49.51
+SALE-01230,CR004,Swamp Hornet,insect,4,1,fair,1854,23,0.381,collector,Senate Zoological,1,4.17,4.17
+SALE-01689,CR005,Marsh Stalker,reptile,6,5,good,1854,23,0.736,trader,Miasto Market,1,120.31,120.31
+SALE-01781,CR013,Quarry Toad,amphibian,2,3,good,1854,23,0.584,trader,Miasto Market,4,17.71,70.84
+SALE-00212,CR004,Swamp Hornet,insect,4,1,fair,1854,24,0.827,scholar,Scholar Study,1,3.61,3.61
+SALE-00306,CR003,Granite Wren,bird,1,2,fair,1854,24,0.933,archivist,Capital Archives,2,13.37,26.74
+SALE-00784,CR008,Wharver,mammal,8,6,partial,1854,24,0.901,scholar,Scholar Study,1,57.22,57.22
+SALE-01625,CR006,Glass Beetle,insect,2,6,damaged,1854,24,0.729,senator,Private Collection,2,43.56,87.12
+SALE-01711,CR012,Tunnel Eel,fish,3,4,fair,1854,24,0.718,display,Capital Display,1,29.63,29.63
+SALE-01851,CR005,Marsh Stalker,reptile,6,5,good,1854,24,0.549,trader,Miasto Market,1,221.88,221.88
+SALE-01854,CR012,Tunnel Eel,fish,3,4,fair,1854,24,0.677,collector,Capital Archives,1,38.88,38.88
+SALE-00305,CR013,Quarry Toad,amphibian,2,3,damaged,1854,25,0.951,trader,Miasto Market,1,8.68,8.68
+SALE-00737,CR007,Yeller Bird,bird,0,3,partial,1854,25,0.559,unknown,Scholar Study,3,8.56,25.68
+SALE-00983,CR001,Leatherback Burrower,bird,3,4,pristine,1854,25,0.66,archivist,Capital Archives,1,33.64,33.64
+SALE-01015,CR007,Yeller Bird,bird,0,3,pristine,1854,25,0.545,unknown,Private Collection,2,56.72,113.44
+SALE-01495,CR011,Cave Moth,insect,0,2,fair,1854,25,0.822,unknown,Miasto Market,3,5.35,16.05
+SALE-01716,CR003,Granite Wren,bird,1,2,partial,1854,26,0.617,trader,Miasto Market,5,1.77,8.85
+SALE-00918,CR014,Densmuck Crawler,arthropod,4,5,fair,1854,27,0.669,senator,Senate Zoological,1,63.86,63.86
+SALE-01607,CR006,Glass Beetle,insect,2,6,partial,1854,27,0.765,senator,Senate Zoological,1,32.07,32.07
+SALE-00177,CR012,Tunnel Eel,fish,3,4,good,1854,28,0.823,trader,Miasto Market,1,30.75,30.75
+SALE-00064,CR004,Swamp Hornet,insect,4,1,damaged,1854,29,0.714,senator,Senate Zoological,1,2.36,2.36
+SALE-00950,CR012,Tunnel Eel,fish,3,4,good,1854,29,0.838,senator,Senate Zoological,1,23.72,23.72
+SALE-01753,CR012,Tunnel Eel,fish,3,4,damaged,1854,29,0.724,display,Capital Display,1,14.5,14.5
+SALE-00776,CR005,Marsh Stalker,reptile,6,5,good,1854,30,0.826,archivist,Capital Archives,2,185.8,371.6
+SALE-00880,CR002,Stone Spine Lizard,reptile,5,7,good,1854,30,0.699,unknown,Senate Zoological,1,149.17,149.17
+SALE-01594,CR001,Leatherback Burrower,bird,3,4,fair,1854,30,0.164,archivist,Capital Archives,1,21.64,21.64
+SALE-00022,CR014,Densmuck Crawler,arthropod,4,5,damaged,1854,31,0.853,unknown,Miasto Market,1,47.8,47.8
+SALE-00668,CR007,Yeller Bird,bird,0,3,partial,1854,31,0.957,unknown,Private Collection,3,7.37,22.11
+SALE-01206,CR013,Quarry Toad,amphibian,2,3,fair,1854,31,0.841,collector,Senate Zoological,1,25.25,25.25
+SALE-01550,CR008,Wharver,mammal,8,6,pristine,1854,31,0.432,unknown,Private Collection,1,581.14,581.14
+SALE-01628,CR013,Quarry Toad,amphibian,2,3,damaged,1854,31,0.584,collector,Capital Display,4,10.62,42.48
+SALE-00556,CR005,Marsh Stalker,reptile,6,5,damaged,1854,32,0.601,archivist,Capital Archives,1,102.43,102.43
+SALE-01819,CR009,Stakdur,reptile,9,8,fair,1854,32,0.758,trader,Miasto Market,2,156.35,312.7
+SALE-00577,CR004,Swamp Hornet,insect,4,1,fair,1854,33,0.832,scholar,Scholar Study,2,1.59,3.18
+SALE-01196,CR011,Cave Moth,insect,0,2,damaged,1854,34,0.926,trader,Miasto Market,3,3.29,9.87
+SALE-01677,CR008,Wharver,mammal,8,6,pristine,1854,34,0.782,unknown,Miasto Market,1,162.12,162.12
+SALE-00152,CR011,Cave Moth,insect,0,2,good,1854,35,0.945,unknown,Capital Archives,5,9.59,47.95
+SALE-00940,CR007,Yeller Bird,bird,0,3,good,1854,35,0.575,collector,Unknown,1,91.23,91.23
+SALE-01976,CR008,Wharver,mammal,8,6,fair,1854,35,0.964,display,Capital Display,1,213.76,213.76
+SALE-00764,CR003,Granite Wren,bird,1,2,fair,1854,36,0.584,archivist,Capital Archives,3,12.43,37.29
+SALE-00794,CR005,Marsh Stalker,reptile,6,5,fair,1854,36,0.635,senator,Private Collection,1,126.28,126.28
+SALE-01323,CR006,Glass Beetle,insect,2,6,fair,1854,36,0.844,collector,Private Collection,1,58.42,58.42
+SALE-01373,CR009,Stakdur,reptile,9,8,good,1854,36,0.627,senator,Senate Zoological,1,710.61,710.61
+SALE-01756,CR014,Densmuck Crawler,arthropod,4,5,fair,1854,36,0.706,unknown,Private Collection,1,59.42,59.42
+SALE-01887,CR003,Granite Wren,bird,1,2,damaged,1854,36,0.674,unknown,Scholar Study,1,9.84,9.84
+SALE-00631,CR015,Golden Amalgam Snail,mollusk,0,9,good,1854,37,0.763,senator,Private Collection,1,261.21,261.21
+SALE-00195,CR012,Tunnel Eel,fish,3,4,fair,1854,38,0.965,senator,Private Collection,1,45.3,45.3
+SALE-00289,CR012,Tunnel Eel,fish,3,4,good,1854,38,0.561,display,Capital Display,1,17.93,17.93
+SALE-01122,CR012,Tunnel Eel,fish,3,4,damaged,1854,38,0.822,trader,Miasto Market,1,16.11,16.11
+SALE-01407,CR004,Swamp Hornet,insect,4,1,partial,1854,38,0.757,collector,Miasto Market,1,1.0,1.0
+SALE-01812,CR011,Cave Moth,insect,0,2,pristine,1854,38,0.809,archivist,Capital Archives,1,6.17,6.17
+SALE-00376,CR011,Cave Moth,insect,0,2,damaged,1854,39,0.885,scholar,Scholar Study,2,3.4,6.8
+SALE-00703,CR003,Granite Wren,bird,1,2,fair,1854,39,0.892,archivist,Capital Archives,1,11.96,11.96
+SALE-01758,CR013,Quarry Toad,amphibian,2,3,fair,1854,39,0.397,senator,Senate Zoological,3,14.8,44.4
+SALE-00876,CR003,Granite Wren,bird,1,2,good,1854,40,0.627,archivist,Capital Archives,2,24.05,48.1
+SALE-01014,CR011,Cave Moth,insect,0,2,good,1854,40,0.429,scholar,Scholar Study,1,11.71,11.71
+SALE-01048,CR001,Leatherback Burrower,bird,3,4,good,1854,40,0.912,scholar,Scholar Study,1,17.42,17.42
+SALE-01111,CR009,Stakdur,reptile,9,8,damaged,1854,40,0.797,unknown,Miasto Market,2,274.14,548.28
+SALE-01615,CR010,Grimslew,mammal,7,7,fair,1854,40,0.784,trader,Miasto Market,1,84.25,84.25
+SALE-00042,CR004,Swamp Hornet,insect,4,1,fair,1854,41,0.91,unknown,Capital Archives,1,2.11,2.11
+SALE-01052,CR010,Grimslew,mammal,7,7,damaged,1854,41,0.6,collector,Unknown,1,120.62,120.62
+SALE-01703,CR011,Cave Moth,insect,0,2,fair,1854,41,0.76,display,Capital Display,1,6.88,6.88
+SALE-00474,CR010,Grimslew,mammal,7,7,damaged,1854,42,0.717,senator,Senate Zoological,1,247.07,247.07
+SALE-01532,CR005,Marsh Stalker,reptile,6,5,good,1854,42,0.725,senator,Senate Zoological,1,94.44,94.44
+SALE-00597,CR012,Tunnel Eel,fish,3,4,good,1854,43,0.485,senator,Private Collection,1,43.31,43.31
+SALE-00827,CR011,Cave Moth,insect,0,2,partial,1854,43,0.79,display,Capital Display,1,1.07,1.07
+SALE-00086,CR010,Grimslew,mammal,7,7,damaged,1854,44,0.965,unknown,Capital Archives,1,54.67,54.67
+SALE-00410,CR005,Marsh Stalker,reptile,6,5,partial,1854,44,0.91,unknown,Unknown,1,26.66,26.66
+SALE-01665,CR008,Wharver,mammal,8,6,damaged,1854,44,0.578,collector,Capital Archives,2,146.65,293.3
+SALE-01949,CR013,Quarry Toad,amphibian,2,3,fair,1854,44,0.897,archivist,Capital Archives,4,11.58,46.32
+SALE-00144,CR001,Leatherback Burrower,bird,3,4,fair,1854,45,0.209,archivist,Capital Archives,1,12.93,12.93
+SALE-00607,CR001,Leatherback Burrower,bird,3,4,good,1854,45,0.882,unknown,Senate Zoological,1,24.0,24.0
+SALE-01416,CR013,Quarry Toad,amphibian,2,3,good,1854,45,0.836,unknown,Capital Display,2,40.91,81.82
+SALE-01947,CR012,Tunnel Eel,fish,3,4,good,1854,45,0.48,scholar,Scholar Study,1,66.04,66.04
+SALE-00275,CR004,Swamp Hornet,insect,4,1,fair,1854,46,0.748,collector,Senate Zoological,1,3.35,3.35
+SALE-00750,CR013,Quarry Toad,amphibian,2,3,fair,1854,46,0.832,collector,Miasto Market,1,22.57,22.57
+SALE-01240,CR012,Tunnel Eel,fish,3,4,good,1854,46,0.719,display,Capital Display,1,65.32,65.32
+SALE-01589,CR007,Yeller Bird,bird,0,3,good,1854,46,0.927,collector,Capital Display,1,21.96,21.96
+SALE-00029,CR001,Leatherback Burrower,bird,3,4,damaged,1854,47,0.712,scholar,Scholar Study,1,15.68,15.68
+SALE-00067,CR001,Leatherback Burrower,bird,3,4,good,1854,47,0.59,scholar,Scholar Study,2,34.51,69.02
+SALE-01115,CR004,Swamp Hornet,insect,4,1,fair,1854,47,0.81,collector,Capital Display,2,5.23,10.46
+SALE-01408,CR010,Grimslew,mammal,7,7,damaged,1854,47,0.321,collector,Senate Zoological,1,97.05,97.05
+SALE-00119,CR010,Grimslew,mammal,7,7,good,1854,48,0.951,scholar,Scholar Study,2,351.55,703.1
+SALE-00378,CR012,Tunnel Eel,fish,3,4,damaged,1854,48,0.644,collector,Capital Display,2,19.76,39.52
+SALE-00753,CR012,Tunnel Eel,fish,3,4,partial,1854,48,0.658,archivist,Capital Archives,1,16.3,16.3
+SALE-01127,CR013,Quarry Toad,amphibian,2,3,fair,1854,48,0.744,unknown,Capital Archives,2,22.79,45.58
+SALE-01957,CR013,Quarry Toad,amphibian,2,3,damaged,1854,48,0.574,collector,Miasto Market,2,14.14,28.28
+SALE-00435,CR011,Cave Moth,insect,0,2,good,1854,49,0.6,display,Capital Display,5,12.67,63.35
+SALE-01398,CR011,Cave Moth,insect,0,2,fair,1854,49,0.696,archivist,Capital Archives,3,9.81,29.43
+SALE-01413,CR013,Quarry Toad,amphibian,2,3,fair,1854,49,0.85,unknown,Senate Zoological,3,15.53,46.59
+SALE-01632,CR012,Tunnel Eel,fish,3,4,damaged,1854,49,0.874,display,Capital Display,1,32.26,32.26
+SALE-00729,CR007,Yeller Bird,bird,0,3,damaged,1854,50,0.584,archivist,Capital Archives,1,26.15,26.15
+SALE-01498,CR004,Swamp Hornet,insect,4,1,fair,1854,50,0.805,trader,Miasto Market,2,4.35,8.7
+SALE-01936,CR009,Stakdur,reptile,9,8,partial,1854,50,0.889,unknown,Scholar Study,1,20.42,20.42
+SALE-00301,CR007,Yeller Bird,bird,0,3,fair,1854,51,0.392,archivist,Capital Archives,5,28.56,142.8
+SALE-01267,CR003,Granite Wren,bird,1,2,fair,1854,51,0.801,unknown,Scholar Study,3,26.42,79.26
+SALE-01807,CR014,Densmuck Crawler,arthropod,4,5,good,1854,51,0.828,archivist,Capital Archives,2,133.5,267.0
+SALE-00346,CR005,Marsh Stalker,reptile,6,5,fair,1854,52,0.508,archivist,Capital Archives,1,212.4,212.4
+SALE-00574,CR012,Tunnel Eel,fish,3,4,good,1854,52,0.873,unknown,Capital Archives,1,64.07,64.07
+SALE-01290,CR001,Leatherback Burrower,bird,3,4,fair,1854,52,0.756,archivist,Capital Archives,1,29.07,29.07
+SALE-01905,CR010,Grimslew,mammal,7,7,good,1854,52,0.659,display,Capital Display,1,77.65,77.65
+SALE-00097,CR001,Leatherback Burrower,bird,3,4,pristine,1855,1,0.923,senator,Private Collection,1,56.41,56.41
+SALE-01110,CR004,Swamp Hornet,insect,4,1,good,1855,1,0.833,senator,Private Collection,1,3.89,3.89
+SALE-01173,CR003,Granite Wren,bird,1,2,partial,1855,1,0.869,scholar,Scholar Study,1,2.91,2.91
+SALE-00953,CR007,Yeller Bird,bird,0,3,fair,1855,2,0.475,collector,Capital Display,1,32.33,32.33
+SALE-01088,CR013,Quarry Toad,amphibian,2,3,fair,1855,2,0.655,display,Capital Display,2,18.84,37.68
+SALE-01138,CR003,Granite Wren,bird,1,2,good,1855,2,0.365,display,Capital Display,2,19.91,39.82
+SALE-01469,CR004,Swamp Hornet,insect,4,1,fair,1855,2,0.622,display,Capital Display,3,4.28,12.84
+SALE-01612,CR008,Wharver,mammal,8,6,good,1855,2,0.579,archivist,Capital Archives,1,259.32,259.32
+SALE-00471,CR015,Golden Amalgam Snail,mollusk,0,9,fair,1855,3,0.75,collector,Miasto Market,1,458.26,458.26
+SALE-01076,CR004,Swamp Hornet,insect,4,1,fair,1855,3,0.666,collector,Unknown,4,3.06,12.24
+SALE-01595,CR004,Swamp Hornet,insect,4,1,fair,1855,3,0.727,display,Capital Display,1,5.3,5.3
+SALE-00408,CR008,Wharver,mammal,8,6,good,1855,4,0.575,scholar,Scholar Study,1,663.93,663.93
+SALE-00854,CR006,Glass Beetle,insect,2,6,fair,1855,4,0.639,senator,Senate Zoological,1,119.39,119.39
+SALE-01422,CR002,Stone Spine Lizard,reptile,5,7,partial,1855,4,0.71,display,Capital Display,2,44.14,88.28
+SALE-00658,CR004,Swamp Hornet,insect,4,1,fair,1855,5,0.451,trader,Miasto Market,2,2.95,5.9
+SALE-01046,CR001,Leatherback Burrower,bird,3,4,good,1855,5,0.604,trader,Miasto Market,1,37.48,37.48
+SALE-01624,CR013,Quarry Toad,amphibian,2,3,partial,1855,5,0.871,senator,Private Collection,1,7.23,7.23
+SALE-01685,CR007,Yeller Bird,bird,0,3,damaged,1855,5,0.481,senator,Senate Zoological,2,23.33,46.66
+SALE-01737,CR002,Stone Spine Lizard,reptile,5,7,good,1855,5,0.522,scholar,Scholar Study,2,63.31,126.62
+SALE-01464,CR012,Tunnel Eel,fish,3,4,damaged,1855,6,0.696,unknown,Scholar Study,1,13.2,13.2
+SALE-01606,CR004,Swamp Hornet,insect,4,1,partial,1855,6,0.484,display,Capital Display,1,1.2,1.2
+SALE-01638,CR004,Swamp Hornet,insect,4,1,partial,1855,6,0.789,display,Capital Display,4,1.0,4.0
+SALE-01876,CR010,Grimslew,mammal,7,7,good,1855,6,0.54,trader,Miasto Market,1,375.06,375.06
+SALE-00836,CR011,Cave Moth,insect,0,2,damaged,1855,7,0.705,unknown,Capital Display,1,2.71,2.71
+SALE-01062,CR014,Densmuck Crawler,arthropod,4,5,fair,1855,7,0.367,scholar,Scholar Study,1,76.52,76.52
+SALE-01800,CR008,Wharver,mammal,8,6,fair,1855,7,0.554,unknown,Miasto Market,1,257.45,257.45
+SALE-01922,CR008,Wharver,mammal,8,6,damaged,1855,7,0.851,trader,Miasto Market,2,69.93,139.86
+SALE-00012,CR007,Yeller Bird,bird,0,3,fair,1855,8,0.827,archivist,Capital Archives,2,48.3,96.6
+SALE-00132,CR010,Grimslew,mammal,7,7,fair,1855,8,0.813,trader,Miasto Market,1,131.82,131.82
+SALE-00520,CR011,Cave Moth,insect,0,2,pristine,1855,8,0.772,unknown,Miasto Market,2,6.33,12.66
+SALE-00646,CR013,Quarry Toad,amphibian,2,3,fair,1855,8,0.906,collector,Miasto Market,1,34.77,34.77
+SALE-01527,CR013,Quarry Toad,amphibian,2,3,fair,1855,8,0.952,collector,Senate Zoological,1,32.51,32.51
+SALE-01583,CR004,Swamp Hornet,insect,4,1,fair,1855,8,0.745,collector,Scholar Study,1,3.41,3.41
+SALE-01065,CR002,Stone Spine Lizard,reptile,5,7,good,1855,9,0.75,trader,Miasto Market,2,72.47,144.94
+SALE-01580,CR015,Golden Amalgam Snail,mollusk,0,9,fair,1855,9,0.968,scholar,Scholar Study,1,221.03,221.03
+SALE-01967,CR008,Wharver,mammal,8,6,damaged,1855,9,0.726,unknown,Miasto Market,1,64.96,64.96
+SALE-01149,CR003,Granite Wren,bird,1,2,pristine,1855,10,0.606,unknown,Unknown,1,28.0,28.0
+SALE-01292,CR005,Marsh Stalker,reptile,6,5,pristine,1855,10,0.925,collector,Capital Archives,2,284.88,569.76
+SALE-01489,CR013,Quarry Toad,amphibian,2,3,partial,1855,10,0.386,collector,Private Collection,2,7.35,14.7
+SALE-00450,CR011,Cave Moth,insect,0,2,damaged,1855,11,0.649,unknown,Scholar Study,2,4.44,8.88
+SALE-00609,CR007,Yeller Bird,bird,0,3,fair,1855,11,0.864,trader,Miasto Market,1,20.37,20.37
+SALE-01170,CR007,Yeller Bird,bird,0,3,fair,1855,11,0.836,unknown,Capital Archives,2,38.16,76.32
+SALE-00548,CR006,Glass Beetle,insect,2,6,good,1855,12,0.763,senator,Senate Zoological,1,76.98,76.98
+SALE-00909,CR011,Cave Moth,insect,0,2,fair,1855,12,0.549,trader,Miasto Market,2,5.44,10.88
+SALE-01686,CR004,Swamp Hornet,insect,4,1,pristine,1855,12,0.484,scholar,Scholar Study,3,7.51,22.53
+SALE-00090,CR004,Swamp Hornet,insect,4,1,fair,1855,13,0.722,archivist,Capital Archives,1,3.36,3.36
+SALE-00290,CR005,Marsh Stalker,reptile,6,5,fair,1855,13,0.726,scholar,Scholar Study,1,61.04,61.04
+SALE-00586,CR004,Swamp Hornet,insect,4,1,damaged,1855,13,0.736,trader,Miasto Market,1,1.21,1.21
+SALE-00895,CR014,Densmuck Crawler,arthropod,4,5,fair,1855,13,0.781,scholar,Scholar Study,1,17.25,17.25
+SALE-01792,CR004,Swamp Hornet,insect,4,1,good,1855,13,0.912,collector,Unknown,1,6.09,6.09
+SALE-00554,CR013,Quarry Toad,amphibian,2,3,fair,1855,14,0.59,unknown,Capital Archives,3,12.6,37.8
+SALE-01017,CR011,Cave Moth,insect,0,2,fair,1855,14,0.773,display,Capital Display,2,5.17,10.34
+SALE-01113,CR014,Densmuck Crawler,arthropod,4,5,fair,1855,14,0.849,trader,Miasto Market,1,40.0,40.0
+SALE-01723,CR004,Swamp Hornet,insect,4,1,fair,1855,14,0.89,senator,Senate Zoological,1,3.94,3.94
+SALE-01755,CR005,Marsh Stalker,reptile,6,5,fair,1855,14,0.671,trader,Miasto Market,1,111.56,111.56
+SALE-00572,CR001,Leatherback Burrower,bird,3,4,partial,1855,15,0.935,archivist,Capital Archives,1,7.1,7.1
+SALE-00401,CR005,Marsh Stalker,reptile,6,5,fair,1855,16,0.359,unknown,Private Collection,1,175.76,175.76
+SALE-00691,CR012,Tunnel Eel,fish,3,4,fair,1855,16,0.668,scholar,Scholar Study,2,20.79,41.58
+SALE-00798,CR015,Golden Amalgam Snail,mollusk,0,9,partial,1855,16,0.978,display,Capital Display,1,104.45,104.45
+SALE-01587,CR006,Glass Beetle,insect,2,6,good,1855,16,0.925,scholar,Scholar Study,1,92.73,92.73
+SALE-00406,CR007,Yeller Bird,bird,0,3,damaged,1855,17,0.797,archivist,Capital Archives,5,21.16,105.8
+SALE-00708,CR003,Granite Wren,bird,1,2,partial,1855,17,0.846,senator,Senate Zoological,1,7.79,7.79
+SALE-00757,CR014,Densmuck Crawler,arthropod,4,5,damaged,1855,17,0.903,senator,Private Collection,1,24.18,24.18
+SALE-01232,CR006,Glass Beetle,insect,2,6,fair,1855,17,0.989,unknown,Capital Archives,2,115.95,231.9
+SALE-01187,CR002,Stone Spine Lizard,reptile,5,7,fair,1855,18,0.867,archivist,Capital Archives,1,580.41,580.41
+SALE-01222,CR005,Marsh Stalker,reptile,6,5,pristine,1855,18,0.923,archivist,Capital Archives,1,84.79,84.79
+SALE-01524,CR013,Quarry Toad,amphibian,2,3,partial,1855,18,0.624,display,Capital Display,2,8.01,16.02
+SALE-00651,CR003,Granite Wren,bird,1,2,partial,1855,19,0.811,scholar,Scholar Study,2,6.03,12.06
+SALE-01877,CR015,Golden Amalgam Snail,mollusk,0,9,good,1855,19,0.836,display,Capital Display,1,1243.27,1243.27
+SALE-00426,CR001,Leatherback Burrower,bird,3,4,partial,1855,20,0.594,trader,Miasto Market,1,4.63,4.63
+SALE-00539,CR003,Granite Wren,bird,1,2,good,1855,20,0.76,archivist,Capital Archives,2,35.95,71.9
+SALE-00641,CR004,Swamp Hornet,insect,4,1,good,1855,20,0.761,display,Capital Display,3,5.22,15.66
+SALE-00793,CR004,Swamp Hornet,insect,4,1,fair,1855,20,0.718,archivist,Capital Archives,2,3.45,6.9
+SALE-00816,CR011,Cave Moth,insect,0,2,fair,1855,20,0.405,unknown,Unknown,1,5.56,5.56
+SALE-00903,CR006,Glass Beetle,insect,2,6,good,1855,20,0.884,senator,Private Collection,1,134.5,134.5
+SALE-01205,CR015,Golden Amalgam Snail,mollusk,0,9,pristine,1855,20,0.597,collector,Miasto Market,1,760.1,760.1
+SALE-01246,CR012,Tunnel Eel,fish,3,4,pristine,1855,20,0.703,senator,Private Collection,2,46.29,92.58
+SALE-01609,CR011,Cave Moth,insect,0,2,good,1855,20,0.742,trader,Miasto Market,2,11.26,22.52
+SALE-01618,CR003,Granite Wren,bird,1,2,damaged,1855,20,0.37,unknown,Private Collection,2,13.64,27.28
+SALE-01769,CR012,Tunnel Eel,fish,3,4,partial,1855,20,0.755,scholar,Scholar Study,1,5.59,5.59
+SALE-01785,CR007,Yeller Bird,bird,0,3,good,1855,20,0.587,unknown,Capital Display,3,39.19,117.57
+SALE-00454,CR004,Swamp Hornet,insect,4,1,fair,1855,21,0.907,trader,Miasto Market,1,3.26,3.26
+SALE-00760,CR003,Granite Wren,bird,1,2,good,1855,21,0.828,display,Capital Display,2,32.24,64.48
+SALE-01704,CR008,Wharver,mammal,8,6,good,1855,21,0.478,archivist,Capital Archives,1,101.04,101.04
+SALE-01835,CR011,Cave Moth,insect,0,2,pristine,1855,21,0.691,trader,Miasto Market,1,6.56,6.56
+SALE-01863,CR002,Stone Spine Lizard,reptile,5,7,fair,1855,21,0.985,archivist,Capital Archives,1,111.54,111.54
+SALE-00020,CR004,Swamp Hornet,insect,4,1,partial,1855,22,0.81,trader,Miasto Market,2,1.0,2.0
+SALE-00777,CR011,Cave Moth,insect,0,2,good,1855,22,0.708,collector,Senate Zoological,1,8.26,8.26
+SALE-00897,CR001,Leatherback Burrower,bird,3,4,fair,1855,22,0.791,senator,Senate Zoological,1,42.65,42.65
+SALE-01007,CR008,Wharver,mammal,8,6,damaged,1855,22,0.73,display,Capital Display,1,81.86,81.86
+SALE-01582,CR004,Swamp Hornet,insect,4,1,pristine,1855,22,0.868,senator,Senate Zoological,3,7.38,22.14
+SALE-00200,CR006,Glass Beetle,insect,2,6,good,1855,23,0.546,trader,Miasto Market,2,34.74,69.48
+SALE-00866,CR007,Yeller Bird,bird,0,3,good,1855,23,0.613,trader,Miasto Market,3,31.9,95.7
+SALE-01670,CR008,Wharver,mammal,8,6,fair,1855,23,0.637,unknown,Senate Zoological,1,105.44,105.44
+SALE-00411,CR004,Swamp Hornet,insect,4,1,fair,1855,24,0.845,trader,Miasto Market,2,3.29,6.58
+SALE-01643,CR012,Tunnel Eel,fish,3,4,good,1855,24,0.792,collector,Scholar Study,1,29.21,29.21
+SALE-00627,CR013,Quarry Toad,amphibian,2,3,damaged,1855,25,0.669,scholar,Scholar Study,4,10.23,40.92
+SALE-00867,CR001,Leatherback Burrower,bird,3,4,fair,1855,25,0.802,collector,Capital Archives,1,11.59,11.59
+SALE-00163,CR002,Stone Spine Lizard,reptile,5,7,damaged,1855,26,0.89,senator,Senate Zoological,1,144.31,144.31
+SALE-00396,CR004,Swamp Hornet,insect,4,1,pristine,1855,26,0.706,trader,Miasto Market,1,3.8,3.8
+SALE-00540,CR001,Leatherback Burrower,bird,3,4,good,1855,26,0.827,archivist,Capital Archives,1,14.44,14.44
+SALE-01470,CR004,Swamp Hornet,insect,4,1,damaged,1855,26,0.613,trader,Miasto Market,2,1.89,3.78
+SALE-01771,CR007,Yeller Bird,bird,0,3,fair,1855,26,0.567,collector,Capital Archives,4,30.34,121.36
+SALE-00340,CR010,Grimslew,mammal,7,7,good,1855,27,0.826,scholar,Scholar Study,1,165.91,165.91
+SALE-00347,CR005,Marsh Stalker,reptile,6,5,good,1855,27,0.844,trader,Miasto Market,1,113.74,113.74
+SALE-01218,CR015,Golden Amalgam Snail,mollusk,0,9,fair,1855,27,0.795,display,Capital Display,1,320.93,320.93
+SALE-00293,CR003,Granite Wren,bird,1,2,damaged,1855,28,0.829,display,Capital Display,5,8.05,40.25
+SALE-00860,CR003,Granite Wren,bird,1,2,fair,1855,28,0.515,senator,Private Collection,1,24.38,24.38
+SALE-00206,CR001,Leatherback Burrower,bird,3,4,damaged,1855,29,0.653,senator,Private Collection,1,28.83,28.83
+SALE-00785,CR008,Wharver,mammal,8,6,fair,1855,29,0.683,display,Capital Display,2,120.59,241.18
+SALE-01049,CR012,Tunnel Eel,fish,3,4,good,1855,29,0.468,trader,Miasto Market,1,25.98,25.98
+SALE-01420,CR007,Yeller Bird,bird,0,3,fair,1855,29,0.772,unknown,Senate Zoological,1,29.35,29.35
+SALE-01514,CR004,Swamp Hornet,insect,4,1,good,1855,29,0.929,archivist,Capital Archives,2,6.15,12.3
+SALE-01828,CR014,Densmuck Crawler,arthropod,4,5,partial,1855,29,0.495,scholar,Scholar Study,1,23.95,23.95
+SALE-00472,CR003,Granite Wren,bird,1,2,damaged,1855,30,0.651,scholar,Scholar Study,1,9.95,9.95
+SALE-00551,CR001,Leatherback Burrower,bird,3,4,fair,1855,30,0.665,archivist,Capital Archives,1,33.06,33.06
+SALE-01176,CR007,Yeller Bird,bird,0,3,damaged,1855,30,0.837,senator,Private Collection,1,28.06,28.06
+SALE-01347,CR014,Densmuck Crawler,arthropod,4,5,fair,1855,30,0.718,collector,Miasto Market,2,27.79,55.58
+SALE-00519,CR014,Densmuck Crawler,arthropod,4,5,damaged,1855,31,0.846,scholar,Scholar Study,2,51.62,103.24
+SALE-01440,CR013,Quarry Toad,amphibian,2,3,good,1855,31,0.787,senator,Private Collection,1,30.08,30.08
+SALE-01960,CR003,Granite Wren,bird,1,2,fair,1855,31,0.741,archivist,Capital Archives,4,11.58,46.32
+SALE-00140,CR003,Granite Wren,bird,1,2,fair,1855,32,0.87,scholar,Scholar Study,1,27.18,27.18
+SALE-00881,CR007,Yeller Bird,bird,0,3,fair,1855,32,0.652,collector,Senate Zoological,3,25.61,76.83
+SALE-00999,CR012,Tunnel Eel,fish,3,4,fair,1855,32,0.846,senator,Private Collection,1,35.7,35.7
+SALE-01026,CR010,Grimslew,mammal,7,7,damaged,1855,32,0.304,unknown,Private Collection,1,125.93,125.93
+SALE-00063,CR011,Cave Moth,insect,0,2,damaged,1855,33,0.811,archivist,Capital Archives,1,5.82,5.82
+SALE-00342,CR007,Yeller Bird,bird,0,3,fair,1855,34,0.658,collector,Private Collection,2,57.34,114.68
+SALE-01219,CR007,Yeller Bird,bird,0,3,fair,1855,34,0.603,senator,Private Collection,1,23.08,23.08
+SALE-01564,CR004,Swamp Hornet,insect,4,1,good,1855,34,0.733,unknown,Unknown,3,4.06,12.18
+SALE-01640,CR014,Densmuck Crawler,arthropod,4,5,fair,1855,34,0.886,scholar,Scholar Study,1,62.82,62.82
+SALE-00311,CR004,Swamp Hornet,insect,4,1,fair,1855,35,0.227,trader,Miasto Market,1,2.55,2.55
+SALE-00535,CR008,Wharver,mammal,8,6,damaged,1855,35,0.731,scholar,Scholar Study,1,231.16,231.16
+SALE-01119,CR007,Yeller Bird,bird,0,3,fair,1855,35,0.74,scholar,Scholar Study,2,16.76,33.52
+SALE-01639,CR005,Marsh Stalker,reptile,6,5,fair,1855,35,0.923,scholar,Scholar Study,1,52.05,52.05
+SALE-01893,CR004,Swamp Hornet,insect,4,1,fair,1855,35,0.698,display,Capital Display,1,5.12,5.12
+SALE-00681,CR004,Swamp Hornet,insect,4,1,fair,1855,36,0.726,trader,Miasto Market,1,1.46,1.46
+SALE-01570,CR009,Stakdur,reptile,9,8,good,1855,36,0.754,scholar,Scholar Study,1,1021.74,1021.74
+SALE-01948,CR005,Marsh Stalker,reptile,6,5,good,1855,36,0.723,archivist,Capital Archives,2,169.59,339.18
+SALE-00055,CR014,Densmuck Crawler,arthropod,4,5,pristine,1855,37,0.792,trader,Miasto Market,1,60.87,60.87
+SALE-00092,CR004,Swamp Hornet,insect,4,1,fair,1855,37,0.801,trader,Miasto Market,2,3.61,7.22
+SALE-00509,CR005,Marsh Stalker,reptile,6,5,fair,1855,37,0.864,unknown,Private Collection,1,72.18,72.18
+SALE-00547,CR004,Swamp Hornet,insect,4,1,damaged,1855,37,0.457,trader,Miasto Market,1,1.99,1.99
+SALE-00829,CR003,Granite Wren,bird,1,2,damaged,1855,37,0.775,unknown,Unknown,2,15.8,31.6
+SALE-01359,CR004,Swamp Hornet,insect,4,1,fair,1855,37,0.675,unknown,Capital Archives,2,3.52,7.04
+SALE-01544,CR014,Densmuck Crawler,arthropod,4,5,good,1855,37,0.434,display,Capital Display,1,40.09,40.09
+SALE-01895,CR006,Glass Beetle,insect,2,6,good,1855,37,0.386,display,Capital Display,1,79.92,79.92
+SALE-01932,CR012,Tunnel Eel,fish,3,4,fair,1855,37,0.683,scholar,Scholar Study,1,46.29,46.29
+SALE-00259,CR002,Stone Spine Lizard,reptile,5,7,fair,1855,38,0.901,archivist,Capital Archives,1,142.09,142.09
+SALE-00105,CR003,Granite Wren,bird,1,2,fair,1855,39,0.551,unknown,Senate Zoological,4,20.34,81.36
+SALE-00485,CR004,Swamp Hornet,insect,4,1,damaged,1855,39,0.645,display,Capital Display,2,1.69,3.38
+SALE-01334,CR004,Swamp Hornet,insect,4,1,good,1855,39,0.451,scholar,Scholar Study,2,2.86,5.72
+SALE-01079,CR010,Grimslew,mammal,7,7,fair,1855,40,0.645,senator,Private Collection,1,376.72,376.72
+SALE-00251,CR007,Yeller Bird,bird,0,3,good,1855,41,0.941,senator,Senate Zoological,1,91.49,91.49
+SALE-00470,CR011,Cave Moth,insect,0,2,damaged,1855,41,0.821,unknown,Senate Zoological,2,3.07,6.14
+SALE-00546,CR008,Wharver,mammal,8,6,good,1855,41,0.845,scholar,Scholar Study,1,150.72,150.72
+SALE-00614,CR013,Quarry Toad,amphibian,2,3,damaged,1855,41,0.598,senator,Senate Zoological,2,10.79,21.58
+SALE-01848,CR003,Granite Wren,bird,1,2,fair,1855,41,0.816,collector,Private Collection,4,14.05,56.2
+SALE-00679,CR013,Quarry Toad,amphibian,2,3,damaged,1855,42,0.723,collector,Unknown,1,10.77,10.77
+SALE-01604,CR008,Wharver,mammal,8,6,good,1855,42,0.731,collector,Capital Display,1,201.64,201.64
+SALE-00154,CR012,Tunnel Eel,fish,3,4,damaged,1855,43,0.957,display,Capital Display,1,23.63,23.63
+SALE-00528,CR013,Quarry Toad,amphibian,2,3,fair,1855,43,0.752,display,Capital Display,2,18.48,36.96
+SALE-00656,CR001,Leatherback Burrower,bird,3,4,fair,1855,43,0.906,scholar,Scholar Study,1,27.58,27.58
+SALE-00890,CR004,Swamp Hornet,insect,4,1,fair,1855,43,0.662,senator,Private Collection,1,5.04,5.04
+SALE-00912,CR014,Densmuck Crawler,arthropod,4,5,good,1855,43,0.758,collector,Scholar Study,1,103.09,103.09
+SALE-01056,CR005,Marsh Stalker,reptile,6,5,fair,1855,43,0.583,trader,Miasto Market,2,127.95,255.9
+SALE-01675,CR007,Yeller Bird,bird,0,3,fair,1855,43,0.831,collector,Scholar Study,1,49.82,49.82
+SALE-00165,CR003,Granite Wren,bird,1,2,damaged,1855,44,0.892,display,Capital Display,4,11.99,47.96
+SALE-01368,CR011,Cave Moth,insect,0,2,fair,1855,44,0.851,trader,Miasto Market,2,4.04,8.08
+SALE-00392,CR003,Granite Wren,bird,1,2,partial,1855,45,0.72,trader,Miasto Market,4,3.26,13.04
+SALE-00431,CR004,Swamp Hornet,insect,4,1,good,1855,45,0.423,trader,Miasto Market,1,4.25,4.25
+SALE-01261,CR006,Glass Beetle,insect,2,6,fair,1855,45,0.586,trader,Miasto Market,1,36.74,36.74
+SALE-01823,CR014,Densmuck Crawler,arthropod,4,5,damaged,1855,45,0.488,senator,Private Collection,1,25.42,25.42
+SALE-00532,CR005,Marsh Stalker,reptile,6,5,damaged,1855,46,0.855,trader,Miasto Market,1,93.85,93.85
+SALE-01806,CR004,Swamp Hornet,insect,4,1,fair,1855,46,0.904,unknown,Unknown,3,2.66,7.98
+SALE-00298,CR003,Granite Wren,bird,1,2,pristine,1855,47,0.825,senator,Private Collection,1,43.84,43.84
+SALE-00861,CR004,Swamp Hornet,insect,4,1,fair,1855,47,0.767,unknown,Unknown,1,4.71,4.71
+SALE-00908,CR013,Quarry Toad,amphibian,2,3,good,1855,47,0.961,senator,Private Collection,4,37.52,150.08
+SALE-01066,CR008,Wharver,mammal,8,6,fair,1855,47,0.8,archivist,Capital Archives,1,394.34,394.34
+SALE-00253,CR011,Cave Moth,insect,0,2,fair,1855,48,0.671,display,Capital Display,2,5.6,11.2
+SALE-00452,CR005,Marsh Stalker,reptile,6,5,fair,1855,48,0.528,collector,Senate Zoological,1,115.4,115.4
+SALE-00771,CR014,Densmuck Crawler,arthropod,4,5,fair,1855,48,0.844,collector,Scholar Study,1,57.37,57.37
+SALE-01043,CR005,Marsh Stalker,reptile,6,5,good,1855,48,0.791,senator,Senate Zoological,1,264.41,264.41
+SALE-01836,CR001,Leatherback Burrower,bird,3,4,fair,1855,48,0.821,collector,Miasto Market,1,32.35,32.35
+SALE-00188,CR001,Leatherback Burrower,bird,3,4,good,1855,49,0.626,display,Capital Display,1,17.86,17.86
+SALE-01921,CR004,Swamp Hornet,insect,4,1,damaged,1855,49,0.472,unknown,Senate Zoological,3,2.81,8.43
+SALE-01990,CR014,Densmuck Crawler,arthropod,4,5,good,1855,49,0.874,unknown,Miasto Market,1,161.35,161.35
+SALE-01621,CR011,Cave Moth,insect,0,2,fair,1855,50,0.92,senator,Private Collection,5,11.81,59.05
+SALE-00025,CR007,Yeller Bird,bird,0,3,fair,1855,51,0.729,trader,Miasto Market,1,17.91,17.91
+SALE-00628,CR002,Stone Spine Lizard,reptile,5,7,damaged,1855,51,0.869,collector,Scholar Study,1,78.88,78.88
+SALE-00986,CR009,Stakdur,reptile,9,8,fair,1855,51,0.676,display,Capital Display,1,248.76,248.76
+SALE-01162,CR003,Granite Wren,bird,1,2,partial,1855,51,0.617,collector,Unknown,3,3.53,10.59
+SALE-01710,CR009,Stakdur,reptile,9,8,fair,1855,51,0.812,archivist,Capital Archives,1,987.79,987.79
+SALE-01793,CR004,Swamp Hornet,insect,4,1,fair,1855,51,0.518,senator,Senate Zoological,2,3.42,6.84
+SALE-01937,CR010,Grimslew,mammal,7,7,damaged,1855,51,0.938,archivist,Capital Archives,1,226.37,226.37
+SALE-00135,CR011,Cave Moth,insect,0,2,pristine,1855,52,0.856,archivist,Capital Archives,1,20.01,20.01
+SALE-00350,CR004,Swamp Hornet,insect,4,1,partial,1856,1,0.418,senator,Senate Zoological,2,1.09,2.18
+SALE-01003,CR004,Swamp Hornet,insect,4,1,fair,1856,1,0.693,unknown,Private Collection,1,2.01,2.01
+SALE-01282,CR003,Granite Wren,bird,1,2,damaged,1856,1,0.402,archivist,Capital Archives,1,20.48,20.48
+SALE-01504,CR011,Cave Moth,insect,0,2,partial,1856,1,0.667,display,Capital Display,1,2.38,2.38
+SALE-00143,CR003,Granite Wren,bird,1,2,fair,1856,2,0.766,collector,Unknown,1,26.06,26.06
+SALE-01396,CR007,Yeller Bird,bird,0,3,damaged,1856,2,0.793,archivist,Capital Archives,1,13.85,13.85
+SALE-01497,CR002,Stone Spine Lizard,reptile,5,7,fair,1856,2,0.718,unknown,Miasto Market,1,494.73,494.73
+SALE-01525,CR014,Densmuck Crawler,arthropod,4,5,good,1856,2,0.322,trader,Miasto Market,1,66.74,66.74
+SALE-01701,CR007,Yeller Bird,bird,0,3,good,1856,2,0.756,senator,Private Collection,1,73.4,73.4
+SALE-01493,CR013,Quarry Toad,amphibian,2,3,fair,1856,3,0.875,collector,Scholar Study,3,20.52,61.56
+SALE-01592,CR011,Cave Moth,insect,0,2,good,1856,3,0.556,display,Capital Display,2,8.96,17.92
+SALE-01141,CR004,Swamp Hornet,insect,4,1,damaged,1856,4,0.672,unknown,Capital Display,1,2.59,2.59
+SALE-01617,CR014,Densmuck Crawler,arthropod,4,5,partial,1856,4,0.947,scholar,Scholar Study,1,6.38,6.38
+SALE-00094,CR013,Quarry Toad,amphibian,2,3,damaged,1856,5,0.577,display,Capital Display,2,12.8,25.6
+SALE-00688,CR003,Granite Wren,bird,1,2,fair,1856,5,0.606,trader,Miasto Market,2,13.29,26.58
+SALE-00765,CR003,Granite Wren,bird,1,2,fair,1856,5,0.564,archivist,Capital Archives,1,28.2,28.2
+SALE-01137,CR004,Swamp Hornet,insect,4,1,fair,1856,5,0.526,display,Capital Display,1,2.86,2.86
+SALE-01463,CR011,Cave Moth,insect,0,2,fair,1856,5,0.654,unknown,Private Collection,1,8.39,8.39
+SALE-00199,CR009,Stakdur,reptile,9,8,damaged,1856,6,0.892,archivist,Capital Archives,2,877.16,1754.32
+SALE-00317,CR004,Swamp Hornet,insect,4,1,damaged,1856,6,0.735,senator,Private Collection,2,3.09,6.18
+SALE-00783,CR003,Granite Wren,bird,1,2,fair,1856,6,0.803,display,Capital Display,1,16.79,16.79
+SALE-00971,CR011,Cave Moth,insect,0,2,fair,1856,6,0.791,scholar,Scholar Study,1,9.87,9.87
+SALE-01433,CR005,Marsh Stalker,reptile,6,5,damaged,1856,6,0.393,collector,Capital Display,1,27.19,27.19
+SALE-00934,CR003,Granite Wren,bird,1,2,damaged,1856,7,0.911,archivist,Capital Archives,3,7.54,22.62
+SALE-01238,CR008,Wharver,mammal,8,6,good,1856,7,0.782,senator,Senate Zoological,1,933.64,933.64
+SALE-01255,CR013,Quarry Toad,amphibian,2,3,fair,1856,7,0.571,collector,Senate Zoological,2,16.56,33.12
+SALE-00727,CR004,Swamp Hornet,insect,4,1,damaged,1856,8,0.481,archivist,Capital Archives,3,2.39,7.17
+SALE-01100,CR011,Cave Moth,insect,0,2,fair,1856,8,0.778,scholar,Scholar Study,2,10.94,21.88
+SALE-00151,CR005,Marsh Stalker,reptile,6,5,fair,1856,9,0.682,scholar,Scholar Study,1,96.15,96.15
+SALE-00351,CR013,Quarry Toad,amphibian,2,3,pristine,1856,9,0.847,trader,Miasto Market,1,24.73,24.73
+SALE-00596,CR011,Cave Moth,insect,0,2,fair,1856,9,0.377,collector,Senate Zoological,4,9.27,37.08
+SALE-00128,CR012,Tunnel Eel,fish,3,4,damaged,1856,10,0.755,senator,Senate Zoological,1,15.74,15.74
+SALE-01302,CR014,Densmuck Crawler,arthropod,4,5,good,1856,10,0.73,trader,Miasto Market,1,37.01,37.01
+SALE-01337,CR004,Swamp Hornet,insect,4,1,fair,1856,10,0.695,senator,Senate Zoological,2,6.01,12.02
+SALE-01455,CR003,Granite Wren,bird,1,2,good,1856,10,0.782,senator,Senate Zoological,3,36.02,108.06
+SALE-00526,CR007,Yeller Bird,bird,0,3,good,1856,11,0.539,trader,Miasto Market,2,37.35,74.7
+SALE-01012,CR006,Glass Beetle,insect,2,6,fair,1856,11,0.729,senator,Senate Zoological,1,86.43,86.43
+SALE-01064,CR013,Quarry Toad,amphibian,2,3,damaged,1856,11,0.661,archivist,Capital Archives,1,12.23,12.23
+SALE-01328,CR013,Quarry Toad,amphibian,2,3,fair,1856,11,0.683,unknown,Capital Display,3,23.99,71.97
+SALE-00286,CR012,Tunnel Eel,fish,3,4,damaged,1856,12,0.829,collector,Miasto Market,1,9.36,9.36
+SALE-00612,CR005,Marsh Stalker,reptile,6,5,damaged,1856,12,0.696,archivist,Capital Archives,1,54.82,54.82
+SALE-01011,CR003,Granite Wren,bird,1,2,fair,1856,12,0.939,collector,Unknown,2,15.96,31.92
+SALE-01492,CR012,Tunnel Eel,fish,3,4,partial,1856,12,0.881,collector,Senate Zoological,1,9.31,9.31
+SALE-01499,CR011,Cave Moth,insect,0,2,good,1856,12,0.702,unknown,Scholar Study,2,6.17,12.34
+SALE-01542,CR011,Cave Moth,insect,0,2,damaged,1856,12,0.748,trader,Miasto Market,3,4.24,12.72
+SALE-01857,CR011,Cave Moth,insect,0,2,fair,1856,12,0.582,collector,Capital Display,3,13.89,41.67
+SALE-00440,CR008,Wharver,mammal,8,6,good,1856,13,0.474,unknown,Capital Archives,1,356.16,356.16
+SALE-00527,CR013,Quarry Toad,amphibian,2,3,damaged,1856,13,0.525,scholar,Scholar Study,4,9.15,36.6
+SALE-01358,CR012,Tunnel Eel,fish,3,4,fair,1856,13,0.645,collector,Capital Archives,2,36.51,73.02
+SALE-01516,CR005,Marsh Stalker,reptile,6,5,pristine,1856,13,0.609,trader,Miasto Market,2,37.85,75.7
+SALE-01528,CR003,Granite Wren,bird,1,2,fair,1856,13,0.599,senator,Senate Zoological,1,14.83,14.83
+SALE-00563,CR013,Quarry Toad,amphibian,2,3,damaged,1856,14,0.793,unknown,Unknown,3,7.74,23.22
+SALE-01576,CR011,Cave Moth,insect,0,2,damaged,1856,14,0.833,scholar,Scholar Study,4,8.69,34.76
+SALE-01765,CR009,Stakdur,reptile,9,8,good,1856,14,0.482,scholar,Scholar Study,2,682.03,1364.06
+SALE-00279,CR007,Yeller Bird,bird,0,3,pristine,1856,15,0.769,display,Capital Display,5,57.46,287.3
+SALE-00262,CR011,Cave Moth,insect,0,2,fair,1856,16,0.887,collector,Capital Archives,1,10.94,10.94
+SALE-00356,CR008,Wharver,mammal,8,6,damaged,1856,16,0.739,scholar,Scholar Study,1,232.39,232.39
+SALE-00664,CR001,Leatherback Burrower,bird,3,4,fair,1856,16,0.7,archivist,Capital Archives,1,23.18,23.18
+SALE-00769,CR007,Yeller Bird,bird,0,3,fair,1856,16,0.872,collector,Capital Archives,1,39.43,39.43
+SALE-01224,CR004,Swamp Hornet,insect,4,1,damaged,1856,16,0.558,unknown,Private Collection,1,1.45,1.45
+SALE-00662,CR014,Densmuck Crawler,arthropod,4,5,fair,1856,17,0.557,senator,Senate Zoological,1,51.34,51.34
+SALE-01430,CR006,Glass Beetle,insect,2,6,fair,1856,17,0.799,trader,Miasto Market,1,25.11,25.11
+SALE-01555,CR014,Densmuck Crawler,arthropod,4,5,fair,1856,17,0.957,senator,Senate Zoological,1,73.61,73.61
+SALE-01919,CR013,Quarry Toad,amphibian,2,3,good,1856,17,0.685,display,Capital Display,2,14.22,28.44
+SALE-00433,CR004,Swamp Hornet,insect,4,1,fair,1856,18,0.864,archivist,Capital Archives,1,2.11,2.11
+SALE-00824,CR007,Yeller Bird,bird,0,3,fair,1856,18,0.759,display,Capital Display,4,26.79,107.16
+SALE-01611,CR004,Swamp Hornet,insect,4,1,fair,1856,18,0.874,display,Capital Display,1,4.92,4.92
+SALE-01067,CR010,Grimslew,mammal,7,7,damaged,1856,19,0.691,unknown,Scholar Study,2,187.34,374.68
+SALE-01605,CR011,Cave Moth,insect,0,2,good,1856,19,0.586,senator,Senate Zoological,5,9.28,46.4
+SALE-01636,CR012,Tunnel Eel,fish,3,4,fair,1856,19,0.63,display,Capital Display,1,25.53,25.53
+SALE-01730,CR007,Yeller Bird,bird,0,3,damaged,1856,19,0.93,scholar,Scholar Study,3,23.62,70.86
+SALE-01406,CR008,Wharver,mammal,8,6,pristine,1856,20,0.353,unknown,Senate Zoological,1,98.91,98.91
+SALE-01766,CR004,Swamp Hornet,insect,4,1,damaged,1856,20,0.712,scholar,Scholar Study,3,1.43,4.29
+SALE-00166,CR001,Leatherback Burrower,bird,3,4,fair,1856,21,0.771,collector,Capital Archives,1,21.57,21.57
+SALE-00991,CR007,Yeller Bird,bird,0,3,damaged,1856,21,0.795,collector,Scholar Study,2,30.65,61.3
+SALE-01779,CR006,Glass Beetle,insect,2,6,fair,1856,21,0.732,display,Capital Display,1,48.58,48.58
+SALE-00168,CR008,Wharver,mammal,8,6,fair,1856,22,0.534,collector,Scholar Study,1,341.19,341.19
+SALE-00530,CR003,Granite Wren,bird,1,2,fair,1856,22,0.867,scholar,Scholar Study,2,12.61,25.22
+SALE-01208,CR005,Marsh Stalker,reptile,6,5,partial,1856,22,0.805,display,Capital Display,2,52.91,105.82
+SALE-01312,CR005,Marsh Stalker,reptile,6,5,fair,1856,22,0.931,display,Capital Display,2,66.02,132.04
+SALE-01391,CR002,Stone Spine Lizard,reptile,5,7,good,1856,22,0.821,collector,Senate Zoological,1,218.37,218.37
+SALE-00534,CR002,Stone Spine Lizard,reptile,5,7,fair,1856,23,0.538,trader,Miasto Market,1,92.68,92.68
+SALE-00988,CR013,Quarry Toad,amphibian,2,3,fair,1856,23,0.84,display,Capital Display,1,8.8,8.8
+SALE-01239,CR006,Glass Beetle,insect,2,6,good,1856,23,0.886,scholar,Scholar Study,1,101.91,101.91
+SALE-01519,CR010,Grimslew,mammal,7,7,good,1856,23,0.425,senator,Private Collection,1,164.16,164.16
+SALE-01837,CR004,Swamp Hornet,insect,4,1,good,1856,23,0.871,trader,Miasto Market,3,3.73,11.19
+SALE-00525,CR001,Leatherback Burrower,bird,3,4,pristine,1856,24,0.736,unknown,Private Collection,1,61.74,61.74
+SALE-01629,CR006,Glass Beetle,insect,2,6,good,1856,24,0.774,unknown,Miasto Market,1,122.43,122.43
+SALE-00673,CR011,Cave Moth,insect,0,2,good,1856,25,0.555,collector,Miasto Market,3,11.48,34.44
+SALE-00024,CR012,Tunnel Eel,fish,3,4,damaged,1856,26,0.516,trader,Miasto Market,1,12.71,12.71
+SALE-00136,CR009,Stakdur,reptile,9,8,fair,1856,26,0.566,display,Capital Display,1,307.08,307.08
+SALE-00862,CR009,Stakdur,reptile,9,8,partial,1856,26,0.755,unknown,Unknown,1,233.88,233.88
+SALE-00907,CR011,Cave Moth,insect,0,2,partial,1856,26,0.678,unknown,Scholar Study,1,1.66,1.66
+SALE-01145,CR005,Marsh Stalker,reptile,6,5,good,1856,26,0.558,display,Capital Display,1,53.48,53.48
+SALE-01353,CR007,Yeller Bird,bird,0,3,fair,1856,26,0.883,collector,Scholar Study,3,37.01,111.03
+SALE-01573,CR011,Cave Moth,insect,0,2,good,1856,26,0.636,unknown,Miasto Market,2,9.06,18.12
+SALE-01574,CR012,Tunnel Eel,fish,3,4,fair,1856,26,0.579,display,Capital Display,1,35.03,35.03
+SALE-01590,CR012,Tunnel Eel,fish,3,4,fair,1856,26,0.485,unknown,Senate Zoological,1,24.47,24.47
+SALE-01791,CR005,Marsh Stalker,reptile,6,5,fair,1856,26,0.531,unknown,Miasto Market,1,20.79,20.79
+SALE-00175,CR011,Cave Moth,insect,0,2,pristine,1856,27,0.74,scholar,Scholar Study,1,13.81,13.81
+SALE-00256,CR007,Yeller Bird,bird,0,3,pristine,1856,27,0.636,senator,Senate Zoological,1,90.41,90.41
+SALE-00617,CR007,Yeller Bird,bird,0,3,fair,1856,27,0.677,senator,Private Collection,2,22.29,44.58
+SALE-00763,CR008,Wharver,mammal,8,6,good,1856,27,0.571,unknown,Capital Display,1,83.43,83.43
+SALE-01551,CR012,Tunnel Eel,fish,3,4,good,1856,27,0.715,archivist,Capital Archives,1,25.83,25.83
+SALE-01959,CR002,Stone Spine Lizard,reptile,5,7,fair,1856,27,0.518,display,Capital Display,1,286.2,286.2
+SALE-00288,CR005,Marsh Stalker,reptile,6,5,fair,1856,28,0.853,scholar,Scholar Study,2,42.1,84.2
+SALE-01058,CR004,Swamp Hornet,insect,4,1,partial,1856,28,0.881,display,Capital Display,1,1.0,1.0
+SALE-01175,CR011,Cave Moth,insect,0,2,fair,1856,28,0.8,scholar,Scholar Study,3,7.6,22.8
+SALE-01262,CR006,Glass Beetle,insect,2,6,damaged,1856,28,0.712,senator,Senate Zoological,1,58.9,58.9
+SALE-01342,CR013,Quarry Toad,amphibian,2,3,fair,1856,28,0.781,archivist,Capital Archives,1,29.73,29.73
+SALE-01688,CR004,Swamp Hornet,insect,4,1,pristine,1856,28,0.598,collector,Scholar Study,2,8.94,17.88
+SALE-00499,CR003,Granite Wren,bird,1,2,good,1856,29,0.756,scholar,Scholar Study,1,20.68,20.68
+SALE-00714,CR010,Grimslew,mammal,7,7,good,1856,29,0.867,unknown,Scholar Study,1,272.72,272.72
+SALE-01093,CR004,Swamp Hornet,insect,4,1,fair,1856,30,0.701,unknown,Miasto Market,1,1.72,1.72
+SALE-01775,CR005,Marsh Stalker,reptile,6,5,pristine,1856,30,0.857,archivist,Capital Archives,1,178.92,178.92
+SALE-01109,CR011,Cave Moth,insect,0,2,fair,1856,31,0.951,unknown,Senate Zoological,1,13.29,13.29
+SALE-01192,CR014,Densmuck Crawler,arthropod,4,5,damaged,1856,31,0.863,archivist,Capital Archives,1,30.59,30.59
+SALE-01501,CR011,Cave Moth,insect,0,2,good,1856,31,0.605,collector,Miasto Market,2,11.3,22.6
+SALE-00034,CR005,Marsh Stalker,reptile,6,5,partial,1856,32,0.915,trader,Miasto Market,1,35.52,35.52
+SALE-00108,CR007,Yeller Bird,bird,0,3,fair,1856,32,0.877,senator,Senate Zoological,1,76.95,76.95
+SALE-00892,CR011,Cave Moth,insect,0,2,damaged,1856,32,0.393,trader,Miasto Market,2,4.73,9.46
+SALE-00975,CR012,Tunnel Eel,fish,3,4,pristine,1856,32,0.761,collector,Capital Display,1,55.76,55.76
+SALE-01664,CR003,Granite Wren,bird,1,2,fair,1856,32,0.885,archivist,Capital Archives,2,14.27,28.54
+SALE-01760,CR011,Cave Moth,insect,0,2,good,1856,32,0.591,senator,Private Collection,4,9.95,39.8
+SALE-00475,CR007,Yeller Bird,bird,0,3,fair,1856,33,0.642,collector,Senate Zoological,2,50.15,100.3
+SALE-01019,CR004,Swamp Hornet,insect,4,1,fair,1856,33,0.872,collector,Private Collection,4,3.28,13.12
+SALE-01289,CR007,Yeller Bird,bird,0,3,fair,1856,33,0.935,display,Capital Display,2,42.61,85.22
+SALE-01950,CR003,Granite Wren,bird,1,2,good,1856,33,0.794,trader,Miasto Market,4,18.39,73.56
+SALE-00439,CR001,Leatherback Burrower,bird,3,4,fair,1856,34,0.83,senator,Senate Zoological,1,49.06,49.06
+SALE-00877,CR001,Leatherback Burrower,bird,3,4,good,1856,34,0.608,collector,Capital Display,1,69.07,69.07
+SALE-00734,CR013,Quarry Toad,amphibian,2,3,damaged,1856,35,0.593,unknown,Private Collection,4,9.46,37.84
+SALE-01842,CR001,Leatherback Burrower,bird,3,4,good,1856,35,0.686,unknown,Unknown,1,22.19,22.19
+SALE-01195,CR011,Cave Moth,insect,0,2,fair,1856,36,0.714,display,Capital Display,2,6.14,12.28
+SALE-01216,CR003,Granite Wren,bird,1,2,partial,1856,36,0.932,archivist,Capital Archives,1,3.46,3.46
+SALE-01773,CR006,Glass Beetle,insect,2,6,good,1856,36,0.931,scholar,Scholar Study,1,58.08,58.08
+SALE-01465,CR005,Marsh Stalker,reptile,6,5,fair,1856,37,0.746,archivist,Capital Archives,1,180.43,180.43
+SALE-00538,CR001,Leatherback Burrower,bird,3,4,damaged,1856,38,0.25,archivist,Capital Archives,2,14.17,28.34
+SALE-01425,CR012,Tunnel Eel,fish,3,4,fair,1856,38,0.865,unknown,Private Collection,1,22.63,22.63
+SALE-00242,CR013,Quarry Toad,amphibian,2,3,good,1856,39,0.911,senator,Senate Zoological,3,31.21,93.63
+SALE-00250,CR003,Granite Wren,bird,1,2,partial,1856,39,0.728,scholar,Scholar Study,2,4.81,9.62
+SALE-00502,CR002,Stone Spine Lizard,reptile,5,7,fair,1856,39,0.474,senator,Private Collection,1,95.28,95.28
+SALE-00371,CR012,Tunnel Eel,fish,3,4,pristine,1856,40,0.887,trader,Miasto Market,2,25.74,51.48
+SALE-00899,CR011,Cave Moth,insect,0,2,damaged,1856,40,0.769,scholar,Scholar Study,3,5.31,15.93
+SALE-00926,CR002,Stone Spine Lizard,reptile,5,7,fair,1856,40,0.96,scholar,Scholar Study,1,156.79,156.79
+SALE-01106,CR002,Stone Spine Lizard,reptile,5,7,fair,1856,40,0.665,unknown,Scholar Study,1,103.55,103.55
+SALE-01486,CR013,Quarry Toad,amphibian,2,3,good,1856,40,0.508,unknown,Capital Display,1,17.07,17.07
+SALE-00809,CR006,Glass Beetle,insect,2,6,good,1856,41,0.855,display,Capital Display,1,113.35,113.35
+SALE-01796,CR013,Quarry Toad,amphibian,2,3,fair,1856,41,0.809,archivist,Capital Archives,1,27.05,27.05
+SALE-01987,CR005,Marsh Stalker,reptile,6,5,pristine,1856,41,0.556,collector,Senate Zoological,2,63.13,126.26
+SALE-00048,CR013,Quarry Toad,amphibian,2,3,partial,1856,42,0.84,scholar,Scholar Study,1,3.22,3.22
+SALE-00236,CR013,Quarry Toad,amphibian,2,3,fair,1856,42,0.529,trader,Miasto Market,1,15.75,15.75
+SALE-00587,CR006,Glass Beetle,insect,2,6,damaged,1856,42,0.682,collector,Miasto Market,1,45.37,45.37
+SALE-00921,CR006,Glass Beetle,insect,2,6,damaged,1856,42,0.9,collector,Capital Display,1,59.39,59.39
+SALE-01742,CR012,Tunnel Eel,fish,3,4,fair,1856,42,0.701,senator,Senate Zoological,2,31.57,63.14
+SALE-01918,CR009,Stakdur,reptile,9,8,fair,1856,42,0.445,unknown,Unknown,1,187.68,187.68
+SALE-01040,CR003,Granite Wren,bird,1,2,fair,1856,43,0.433,senator,Private Collection,3,11.72,35.16
+SALE-01086,CR003,Granite Wren,bird,1,2,fair,1856,43,0.881,unknown,Scholar Study,2,13.3,26.6
+SALE-01409,CR007,Yeller Bird,bird,0,3,damaged,1856,43,0.632,archivist,Capital Archives,2,31.55,63.1
+SALE-00153,CR001,Leatherback Burrower,bird,3,4,good,1856,44,0.949,collector,Capital Display,1,27.21,27.21
+SALE-00481,CR007,Yeller Bird,bird,0,3,damaged,1856,44,0.829,unknown,Capital Display,4,26.67,106.68
+SALE-01366,CR003,Granite Wren,bird,1,2,damaged,1856,44,0.783,unknown,Unknown,5,7.9,39.5
+SALE-00205,CR007,Yeller Bird,bird,0,3,partial,1856,45,0.955,scholar,Scholar Study,1,16.51,16.51
+SALE-00218,CR001,Leatherback Burrower,bird,3,4,fair,1856,45,0.458,unknown,Private Collection,1,27.7,27.7
+SALE-01250,CR012,Tunnel Eel,fish,3,4,fair,1856,45,0.722,unknown,Miasto Market,1,37.77,37.77
+SALE-01924,CR011,Cave Moth,insect,0,2,fair,1856,45,0.917,collector,Capital Archives,2,6.45,12.9
+SALE-00088,CR009,Stakdur,reptile,9,8,partial,1856,46,0.584,senator,Senate Zoological,1,89.03,89.03
+SALE-00407,CR007,Yeller Bird,bird,0,3,damaged,1856,46,0.811,archivist,Capital Archives,2,17.67,35.34
+SALE-00707,CR006,Glass Beetle,insect,2,6,pristine,1856,46,0.795,display,Capital Display,2,237.45,474.9
+SALE-00800,CR013,Quarry Toad,amphibian,2,3,fair,1856,46,0.376,collector,Senate Zoological,2,13.86,27.72
+SALE-00264,CR005,Marsh Stalker,reptile,6,5,good,1856,47,0.68,unknown,Scholar Study,1,260.17,260.17
+SALE-00914,CR012,Tunnel Eel,fish,3,4,damaged,1856,47,0.816,unknown,Unknown,1,19.46,19.46
+SALE-01256,CR013,Quarry Toad,amphibian,2,3,fair,1856,47,0.906,trader,Miasto Market,3,9.99,29.97
+SALE-01534,CR001,Leatherback Burrower,bird,3,4,partial,1856,48,0.495,collector,Capital Display,1,8.28,8.28
+SALE-00191,CR009,Stakdur,reptile,9,8,fair,1856,49,0.972,senator,Private Collection,1,420.37,420.37
+SALE-00233,CR010,Grimslew,mammal,7,7,pristine,1856,49,0.827,collector,Capital Display,2,351.73,703.46
+SALE-00436,CR008,Wharver,mammal,8,6,damaged,1856,49,0.855,collector,Unknown,1,361.62,361.62
+SALE-00571,CR001,Leatherback Burrower,bird,3,4,pristine,1856,49,0.755,collector,Unknown,1,64.36,64.36
+SALE-01441,CR003,Granite Wren,bird,1,2,fair,1856,50,0.985,collector,Miasto Market,1,25.96,25.96
+SALE-00724,CR012,Tunnel Eel,fish,3,4,partial,1856,51,0.447,scholar,Scholar Study,1,8.19,8.19
+SALE-01572,CR006,Glass Beetle,insect,2,6,good,1856,51,0.609,scholar,Scholar Study,1,82.22,82.22
+SALE-00001,CR014,Densmuck Crawler,arthropod,4,5,damaged,1856,52,0.288,trader,Miasto Market,1,21.1,21.1
+SALE-00222,CR010,Grimslew,mammal,7,7,fair,1856,52,0.512,display,Capital Display,1,454.63,454.63
+SALE-00818,CR005,Marsh Stalker,reptile,6,5,fair,1856,52,0.517,display,Capital Display,1,110.48,110.48
+SALE-01603,CR013,Quarry Toad,amphibian,2,3,fair,1856,52,0.52,trader,Miasto Market,1,21.45,21.45
+SALE-00072,CR008,Wharver,mammal,8,6,good,1857,1,0.916,unknown,Capital Display,2,1185.94,2371.88
+SALE-00276,CR007,Yeller Bird,bird,0,3,good,1857,1,0.626,trader,Miasto Market,2,54.59,109.18
+SALE-01002,CR011,Cave Moth,insect,0,2,partial,1857,1,0.776,archivist,Capital Archives,3,1.85,5.55
+SALE-01157,CR004,Swamp Hornet,insect,4,1,fair,1857,1,0.755,scholar,Scholar Study,5,2.69,13.45
+SALE-01305,CR003,Granite Wren,bird,1,2,damaged,1857,1,0.951,scholar,Scholar Study,1,6.68,6.68
+SALE-01579,CR007,Yeller Bird,bird,0,3,good,1857,1,0.856,display,Capital Display,4,94.85,379.4
+SALE-01815,CR013,Quarry Toad,amphibian,2,3,damaged,1857,1,0.814,senator,Private Collection,3,19.5,58.5
+SALE-00821,CR013,Quarry Toad,amphibian,2,3,fair,1857,2,0.636,scholar,Scholar Study,1,29.28,29.28
+SALE-00957,CR004,Swamp Hornet,insect,4,1,good,1857,2,0.62,unknown,Private Collection,4,2.79,11.16
+SALE-01317,CR005,Marsh Stalker,reptile,6,5,damaged,1857,2,0.585,display,Capital Display,1,73.75,73.75
+SALE-01633,CR013,Quarry Toad,amphibian,2,3,good,1857,2,0.959,trader,Miasto Market,1,22.07,22.07
+SALE-00621,CR003,Granite Wren,bird,1,2,fair,1857,3,0.509,unknown,Capital Display,1,16.53,16.53
+SALE-01069,CR004,Swamp Hornet,insect,4,1,good,1857,3,0.457,scholar,Scholar Study,2,4.08,8.16
+SALE-00270,CR007,Yeller Bird,bird,0,3,damaged,1857,4,0.914,senator,Senate Zoological,3,58.69,176.07
+SALE-00623,CR012,Tunnel Eel,fish,3,4,good,1857,4,0.798,collector,Private Collection,1,17.22,17.22
+SALE-01245,CR013,Quarry Toad,amphibian,2,3,good,1857,4,0.801,archivist,Capital Archives,4,32.15,128.6
+SALE-00134,CR011,Cave Moth,insect,0,2,damaged,1857,5,0.559,archivist,Capital Archives,3,3.89,11.67
+SALE-01403,CR005,Marsh Stalker,reptile,6,5,fair,1857,5,0.807,unknown,Capital Archives,1,34.65,34.65
+SALE-01581,CR013,Quarry Toad,amphibian,2,3,fair,1857,5,0.582,collector,Capital Archives,3,9.17,27.51
+SALE-00521,CR001,Leatherback Burrower,bird,3,4,damaged,1857,7,0.778,display,Capital Display,2,20.53,41.06
+SALE-01840,CR010,Grimslew,mammal,7,7,partial,1857,7,0.893,display,Capital Display,2,53.31,106.62
+SALE-00223,CR003,Granite Wren,bird,1,2,good,1857,8,0.742,display,Capital Display,1,31.25,31.25
+SALE-00224,CR004,Swamp Hornet,insect,4,1,fair,1857,9,0.774,scholar,Scholar Study,1,2.55,2.55
+SALE-00591,CR004,Swamp Hornet,insect,4,1,fair,1857,9,0.804,archivist,Capital Archives,2,2.38,4.76
+SALE-00625,CR012,Tunnel Eel,fish,3,4,pristine,1857,9,0.651,collector,Miasto Market,1,21.96,21.96
+SALE-01891,CR014,Densmuck Crawler,arthropod,4,5,fair,1857,9,0.731,display,Capital Display,1,50.72,50.72
+SALE-00398,CR007,Yeller Bird,bird,0,3,good,1857,10,0.619,scholar,Scholar Study,1,75.66,75.66
+SALE-00553,CR013,Quarry Toad,amphibian,2,3,good,1857,10,0.551,unknown,Scholar Study,1,8.3,8.3
+SALE-00409,CR003,Granite Wren,bird,1,2,damaged,1857,11,0.601,trader,Miasto Market,2,4.06,8.12
+SALE-00434,CR003,Granite Wren,bird,1,2,fair,1857,11,0.778,unknown,Private Collection,3,14.62,43.86
+SALE-00788,CR013,Quarry Toad,amphibian,2,3,fair,1857,11,0.615,collector,Private Collection,4,10.82,43.28
+SALE-01694,CR009,Stakdur,reptile,9,8,good,1857,11,0.74,trader,Miasto Market,1,308.33,308.33
+SALE-01699,CR001,Leatherback Burrower,bird,3,4,damaged,1857,11,0.816,scholar,Scholar Study,1,14.47,14.47
+SALE-01961,CR012,Tunnel Eel,fish,3,4,fair,1857,11,0.486,unknown,Capital Display,1,17.12,17.12
+SALE-00523,CR003,Granite Wren,bird,1,2,fair,1857,12,0.914,senator,Senate Zoological,2,24.99,49.98
+SALE-00573,CR003,Granite Wren,bird,1,2,partial,1857,12,0.633,senator,Private Collection,3,3.17,9.51
+SALE-00721,CR008,Wharver,mammal,8,6,partial,1857,12,0.728,senator,Senate Zoological,1,132.83,132.83
+SALE-00292,CR013,Quarry Toad,amphibian,2,3,damaged,1857,13,0.492,collector,Capital Display,5,8.43,42.15
+SALE-00761,CR012,Tunnel Eel,fish,3,4,fair,1857,13,0.624,scholar,Scholar Study,1,28.5,28.5
+SALE-01047,CR006,Glass Beetle,insect,2,6,damaged,1857,13,0.935,trader,Miasto Market,1,63.11,63.11
+SALE-01873,CR014,Densmuck Crawler,arthropod,4,5,fair,1857,13,0.794,collector,Senate Zoological,1,100.39,100.39
+SALE-01996,CR004,Swamp Hornet,insect,4,1,fair,1857,13,0.841,collector,Capital Archives,1,1.68,1.68
+SALE-00701,CR008,Wharver,mammal,8,6,damaged,1857,14,0.865,unknown,Unknown,1,98.16,98.16
+SALE-00730,CR007,Yeller Bird,bird,0,3,fair,1857,14,0.736,archivist,Capital Archives,1,39.8,39.8
+SALE-00925,CR002,Stone Spine Lizard,reptile,5,7,fair,1857,14,0.412,display,Capital Display,1,149.37,149.37
+SALE-00141,CR014,Densmuck Crawler,arthropod,4,5,good,1857,15,0.754,display,Capital Display,1,43.15,43.15
+SALE-00642,CR004,Swamp Hornet,insect,4,1,good,1857,15,0.874,unknown,Miasto Market,2,1.62,3.24
+SALE-00663,CR001,Leatherback Burrower,bird,3,4,good,1857,16,0.883,display,Capital Display,1,39.65,39.65
+SALE-00882,CR007,Yeller Bird,bird,0,3,damaged,1857,16,0.459,unknown,Capital Archives,3,31.95,95.85
+SALE-00375,CR014,Densmuck Crawler,arthropod,4,5,fair,1857,18,0.807,archivist,Capital Archives,1,56.87,56.87
+SALE-00386,CR014,Densmuck Crawler,arthropod,4,5,damaged,1857,18,0.754,collector,Senate Zoological,1,19.69,19.69
+SALE-00803,CR012,Tunnel Eel,fish,3,4,damaged,1857,18,0.834,scholar,Scholar Study,1,16.29,16.29
+SALE-00082,CR011,Cave Moth,insect,0,2,damaged,1857,19,0.806,unknown,Miasto Market,1,5.04,5.04
+SALE-00093,CR013,Quarry Toad,amphibian,2,3,good,1857,19,0.669,display,Capital Display,2,35.06,70.12
+SALE-00635,CR007,Yeller Bird,bird,0,3,fair,1857,19,0.818,unknown,Miasto Market,1,29.5,29.5
+SALE-00872,CR001,Leatherback Burrower,bird,3,4,damaged,1857,19,0.616,archivist,Capital Archives,1,12.67,12.67
+SALE-01244,CR005,Marsh Stalker,reptile,6,5,pristine,1857,19,0.837,collector,Capital Archives,1,124.39,124.39
+SALE-01687,CR011,Cave Moth,insect,0,2,good,1857,19,0.829,senator,Private Collection,1,10.37,10.37
+SALE-01813,CR005,Marsh Stalker,reptile,6,5,fair,1857,19,0.833,scholar,Scholar Study,1,200.27,200.27
+SALE-00248,CR004,Swamp Hornet,insect,4,1,good,1857,20,0.57,senator,Senate Zoological,2,5.91,11.82
+SALE-00283,CR014,Densmuck Crawler,arthropod,4,5,fair,1857,20,0.612,senator,Private Collection,1,64.34,64.34
+SALE-00740,CR004,Swamp Hornet,insect,4,1,fair,1857,20,0.411,scholar,Scholar Study,2,1.9,3.8
+SALE-00822,CR011,Cave Moth,insect,0,2,pristine,1857,20,0.807,unknown,Senate Zoological,1,10.15,10.15
+SALE-01471,CR014,Densmuck Crawler,arthropod,4,5,damaged,1857,20,0.313,senator,Senate Zoological,1,61.26,61.26
+SALE-00257,CR006,Glass Beetle,insect,2,6,damaged,1857,21,0.409,display,Capital Display,2,22.22,44.44
+SALE-01179,CR013,Quarry Toad,amphibian,2,3,fair,1857,21,0.677,collector,Unknown,1,7.35,7.35
+SALE-01526,CR003,Granite Wren,bird,1,2,fair,1857,21,0.204,unknown,Miasto Market,2,10.53,21.06
+SALE-01743,CR011,Cave Moth,insect,0,2,fair,1857,21,0.564,archivist,Capital Archives,2,10.5,21.0
+SALE-01744,CR003,Granite Wren,bird,1,2,damaged,1857,21,0.864,unknown,Miasto Market,1,9.94,9.94
+SALE-00052,CR004,Swamp Hornet,insect,4,1,damaged,1857,22,0.907,collector,Senate Zoological,2,1.35,2.7
+SALE-00389,CR011,Cave Moth,insect,0,2,good,1857,22,0.836,archivist,Capital Archives,5,6.71,33.55
+SALE-01559,CR001,Leatherback Burrower,bird,3,4,partial,1857,22,0.714,scholar,Scholar Study,2,6.78,13.56
+SALE-01825,CR001,Leatherback Burrower,bird,3,4,pristine,1857,22,0.778,unknown,Senate Zoological,1,17.47,17.47
+SALE-00179,CR002,Stone Spine Lizard,reptile,5,7,good,1857,23,0.866,senator,Senate Zoological,1,329.54,329.54
+SALE-00204,CR005,Marsh Stalker,reptile,6,5,fair,1857,23,0.5,archivist,Capital Archives,1,175.65,175.65
+SALE-01273,CR010,Grimslew,mammal,7,7,partial,1857,23,0.632,unknown,Scholar Study,1,51.9,51.9
+SALE-01412,CR011,Cave Moth,insect,0,2,partial,1857,23,0.933,unknown,Capital Archives,1,2.32,2.32
+SALE-01818,CR012,Tunnel Eel,fish,3,4,pristine,1857,23,0.488,senator,Private Collection,1,16.69,16.69
+SALE-00007,CR001,Leatherback Burrower,bird,3,4,good,1857,24,0.592,display,Capital Display,2,33.65,67.3
+SALE-00674,CR007,Yeller Bird,bird,0,3,fair,1857,24,0.555,archivist,Capital Archives,1,55.55,55.55
+SALE-00844,CR010,Grimslew,mammal,7,7,good,1857,24,0.309,collector,Private Collection,1,160.54,160.54
+SALE-00936,CR005,Marsh Stalker,reptile,6,5,fair,1857,24,0.842,unknown,Senate Zoological,1,225.57,225.57
+SALE-01477,CR012,Tunnel Eel,fish,3,4,good,1857,24,0.652,archivist,Capital Archives,2,30.83,61.66
+SALE-00164,CR014,Densmuck Crawler,arthropod,4,5,pristine,1857,25,0.802,scholar,Scholar Study,1,124.98,124.98
+SALE-01108,CR004,Swamp Hornet,insect,4,1,partial,1857,25,0.75,display,Capital Display,2,1.0,2.0
+SALE-01161,CR002,Stone Spine Lizard,reptile,5,7,fair,1857,25,0.597,unknown,Unknown,1,302.4,302.4
+SALE-01663,CR014,Densmuck Crawler,arthropod,4,5,damaged,1857,25,0.926,unknown,Capital Archives,1,31.37,31.37
+SALE-00266,CR007,Yeller Bird,bird,0,3,good,1857,26,0.729,senator,Senate Zoological,2,99.35,198.7
+SALE-00865,CR011,Cave Moth,insect,0,2,damaged,1857,26,0.305,senator,Private Collection,2,3.61,7.22
+SALE-01427,CR002,Stone Spine Lizard,reptile,5,7,good,1857,26,0.69,scholar,Scholar Study,1,271.15,271.15
+SALE-00381,CR004,Swamp Hornet,insect,4,1,pristine,1857,27,0.287,collector,Capital Archives,1,5.5,5.5
+SALE-00715,CR001,Leatherback Burrower,bird,3,4,damaged,1857,27,0.822,trader,Miasto Market,1,18.07,18.07
+SALE-01436,CR007,Yeller Bird,bird,0,3,pristine,1857,27,0.612,collector,Capital Display,3,63.69,191.07
+SALE-01941,CR002,Stone Spine Lizard,reptile,5,7,damaged,1857,27,0.378,display,Capital Display,1,201.53,201.53
+SALE-00302,CR004,Swamp Hornet,insect,4,1,good,1857,28,0.681,archivist,Capital Archives,1,2.05,2.05
+SALE-00780,CR007,Yeller Bird,bird,0,3,partial,1857,28,0.451,senator,Senate Zoological,2,5.31,10.62
+SALE-01831,CR014,Densmuck Crawler,arthropod,4,5,fair,1857,28,0.532,archivist,Capital Archives,1,44.33,44.33
+SALE-00339,CR011,Cave Moth,insect,0,2,fair,1857,29,0.476,scholar,Scholar Study,3,5.55,16.65
+SALE-01121,CR011,Cave Moth,insect,0,2,fair,1857,29,0.61,display,Capital Display,2,6.41,12.82
+SALE-01410,CR001,Leatherback Burrower,bird,3,4,fair,1857,29,0.666,collector,Miasto Market,1,26.98,26.98
+SALE-01925,CR015,Golden Amalgam Snail,mollusk,0,9,fair,1857,29,0.585,unknown,Capital Archives,2,682.75,1365.5
+SALE-01020,CR004,Swamp Hornet,insect,4,1,good,1857,30,0.727,senator,Senate Zoological,4,2.33,9.32
+SALE-01223,CR007,Yeller Bird,bird,0,3,fair,1857,30,0.919,senator,Senate Zoological,1,63.85,63.85
+SALE-01585,CR003,Granite Wren,bird,1,2,fair,1857,30,0.497,collector,Senate Zoological,2,18.63,37.26
+SALE-01808,CR012,Tunnel Eel,fish,3,4,good,1857,30,0.48,scholar,Scholar Study,1,33.12,33.12
+SALE-00931,CR013,Quarry Toad,amphibian,2,3,fair,1857,31,0.741,display,Capital Display,1,37.06,37.06
+SALE-01008,CR012,Tunnel Eel,fish,3,4,good,1857,31,0.644,collector,Senate Zoological,1,22.2,22.2
+SALE-00185,CR008,Wharver,mammal,8,6,fair,1857,32,0.595,unknown,Private Collection,1,352.05,352.05
+SALE-00720,CR004,Swamp Hornet,insect,4,1,fair,1857,32,0.421,unknown,Capital Archives,1,1.41,1.41
+SALE-01375,CR014,Densmuck Crawler,arthropod,4,5,fair,1857,32,0.641,scholar,Scholar Study,1,83.27,83.27
+SALE-01712,CR004,Swamp Hornet,insect,4,1,good,1857,32,0.716,collector,Capital Archives,1,6.49,6.49
+SALE-00246,CR008,Wharver,mammal,8,6,good,1857,33,0.887,display,Capital Display,2,231.05,462.1
+SALE-00805,CR009,Stakdur,reptile,9,8,fair,1857,33,0.75,display,Capital Display,1,448.43,448.43
+SALE-00896,CR001,Leatherback Burrower,bird,3,4,good,1857,33,0.288,archivist,Capital Archives,1,21.02,21.02
+SALE-00982,CR002,Stone Spine Lizard,reptile,5,7,good,1857,33,0.607,collector,Private Collection,2,130.97,261.94
+SALE-00713,CR003,Granite Wren,bird,1,2,good,1857,34,0.803,unknown,Capital Display,3,11.77,35.31
+SALE-01356,CR007,Yeller Bird,bird,0,3,pristine,1857,34,0.545,scholar,Scholar Study,1,66.94,66.94
+SALE-01556,CR007,Yeller Bird,bird,0,3,good,1857,34,0.776,senator,Private Collection,3,38.85,116.55
+SALE-00201,CR003,Granite Wren,bird,1,2,damaged,1857,35,0.647,scholar,Scholar Study,1,11.6,11.6
+SALE-00479,CR007,Yeller Bird,bird,0,3,partial,1857,35,0.726,senator,Private Collection,4,8.65,34.6
+SALE-01266,CR008,Wharver,mammal,8,6,damaged,1857,35,0.423,senator,Private Collection,1,164.72,164.72
+SALE-01945,CR010,Grimslew,mammal,7,7,pristine,1857,35,0.72,trader,Miasto Market,1,485.76,485.76
+SALE-00923,CR009,Stakdur,reptile,9,8,fair,1857,36,0.569,unknown,Unknown,1,153.42,153.42
+SALE-01294,CR011,Cave Moth,insect,0,2,fair,1857,36,0.581,scholar,Scholar Study,4,4.46,17.84
+SALE-00056,CR014,Densmuck Crawler,arthropod,4,5,good,1857,37,0.554,senator,Private Collection,2,239.51,479.02
+SALE-01203,CR001,Leatherback Burrower,bird,3,4,good,1857,37,0.766,scholar,Scholar Study,1,23.71,23.71
+SALE-01763,CR014,Densmuck Crawler,arthropod,4,5,pristine,1857,37,0.651,scholar,Scholar Study,2,194.92,389.84
+SALE-00169,CR012,Tunnel Eel,fish,3,4,fair,1857,38,0.572,display,Capital Display,1,41.43,41.43
+SALE-00183,CR003,Granite Wren,bird,1,2,pristine,1857,38,0.559,archivist,Capital Archives,1,33.03,33.03
+SALE-01074,CR007,Yeller Bird,bird,0,3,damaged,1857,38,0.968,unknown,Scholar Study,1,30.82,30.82
+SALE-01201,CR005,Marsh Stalker,reptile,6,5,pristine,1857,38,0.906,collector,Private Collection,1,99.51,99.51
+SALE-01277,CR013,Quarry Toad,amphibian,2,3,good,1857,38,0.819,scholar,Scholar Study,1,27.34,27.34
+SALE-01970,CR003,Granite Wren,bird,1,2,partial,1857,38,0.585,display,Capital Display,1,2.84,2.84
+SALE-00061,CR011,Cave Moth,insect,0,2,damaged,1857,39,0.902,trader,Miasto Market,4,1.86,7.44
+SALE-00112,CR005,Marsh Stalker,reptile,6,5,fair,1857,39,0.862,collector,Capital Archives,1,125.69,125.69
+SALE-00542,CR001,Leatherback Burrower,bird,3,4,good,1857,39,0.706,collector,Senate Zoological,1,17.78,17.78
+SALE-00826,CR007,Yeller Bird,bird,0,3,damaged,1857,39,0.769,scholar,Scholar Study,2,24.23,48.46
+SALE-00924,CR007,Yeller Bird,bird,0,3,damaged,1857,39,0.79,collector,Capital Display,2,28.25,56.5
+SALE-01731,CR011,Cave Moth,insect,0,2,fair,1857,39,0.692,scholar,Scholar Study,1,5.52,5.52
+SALE-00062,CR010,Grimslew,mammal,7,7,good,1857,40,0.372,collector,Capital Display,1,409.95,409.95
+SALE-00170,CR013,Quarry Toad,amphibian,2,3,damaged,1857,40,0.803,scholar,Scholar Study,1,7.7,7.7
+SALE-00790,CR003,Granite Wren,bird,1,2,good,1857,40,0.59,scholar,Scholar Study,3,21.25,63.75
+SALE-00887,CR012,Tunnel Eel,fish,3,4,fair,1857,40,0.803,unknown,Senate Zoological,1,21.18,21.18
+SALE-01031,CR011,Cave Moth,insect,0,2,good,1857,40,0.709,archivist,Capital Archives,3,8.66,25.98
+SALE-01188,CR004,Swamp Hornet,insect,4,1,good,1857,40,0.684,archivist,Capital Archives,3,3.34,10.02
+SALE-01450,CR006,Glass Beetle,insect,2,6,fair,1857,40,0.569,archivist,Capital Archives,1,88.2,88.2
+SALE-01642,CR006,Glass Beetle,insect,2,6,fair,1857,40,0.507,trader,Miasto Market,1,47.98,47.98
+SALE-01969,CR007,Yeller Bird,bird,0,3,good,1857,40,0.872,collector,Unknown,4,62.43,249.72
+SALE-01279,CR008,Wharver,mammal,8,6,damaged,1857,41,0.882,senator,Senate Zoological,1,220.19,220.19
+SALE-01855,CR004,Swamp Hornet,insect,4,1,fair,1857,41,0.696,senator,Private Collection,3,3.22,9.66
+SALE-00037,CR005,Marsh Stalker,reptile,6,5,damaged,1857,42,0.532,senator,Senate Zoological,2,87.04,174.08
+SALE-00851,CR012,Tunnel Eel,fish,3,4,fair,1857,42,0.76,senator,Private Collection,1,52.23,52.23
+SALE-00978,CR008,Wharver,mammal,8,6,fair,1857,42,0.85,collector,Senate Zoological,1,241.37,241.37
+SALE-01044,CR012,Tunnel Eel,fish,3,4,damaged,1857,42,0.989,collector,Private Collection,1,21.24,21.24
+SALE-00779,CR006,Glass Beetle,insect,2,6,pristine,1857,43,0.757,unknown,Miasto Market,1,154.87,154.87
+SALE-00801,CR004,Swamp Hornet,insect,4,1,fair,1857,43,0.546,display,Capital Display,2,3.95,7.9
+SALE-01153,CR003,Granite Wren,bird,1,2,good,1857,43,0.742,archivist,Capital Archives,3,20.25,60.75
+SALE-00026,CR014,Densmuck Crawler,arthropod,4,5,fair,1857,44,0.888,collector,Miasto Market,1,61.15,61.15
+SALE-00717,CR006,Glass Beetle,insect,2,6,partial,1857,44,0.842,trader,Miasto Market,1,28.54,28.54
+SALE-00955,CR013,Quarry Toad,amphibian,2,3,fair,1857,44,0.848,collector,Private Collection,2,24.59,49.18
+SALE-00028,CR004,Swamp Hornet,insect,4,1,partial,1857,45,0.89,unknown,Unknown,1,1.0,1.0
+SALE-00366,CR004,Swamp Hornet,insect,4,1,fair,1857,45,0.785,archivist,Capital Archives,2,3.48,6.96
+SALE-00023,CR002,Stone Spine Lizard,reptile,5,7,fair,1857,46,0.891,collector,Unknown,1,165.68,165.68
+SALE-00848,CR007,Yeller Bird,bird,0,3,partial,1857,46,0.592,senator,Private Collection,2,26.92,53.84
+SALE-01897,CR004,Swamp Hornet,insect,4,1,good,1857,46,0.396,display,Capital Display,1,4.3,4.3
+SALE-00500,CR001,Leatherback Burrower,bird,3,4,fair,1857,47,0.726,archivist,Capital Archives,1,32.96,32.96
+SALE-00650,CR012,Tunnel Eel,fish,3,4,fair,1857,47,0.742,unknown,Capital Archives,1,46.86,46.86
+SALE-00770,CR005,Marsh Stalker,reptile,6,5,good,1857,47,0.737,display,Capital Display,1,156.53,156.53
+SALE-00954,CR004,Swamp Hornet,insect,4,1,good,1857,47,0.651,trader,Miasto Market,3,5.67,17.01
+SALE-00232,CR002,Stone Spine Lizard,reptile,5,7,fair,1857,48,0.83,archivist,Capital Archives,1,165.35,165.35
+SALE-00285,CR005,Marsh Stalker,reptile,6,5,damaged,1857,48,0.638,unknown,Capital Archives,1,67.39,67.39
+SALE-00359,CR002,Stone Spine Lizard,reptile,5,7,fair,1857,48,0.643,trader,Miasto Market,2,112.83,225.66
+SALE-01114,CR001,Leatherback Burrower,bird,3,4,good,1857,48,0.459,collector,Capital Archives,1,27.71,27.71
+SALE-00126,CR008,Wharver,mammal,8,6,good,1857,49,0.686,scholar,Scholar Study,1,175.41,175.41
+SALE-00683,CR011,Cave Moth,insect,0,2,fair,1857,49,0.7,archivist,Capital Archives,1,10.3,10.3
+SALE-00684,CR007,Yeller Bird,bird,0,3,fair,1857,49,0.918,trader,Miasto Market,1,26.18,26.18
+SALE-00869,CR008,Wharver,mammal,8,6,good,1857,50,0.795,collector,Senate Zoological,1,344.74,344.74
+SALE-01259,CR011,Cave Moth,insect,0,2,fair,1857,50,0.799,unknown,Private Collection,4,4.34,17.36
+SALE-01653,CR011,Cave Moth,insect,0,2,damaged,1857,50,0.568,trader,Miasto Market,1,4.53,4.53
+SALE-01075,CR003,Granite Wren,bird,1,2,fair,1857,51,0.952,trader,Miasto Market,4,14.42,57.68
+SALE-01715,CR010,Grimslew,mammal,7,7,fair,1857,51,0.786,collector,Private Collection,1,323.26,323.26
+SALE-01908,CR001,Leatherback Burrower,bird,3,4,good,1857,51,0.839,senator,Senate Zoological,2,37.94,75.88
+SALE-00562,CR001,Leatherback Burrower,bird,3,4,damaged,1857,52,0.838,collector,Capital Display,1,16.6,16.6
+SALE-01193,CR002,Stone Spine Lizard,reptile,5,7,good,1857,52,0.509,unknown,Senate Zoological,1,202.37,202.37
+SALE-00208,CR013,Quarry Toad,amphibian,2,3,fair,1858,1,0.667,unknown,Capital Archives,1,27.18,27.18
+SALE-01105,CR001,Leatherback Burrower,bird,3,4,damaged,1858,1,0.625,collector,Scholar Study,1,25.69,25.69
+SALE-01234,CR013,Quarry Toad,amphibian,2,3,good,1858,1,0.769,scholar,Scholar Study,5,25.04,125.2
+SALE-00043,CR002,Stone Spine Lizard,reptile,5,7,damaged,1858,2,0.872,display,Capital Display,1,137.05,137.05
+SALE-00397,CR005,Marsh Stalker,reptile,6,5,good,1858,2,0.711,archivist,Capital Archives,1,84.12,84.12
+SALE-00716,CR001,Leatherback Burrower,bird,3,4,damaged,1858,2,0.757,display,Capital Display,1,10.44,10.44
+SALE-00832,CR011,Cave Moth,insect,0,2,good,1858,2,0.48,trader,Miasto Market,1,4.84,4.84
+SALE-01341,CR009,Stakdur,reptile,9,8,fair,1858,2,0.641,display,Capital Display,1,636.48,636.48
+SALE-01984,CR006,Glass Beetle,insect,2,6,fair,1858,2,0.743,trader,Miasto Market,2,87.74,175.48
+SALE-00584,CR011,Cave Moth,insect,0,2,good,1858,3,0.77,archivist,Capital Archives,1,9.3,9.3
+SALE-00687,CR006,Glass Beetle,insect,2,6,good,1858,3,0.694,collector,Senate Zoological,1,223.19,223.19
+SALE-01237,CR001,Leatherback Burrower,bird,3,4,fair,1858,3,0.816,trader,Miasto Market,1,31.08,31.08
+SALE-01378,CR014,Densmuck Crawler,arthropod,4,5,fair,1858,3,0.847,display,Capital Display,1,72.74,72.74
+SALE-01666,CR003,Granite Wren,bird,1,2,fair,1858,3,0.716,display,Capital Display,3,23.26,69.78
+SALE-00970,CR013,Quarry Toad,amphibian,2,3,fair,1858,4,0.635,senator,Private Collection,2,12.66,25.32
+SALE-01487,CR004,Swamp Hornet,insect,4,1,good,1858,4,0.749,archivist,Capital Archives,4,7.76,31.04
+SALE-01977,CR004,Swamp Hornet,insect,4,1,fair,1858,4,0.6,archivist,Capital Archives,2,3.94,7.88
+SALE-01761,CR002,Stone Spine Lizard,reptile,5,7,damaged,1858,5,0.771,scholar,Scholar Study,1,76.78,76.78
+SALE-00491,CR007,Yeller Bird,bird,0,3,damaged,1858,6,0.674,senator,Senate Zoological,1,18.46,18.46
+SALE-00989,CR003,Granite Wren,bird,1,2,fair,1858,6,0.965,display,Capital Display,4,8.55,34.2
+SALE-01457,CR003,Granite Wren,bird,1,2,fair,1858,6,0.595,display,Capital Display,5,22.78,113.9
+SALE-01510,CR005,Marsh Stalker,reptile,6,5,damaged,1858,6,0.882,display,Capital Display,2,118.9,237.8
+SALE-00217,CR012,Tunnel Eel,fish,3,4,fair,1858,7,0.902,trader,Miasto Market,1,55.83,55.83
+SALE-01274,CR012,Tunnel Eel,fish,3,4,good,1858,7,0.611,display,Capital Display,1,58.55,58.55
+SALE-01714,CR013,Quarry Toad,amphibian,2,3,fair,1858,7,0.798,scholar,Scholar Study,2,20.11,40.22
+SALE-00828,CR012,Tunnel Eel,fish,3,4,good,1858,8,0.747,trader,Miasto Market,1,48.42,48.42
+SALE-00849,CR013,Quarry Toad,amphibian,2,3,good,1858,8,0.82,unknown,Unknown,2,24.33,48.66
+SALE-01799,CR013,Quarry Toad,amphibian,2,3,fair,1858,8,0.891,unknown,Scholar Study,1,39.87,39.87
+SALE-01894,CR002,Stone Spine Lizard,reptile,5,7,partial,1858,8,0.85,archivist,Capital Archives,1,32.04,32.04
+SALE-00149,CR005,Marsh Stalker,reptile,6,5,good,1858,9,0.798,archivist,Capital Archives,1,217.28,217.28
+SALE-00189,CR012,Tunnel Eel,fish,3,4,good,1858,9,0.71,archivist,Capital Archives,1,20.68,20.68
+SALE-00825,CR007,Yeller Bird,bird,0,3,fair,1858,9,0.944,display,Capital Display,2,16.28,32.56
+SALE-00282,CR008,Wharver,mammal,8,6,damaged,1858,10,0.658,unknown,Private Collection,1,61.85,61.85
+SALE-00320,CR013,Quarry Toad,amphibian,2,3,pristine,1858,10,0.81,senator,Private Collection,1,48.69,48.69
+SALE-00696,CR013,Quarry Toad,amphibian,2,3,fair,1858,10,0.974,trader,Miasto Market,5,24.44,122.2
+SALE-00120,CR013,Quarry Toad,amphibian,2,3,fair,1858,11,0.667,collector,Private Collection,2,35.38,70.76
+SALE-00360,CR013,Quarry Toad,amphibian,2,3,good,1858,11,0.889,senator,Private Collection,1,43.07,43.07
+SALE-00766,CR015,Golden Amalgam Snail,mollusk,0,9,good,1858,11,0.818,collector,Miasto Market,1,870.99,870.99
+SALE-01903,CR007,Yeller Bird,bird,0,3,fair,1858,11,0.956,senator,Private Collection,3,46.92,140.76
+SALE-00229,CR004,Swamp Hornet,insect,4,1,fair,1858,12,0.78,display,Capital Display,3,3.93,11.79
+SALE-01129,CR014,Densmuck Crawler,arthropod,4,5,damaged,1858,12,0.884,unknown,Senate Zoological,2,41.11,82.22
+SALE-01194,CR004,Swamp Hornet,insect,4,1,good,1858,12,0.977,scholar,Scholar Study,4,4.57,18.28
+SALE-00139,CR005,Marsh Stalker,reptile,6,5,pristine,1858,13,0.771,senator,Private Collection,1,157.45,157.45
+SALE-00258,CR004,Swamp Hornet,insect,4,1,fair,1858,13,0.695,trader,Miasto Market,3,2.52,7.56
+SALE-00399,CR004,Swamp Hornet,insect,4,1,fair,1858,13,0.872,trader,Miasto Market,3,2.36,7.08
+SALE-00545,CR001,Leatherback Burrower,bird,3,4,good,1858,13,0.792,senator,Private Collection,1,17.47,17.47
+SALE-00560,CR011,Cave Moth,insect,0,2,damaged,1858,13,0.9,senator,Senate Zoological,1,4.76,4.76
+SALE-00781,CR005,Marsh Stalker,reptile,6,5,fair,1858,13,0.78,display,Capital Display,1,111.08,111.08
+SALE-01257,CR002,Stone Spine Lizard,reptile,5,7,good,1858,13,0.669,trader,Miasto Market,1,171.03,171.03
+SALE-01490,CR004,Swamp Hornet,insect,4,1,fair,1858,13,0.84,unknown,Scholar Study,2,2.24,4.48
+SALE-01549,CR001,Leatherback Burrower,bird,3,4,good,1858,13,0.607,collector,Capital Archives,1,44.17,44.17
+SALE-01577,CR013,Quarry Toad,amphibian,2,3,fair,1858,13,0.665,trader,Miasto Market,2,21.94,43.88
+SALE-01801,CR009,Stakdur,reptile,9,8,fair,1858,13,0.961,collector,Unknown,1,428.8,428.8
+SALE-00281,CR001,Leatherback Burrower,bird,3,4,fair,1858,14,0.383,senator,Senate Zoological,1,41.77,41.77
+SALE-00847,CR007,Yeller Bird,bird,0,3,partial,1858,14,0.273,collector,Capital Display,3,5.84,17.52
+SALE-01060,CR008,Wharver,mammal,8,6,partial,1858,14,0.846,display,Capital Display,1,17.6,17.6
+SALE-01608,CR006,Glass Beetle,insect,2,6,damaged,1858,14,0.655,trader,Miasto Market,1,42.49,42.49
+SALE-00930,CR008,Wharver,mammal,8,6,good,1858,15,0.708,trader,Miasto Market,1,327.36,327.36
+SALE-01037,CR003,Granite Wren,bird,1,2,damaged,1858,15,0.69,senator,Private Collection,1,8.83,8.83
+SALE-01042,CR007,Yeller Bird,bird,0,3,good,1858,15,0.754,senator,Senate Zoological,2,35.29,70.58
+SALE-01050,CR013,Quarry Toad,amphibian,2,3,partial,1858,15,0.491,archivist,Capital Archives,3,5.93,17.79
+SALE-00184,CR004,Swamp Hornet,insect,4,1,damaged,1858,16,0.568,collector,Private Collection,2,3.13,6.26
+SALE-00759,CR006,Glass Beetle,insect,2,6,fair,1858,16,0.803,unknown,Unknown,1,137.6,137.6
+SALE-00864,CR007,Yeller Bird,bird,0,3,good,1858,16,0.808,collector,Capital Archives,2,42.3,84.6
+SALE-01684,CR002,Stone Spine Lizard,reptile,5,7,fair,1858,16,0.853,archivist,Capital Archives,1,302.47,302.47
+SALE-01691,CR004,Swamp Hornet,insect,4,1,fair,1858,16,0.688,scholar,Scholar Study,3,3.08,9.24
+SALE-01788,CR013,Quarry Toad,amphibian,2,3,fair,1858,16,0.42,senator,Senate Zoological,1,28.46,28.46
+SALE-01133,CR003,Granite Wren,bird,1,2,damaged,1858,17,0.575,senator,Private Collection,1,10.48,10.48
+SALE-01151,CR013,Quarry Toad,amphibian,2,3,fair,1858,17,0.893,archivist,Capital Archives,1,16.28,16.28
+SALE-01435,CR007,Yeller Bird,bird,0,3,fair,1858,17,0.732,scholar,Scholar Study,1,43.99,43.99
+SALE-01546,CR006,Glass Beetle,insect,2,6,pristine,1858,18,0.803,trader,Miasto Market,1,47.85,47.85
+SALE-01839,CR011,Cave Moth,insect,0,2,fair,1858,18,0.488,display,Capital Display,2,5.77,11.54
+SALE-00465,CR013,Quarry Toad,amphibian,2,3,damaged,1858,19,0.955,scholar,Scholar Study,3,7.89,23.67
+SALE-00555,CR012,Tunnel Eel,fish,3,4,good,1858,19,0.897,scholar,Scholar Study,2,36.71,73.42
+SALE-01125,CR006,Glass Beetle,insect,2,6,fair,1858,19,0.948,senator,Private Collection,1,61.19,61.19
+SALE-00245,CR011,Cave Moth,insect,0,2,fair,1858,20,0.533,senator,Private Collection,4,6.06,24.24
+SALE-00795,CR007,Yeller Bird,bird,0,3,pristine,1858,20,0.866,trader,Miasto Market,1,37.66,37.66
+SALE-00819,CR004,Swamp Hornet,insect,4,1,good,1858,20,0.634,archivist,Capital Archives,1,4.19,4.19
+SALE-01184,CR007,Yeller Bird,bird,0,3,good,1858,20,0.401,display,Capital Display,2,44.84,89.68
+SALE-00121,CR004,Swamp Hornet,insect,4,1,fair,1858,21,0.802,unknown,Unknown,1,3.68,3.68
+SALE-01117,CR009,Stakdur,reptile,9,8,good,1858,21,0.289,scholar,Scholar Study,1,568.39,568.39
+SALE-01768,CR008,Wharver,mammal,8,6,damaged,1858,21,0.444,senator,Senate Zoological,1,79.84,79.84
+SALE-00035,CR004,Swamp Hornet,insect,4,1,pristine,1858,22,0.805,scholar,Scholar Study,2,7.61,15.22
+SALE-01021,CR013,Quarry Toad,amphibian,2,3,fair,1858,22,0.38,collector,Capital Display,3,35.18,105.54
+SALE-01254,CR004,Swamp Hornet,insect,4,1,pristine,1858,22,0.888,senator,Private Collection,3,4.31,12.93
+SALE-01318,CR004,Swamp Hornet,insect,4,1,damaged,1858,22,0.913,trader,Miasto Market,5,2.97,14.85
+SALE-01309,CR011,Cave Moth,insect,0,2,fair,1858,23,0.88,archivist,Capital Archives,2,12.09,24.18
+SALE-01906,CR012,Tunnel Eel,fish,3,4,partial,1858,23,0.863,trader,Miasto Market,1,10.9,10.9
+SALE-00676,CR003,Granite Wren,bird,1,2,good,1858,24,0.833,collector,Miasto Market,2,15.01,30.02
+SALE-01384,CR014,Densmuck Crawler,arthropod,4,5,fair,1858,24,0.899,display,Capital Display,1,28.35,28.35
+SALE-00211,CR003,Granite Wren,bird,1,2,damaged,1858,25,0.798,unknown,Scholar Study,2,11.2,22.4
+SALE-01834,CR007,Yeller Bird,bird,0,3,partial,1858,25,0.757,archivist,Capital Archives,1,9.34,9.34
+SALE-00127,CR003,Granite Wren,bird,1,2,fair,1858,26,0.895,senator,Senate Zoological,3,29.96,89.88
+SALE-01447,CR014,Densmuck Crawler,arthropod,4,5,good,1858,26,0.661,senator,Senate Zoological,1,83.13,83.13
+SALE-00254,CR001,Leatherback Burrower,bird,3,4,fair,1858,27,0.807,archivist,Capital Archives,1,11.69,11.69
+SALE-00235,CR006,Glass Beetle,insect,2,6,damaged,1858,29,0.667,display,Capital Display,1,67.38,67.38
+SALE-01620,CR012,Tunnel Eel,fish,3,4,good,1858,29,0.848,trader,Miasto Market,1,32.72,32.72
+SALE-00370,CR004,Swamp Hornet,insect,4,1,good,1858,30,0.732,trader,Miasto Market,2,4.22,8.44
+SALE-00693,CR004,Swamp Hornet,insect,4,1,good,1858,30,0.939,display,Capital Display,1,4.03,4.03
+SALE-00796,CR014,Densmuck Crawler,arthropod,4,5,fair,1858,30,0.803,archivist,Capital Archives,2,40.47,80.94
+SALE-01682,CR005,Marsh Stalker,reptile,6,5,fair,1858,30,0.668,display,Capital Display,1,116.65,116.65
+SALE-01888,CR007,Yeller Bird,bird,0,3,fair,1858,30,0.534,scholar,Scholar Study,1,19.77,19.77
+SALE-00364,CR003,Granite Wren,bird,1,2,fair,1858,31,0.621,trader,Miasto Market,2,9.81,19.62
+SALE-01029,CR014,Densmuck Crawler,arthropod,4,5,damaged,1858,31,0.893,senator,Senate Zoological,1,31.97,31.97
+SALE-00417,CR003,Granite Wren,bird,1,2,fair,1858,32,0.64,display,Capital Display,1,20.72,20.72
+SALE-00929,CR005,Marsh Stalker,reptile,6,5,fair,1858,32,0.602,archivist,Capital Archives,1,53.94,53.94
+SALE-00016,CR006,Glass Beetle,insect,2,6,fair,1858,33,0.714,archivist,Capital Archives,1,51.95,51.95
+SALE-00103,CR014,Densmuck Crawler,arthropod,4,5,partial,1858,33,0.856,display,Capital Display,1,21.82,21.82
+SALE-00561,CR007,Yeller Bird,bird,0,3,pristine,1858,33,0.857,unknown,Capital Archives,1,44.67,44.67
+SALE-01023,CR014,Densmuck Crawler,arthropod,4,5,damaged,1858,33,0.815,scholar,Scholar Study,1,53.39,53.39
+SALE-01041,CR003,Granite Wren,bird,1,2,partial,1858,33,0.497,display,Capital Display,1,5.68,5.68
+SALE-01741,CR003,Granite Wren,bird,1,2,good,1858,33,0.7,unknown,Capital Archives,3,15.02,45.06
+SALE-01864,CR014,Densmuck Crawler,arthropod,4,5,good,1858,33,0.812,senator,Senate Zoological,1,135.12,135.12
+SALE-00303,CR003,Granite Wren,bird,1,2,pristine,1858,34,0.917,collector,Senate Zoological,1,38.65,38.65
+SALE-00422,CR011,Cave Moth,insect,0,2,fair,1858,34,0.918,archivist,Capital Archives,1,5.68,5.68
+SALE-01508,CR007,Yeller Bird,bird,0,3,good,1858,34,0.466,scholar,Scholar Study,2,53.76,107.52
+SALE-00634,CR006,Glass Beetle,insect,2,6,pristine,1858,35,0.688,senator,Private Collection,1,215.2,215.2
+SALE-01667,CR008,Wharver,mammal,8,6,good,1858,35,0.351,collector,Unknown,1,406.16,406.16
+SALE-01783,CR002,Stone Spine Lizard,reptile,5,7,good,1858,35,0.654,collector,Senate Zoological,1,262.72,262.72
+SALE-01789,CR007,Yeller Bird,bird,0,3,good,1858,35,0.715,collector,Miasto Market,1,27.25,27.25
+SALE-00019,CR011,Cave Moth,insect,0,2,good,1858,36,0.861,trader,Miasto Market,1,17.21,17.21
+SALE-00172,CR004,Swamp Hornet,insect,4,1,good,1858,36,0.82,archivist,Capital Archives,2,5.25,10.5
+SALE-00271,CR012,Tunnel Eel,fish,3,4,fair,1858,36,0.397,trader,Miasto Market,1,26.93,26.93
+SALE-00669,CR011,Cave Moth,insect,0,2,fair,1858,36,0.716,unknown,Capital Archives,4,5.28,21.12
+SALE-00705,CR004,Swamp Hornet,insect,4,1,damaged,1858,36,0.846,unknown,Private Collection,1,1.29,1.29
+SALE-01365,CR011,Cave Moth,insect,0,2,fair,1858,36,0.7,scholar,Scholar Study,1,8.66,8.66
+SALE-01656,CR007,Yeller Bird,bird,0,3,fair,1858,36,0.686,unknown,Private Collection,2,20.18,40.36
+SALE-01998,CR007,Yeller Bird,bird,0,3,fair,1858,36,0.816,display,Capital Display,3,29.92,89.76
+SALE-00053,CR003,Granite Wren,bird,1,2,fair,1858,37,0.845,archivist,Capital Archives,2,26.16,52.32
+SALE-00060,CR003,Granite Wren,bird,1,2,good,1858,37,0.791,trader,Miasto Market,1,34.04,34.04
+SALE-01735,CR001,Leatherback Burrower,bird,3,4,damaged,1858,37,0.442,scholar,Scholar Study,2,8.94,17.88
+SALE-00102,CR004,Swamp Hornet,insect,4,1,good,1858,38,0.819,collector,Scholar Study,1,6.72,6.72
+SALE-00468,CR001,Leatherback Burrower,bird,3,4,fair,1858,38,0.679,archivist,Capital Archives,1,30.83,30.83
+SALE-00812,CR010,Grimslew,mammal,7,7,damaged,1858,38,0.684,archivist,Capital Archives,1,105.94,105.94
+SALE-01077,CR001,Leatherback Burrower,bird,3,4,damaged,1858,38,0.417,scholar,Scholar Study,1,8.99,8.99
+SALE-00309,CR014,Densmuck Crawler,arthropod,4,5,fair,1858,39,0.531,unknown,Senate Zoological,1,28.05,28.05
+SALE-00326,CR002,Stone Spine Lizard,reptile,5,7,fair,1858,39,0.746,scholar,Scholar Study,1,184.55,184.55
+SALE-00518,CR012,Tunnel Eel,fish,3,4,fair,1858,39,0.675,senator,Private Collection,1,34.57,34.57
+SALE-00615,CR003,Granite Wren,bird,1,2,fair,1858,39,0.896,collector,Capital Archives,1,12.69,12.69
+SALE-01123,CR011,Cave Moth,insect,0,2,good,1858,39,0.954,senator,Senate Zoological,3,12.4,37.2
+SALE-00076,CR011,Cave Moth,insect,0,2,fair,1858,40,0.902,archivist,Capital Archives,1,6.04,6.04
+SALE-00269,CR014,Densmuck Crawler,arthropod,4,5,pristine,1858,40,0.679,archivist,Capital Archives,1,63.18,63.18
+SALE-01460,CR013,Quarry Toad,amphibian,2,3,partial,1858,40,0.78,archivist,Capital Archives,1,7.47,7.47
+SALE-01817,CR002,Stone Spine Lizard,reptile,5,7,damaged,1858,40,0.897,unknown,Capital Display,1,116.09,116.09
+SALE-01882,CR007,Yeller Bird,bird,0,3,good,1858,40,0.779,trader,Miasto Market,2,42.71,85.42
+SALE-00167,CR001,Leatherback Burrower,bird,3,4,damaged,1858,41,0.838,unknown,Senate Zoological,1,12.85,12.85
+SALE-01912,CR003,Granite Wren,bird,1,2,fair,1858,41,0.301,collector,Unknown,2,19.6,39.2
+SALE-01964,CR006,Glass Beetle,insect,2,6,fair,1858,41,0.938,archivist,Capital Archives,1,141.13,141.13
+SALE-00645,CR004,Swamp Hornet,insect,4,1,damaged,1858,42,0.734,trader,Miasto Market,3,1.63,4.89
+SALE-00917,CR014,Densmuck Crawler,arthropod,4,5,partial,1858,42,0.677,collector,Miasto Market,1,22.44,22.44
+SALE-01414,CR008,Wharver,mammal,8,6,pristine,1858,42,0.83,scholar,Scholar Study,2,485.29,970.58
+SALE-01423,CR011,Cave Moth,insect,0,2,damaged,1858,42,0.465,archivist,Capital Archives,1,3.34,3.34
+SALE-01520,CR008,Wharver,mammal,8,6,good,1858,42,0.374,scholar,Scholar Study,1,381.09,381.09
+SALE-01661,CR008,Wharver,mammal,8,6,damaged,1858,42,0.711,trader,Miasto Market,1,152.65,152.65
+SALE-00114,CR011,Cave Moth,insect,0,2,fair,1858,43,0.777,trader,Miasto Market,2,8.36,16.72
+SALE-01757,CR006,Glass Beetle,insect,2,6,good,1858,43,0.724,trader,Miasto Market,1,67.86,67.86
+SALE-00678,CR002,Stone Spine Lizard,reptile,5,7,fair,1858,44,0.569,collector,Capital Display,1,212.17,212.17
+SALE-00885,CR010,Grimslew,mammal,7,7,partial,1858,44,0.699,trader,Miasto Market,1,43.67,43.67
+SALE-01231,CR003,Granite Wren,bird,1,2,pristine,1858,44,0.738,display,Capital Display,1,31.84,31.84
+SALE-01557,CR013,Quarry Toad,amphibian,2,3,good,1858,44,0.953,senator,Senate Zoological,2,49.92,99.84
+SALE-00252,CR006,Glass Beetle,insect,2,6,pristine,1858,45,0.634,scholar,Scholar Study,1,202.54,202.54
+SALE-00402,CR005,Marsh Stalker,reptile,6,5,good,1858,45,0.98,scholar,Scholar Study,1,67.2,67.2
+SALE-00592,CR001,Leatherback Burrower,bird,3,4,pristine,1858,45,0.644,trader,Miasto Market,1,58.76,58.76
+SALE-00937,CR007,Yeller Bird,bird,0,3,damaged,1858,45,0.794,archivist,Capital Archives,3,9.54,28.62
+SALE-01000,CR012,Tunnel Eel,fish,3,4,partial,1858,45,0.902,trader,Miasto Market,1,6.24,6.24
+SALE-01160,CR007,Yeller Bird,bird,0,3,partial,1858,45,0.409,trader,Miasto Market,1,2.55,2.55
+SALE-01171,CR004,Swamp Hornet,insect,4,1,fair,1858,45,0.915,collector,Scholar Study,2,5.34,10.68
+SALE-01479,CR004,Swamp Hornet,insect,4,1,good,1858,45,0.717,collector,Capital Display,3,6.53,19.59
+SALE-01787,CR002,Stone Spine Lizard,reptile,5,7,pristine,1858,45,0.752,scholar,Scholar Study,2,534.08,1068.16
+SALE-00976,CR007,Yeller Bird,bird,0,3,damaged,1858,46,0.508,archivist,Capital Archives,1,20.77,20.77
+SALE-01265,CR013,Quarry Toad,amphibian,2,3,good,1858,46,0.552,display,Capital Display,2,22.67,45.34
+SALE-01438,CR002,Stone Spine Lizard,reptile,5,7,partial,1858,46,0.69,unknown,Senate Zoological,1,46.34,46.34
+SALE-00226,CR001,Leatherback Burrower,bird,3,4,fair,1858,47,0.618,senator,Senate Zoological,1,44.84,44.84
+SALE-00845,CR008,Wharver,mammal,8,6,partial,1858,47,0.782,archivist,Capital Archives,1,47.17,47.17
+SALE-00156,CR012,Tunnel Eel,fish,3,4,fair,1858,48,0.544,collector,Senate Zoological,1,37.68,37.68
+SALE-00504,CR003,Granite Wren,bird,1,2,pristine,1858,48,0.792,collector,Private Collection,1,43.25,43.25
+SALE-00726,CR008,Wharver,mammal,8,6,pristine,1858,48,0.601,archivist,Capital Archives,1,877.78,877.78
+SALE-01494,CR013,Quarry Toad,amphibian,2,3,damaged,1858,48,0.435,trader,Miasto Market,1,10.94,10.94
+SALE-01697,CR004,Swamp Hornet,insect,4,1,damaged,1858,48,0.92,collector,Capital Archives,2,1.53,3.06
+SALE-00089,CR014,Densmuck Crawler,arthropod,4,5,damaged,1858,49,0.749,trader,Miasto Market,1,21.56,21.56
+SALE-00249,CR005,Marsh Stalker,reptile,6,5,fair,1858,49,0.434,display,Capital Display,1,87.79,87.79
+SALE-00300,CR004,Swamp Hornet,insect,4,1,good,1858,49,0.682,archivist,Capital Archives,1,7.62,7.62
+SALE-00466,CR004,Swamp Hornet,insect,4,1,pristine,1858,49,0.904,archivist,Capital Archives,2,4.3,8.6
+SALE-00511,CR001,Leatherback Burrower,bird,3,4,damaged,1858,49,0.529,collector,Private Collection,1,7.98,7.98
+SALE-00588,CR014,Densmuck Crawler,arthropod,4,5,partial,1858,49,0.772,archivist,Capital Archives,1,22.27,22.27
+SALE-01657,CR001,Leatherback Burrower,bird,3,4,fair,1858,49,0.779,archivist,Capital Archives,1,43.42,43.42
+SALE-00106,CR014,Densmuck Crawler,arthropod,4,5,partial,1858,50,0.709,scholar,Scholar Study,2,15.43,30.86
+SALE-00654,CR002,Stone Spine Lizard,reptile,5,7,fair,1858,50,0.896,display,Capital Display,2,217.14,434.28
+SALE-00839,CR015,Golden Amalgam Snail,mollusk,0,9,damaged,1858,50,0.898,unknown,Scholar Study,1,298.84,298.84
+SALE-01104,CR004,Swamp Hornet,insect,4,1,partial,1858,51,0.441,senator,Senate Zoological,1,1.0,1.0
+SALE-01467,CR004,Swamp Hornet,insect,4,1,fair,1858,51,0.825,collector,Unknown,3,5.4,16.2
+SALE-01507,CR011,Cave Moth,insect,0,2,good,1858,51,0.766,archivist,Capital Archives,2,12.73,25.46
+SALE-01631,CR007,Yeller Bird,bird,0,3,good,1858,51,0.81,scholar,Scholar Study,1,75.07,75.07
+SALE-01673,CR007,Yeller Bird,bird,0,3,damaged,1858,51,0.894,unknown,Scholar Study,1,20.34,20.34
+SALE-00017,CR007,Yeller Bird,bird,0,3,good,1858,52,0.793,collector,Private Collection,3,49.61,148.83
+SALE-00564,CR012,Tunnel Eel,fish,3,4,pristine,1858,52,0.765,senator,Private Collection,1,101.04,101.04
+SALE-00709,CR003,Granite Wren,bird,1,2,damaged,1858,52,0.794,archivist,Capital Archives,1,20.23,20.23
+SALE-01306,CR011,Cave Moth,insect,0,2,good,1858,52,0.527,senator,Senate Zoological,5,14.2,71.0
+SALE-01662,CR012,Tunnel Eel,fish,3,4,fair,1858,52,0.965,trader,Miasto Market,1,24.88,24.88
+SALE-00265,CR003,Granite Wren,bird,1,2,good,1859,1,0.631,trader,Miasto Market,2,18.67,37.34
+SALE-00585,CR012,Tunnel Eel,fish,3,4,damaged,1859,1,0.744,archivist,Capital Archives,1,40.25,40.25
+SALE-01059,CR005,Marsh Stalker,reptile,6,5,partial,1859,1,0.644,unknown,Miasto Market,1,15.07,15.07
+SALE-01182,CR004,Swamp Hornet,insect,4,1,fair,1859,1,0.707,collector,Unknown,5,3.27,16.35
+SALE-01400,CR012,Tunnel Eel,fish,3,4,good,1859,1,0.882,collector,Scholar Study,1,35.18,35.18
+SALE-00004,CR011,Cave Moth,insect,0,2,fair,1859,2,0.685,unknown,Private Collection,2,5.79,11.58
+SALE-00122,CR007,Yeller Bird,bird,0,3,fair,1859,2,0.863,senator,Private Collection,1,69.98,69.98
+SALE-00274,CR003,Granite Wren,bird,1,2,fair,1859,2,0.645,unknown,Senate Zoological,2,19.03,38.06
+SALE-00383,CR001,Leatherback Burrower,bird,3,4,partial,1859,2,0.684,collector,Scholar Study,1,7.72,7.72
+SALE-00629,CR010,Grimslew,mammal,7,7,good,1859,2,0.741,scholar,Scholar Study,2,498.2,996.4
+SALE-01393,CR004,Swamp Hornet,insect,4,1,fair,1859,2,0.865,display,Capital Display,1,4.57,4.57
+SALE-01547,CR014,Densmuck Crawler,arthropod,4,5,pristine,1859,2,0.7,unknown,Unknown,1,95.44,95.44
+SALE-01931,CR013,Quarry Toad,amphibian,2,3,good,1859,2,0.938,display,Capital Display,2,13.89,27.78
+SALE-00107,CR001,Leatherback Burrower,bird,3,4,good,1859,3,0.503,collector,Capital Display,1,74.39,74.39
+SALE-00278,CR015,Golden Amalgam Snail,mollusk,0,9,good,1859,3,0.762,unknown,Miasto Market,1,528.16,528.16
+SALE-01057,CR013,Quarry Toad,amphibian,2,3,partial,1859,3,0.65,scholar,Scholar Study,1,5.38,5.38
+SALE-01166,CR007,Yeller Bird,bird,0,3,partial,1859,3,0.77,unknown,Miasto Market,1,6.86,6.86
+SALE-01672,CR003,Granite Wren,bird,1,2,good,1859,3,0.901,collector,Private Collection,4,22.55,90.2
+SALE-00005,CR003,Granite Wren,bird,1,2,partial,1859,4,0.773,senator,Private Collection,1,3.94,3.94
+SALE-01247,CR011,Cave Moth,insect,0,2,damaged,1859,4,0.864,unknown,Private Collection,2,7.55,15.1
+SALE-01417,CR003,Granite Wren,bird,1,2,damaged,1859,4,0.87,collector,Senate Zoological,1,15.7,15.7
+SALE-01708,CR012,Tunnel Eel,fish,3,4,pristine,1859,4,0.682,trader,Miasto Market,1,52.53,52.53
+SALE-00710,CR004,Swamp Hornet,insect,4,1,damaged,1859,5,0.874,scholar,Scholar Study,2,2.06,4.12
+SALE-01010,CR004,Swamp Hornet,insect,4,1,fair,1859,5,0.83,collector,Senate Zoological,2,7.22,14.44
+SALE-01374,CR007,Yeller Bird,bird,0,3,good,1859,5,0.9,trader,Miasto Market,1,32.85,32.85
+SALE-00476,CR012,Tunnel Eel,fish,3,4,fair,1859,6,0.441,senator,Senate Zoological,1,50.88,50.88
+SALE-00484,CR004,Swamp Hornet,insect,4,1,damaged,1859,6,0.642,archivist,Capital Archives,5,1.47,7.35
+SALE-00659,CR004,Swamp Hornet,insect,4,1,partial,1859,6,0.943,unknown,Unknown,4,1.0,4.0
+SALE-01355,CR012,Tunnel Eel,fish,3,4,fair,1859,6,0.848,archivist,Capital Archives,1,43.76,43.76
+SALE-01966,CR001,Leatherback Burrower,bird,3,4,fair,1859,6,0.836,collector,Capital Archives,2,41.51,83.02
+SALE-00524,CR006,Glass Beetle,insect,2,6,good,1859,7,0.825,scholar,Scholar Study,1,125.73,125.73
+SALE-01539,CR014,Densmuck Crawler,arthropod,4,5,good,1859,7,0.533,display,Capital Display,1,42.36,42.36
+SALE-01928,CR009,Stakdur,reptile,9,8,fair,1859,7,0.673,archivist,Capital Archives,1,403.9,403.9
+SALE-00111,CR006,Glass Beetle,insect,2,6,fair,1859,8,0.991,senator,Private Collection,1,120.29,120.29
+SALE-00477,CR003,Granite Wren,bird,1,2,fair,1859,9,0.835,trader,Miasto Market,1,22.72,22.72
+SALE-01180,CR012,Tunnel Eel,fish,3,4,good,1859,9,0.957,trader,Miasto Market,2,39.85,79.7
+SALE-01981,CR004,Swamp Hornet,insect,4,1,damaged,1859,9,0.777,collector,Scholar Study,3,2.4,7.2
+SALE-00045,CR005,Marsh Stalker,reptile,6,5,good,1859,10,0.482,archivist,Capital Archives,1,93.44,93.44
+SALE-00870,CR011,Cave Moth,insect,0,2,fair,1859,10,0.477,scholar,Scholar Study,1,6.09,6.09
+SALE-00964,CR001,Leatherback Burrower,bird,3,4,partial,1859,11,0.841,trader,Miasto Market,1,5.58,5.58
+SALE-01392,CR011,Cave Moth,insect,0,2,damaged,1859,11,0.973,display,Capital Display,2,6.06,12.12
+SALE-01692,CR014,Densmuck Crawler,arthropod,4,5,partial,1859,11,0.576,scholar,Scholar Study,2,3.5,7.0
+SALE-01695,CR001,Leatherback Burrower,bird,3,4,partial,1859,11,0.525,unknown,Private Collection,1,10.74,10.74
+SALE-01350,CR013,Quarry Toad,amphibian,2,3,damaged,1859,12,0.6,trader,Miasto Market,2,9.94,19.88
+SALE-00273,CR011,Cave Moth,insect,0,2,fair,1859,13,0.913,display,Capital Display,3,11.51,34.53
+SALE-00894,CR014,Densmuck Crawler,arthropod,4,5,damaged,1859,13,0.929,unknown,Private Collection,1,41.83,41.83
+SALE-01719,CR004,Swamp Hornet,insect,4,1,fair,1859,13,0.703,unknown,Scholar Study,5,1.48,7.4
+SALE-00009,CR007,Yeller Bird,bird,0,3,fair,1859,14,0.788,unknown,Senate Zoological,4,14.17,56.68
+SALE-00752,CR004,Swamp Hornet,insect,4,1,fair,1859,14,0.626,unknown,Unknown,5,2.29,11.45
+SALE-00858,CR007,Yeller Bird,bird,0,3,good,1859,14,0.774,scholar,Scholar Study,2,102.49,204.98
+SALE-01227,CR008,Wharver,mammal,8,6,damaged,1859,14,0.899,unknown,Unknown,2,166.15,332.3
+SALE-01982,CR008,Wharver,mammal,8,6,partial,1859,14,0.769,unknown,Capital Archives,2,30.37,60.74
+SALE-01028,CR008,Wharver,mammal,8,6,good,1859,15,0.701,archivist,Capital Archives,1,117.28,117.28
+SALE-01202,CR004,Swamp Hornet,insect,4,1,partial,1859,15,0.533,unknown,Senate Zoological,2,1.01,2.02
+SALE-01372,CR004,Swamp Hornet,insect,4,1,pristine,1859,15,0.939,unknown,Private Collection,1,3.61,3.61
+SALE-01830,CR011,Cave Moth,insect,0,2,partial,1859,15,0.805,display,Capital Display,1,1.48,1.48
+SALE-01885,CR004,Swamp Hornet,insect,4,1,pristine,1859,15,0.643,archivist,Capital Archives,1,1.79,1.79
+SALE-00155,CR012,Tunnel Eel,fish,3,4,damaged,1859,16,0.872,display,Capital Display,1,16.31,16.31
+SALE-01651,CR011,Cave Moth,insect,0,2,damaged,1859,16,0.853,unknown,Private Collection,5,5.69,28.45
+SALE-01939,CR014,Densmuck Crawler,arthropod,4,5,pristine,1859,16,0.808,display,Capital Display,1,108.01,108.01
+SALE-00423,CR006,Glass Beetle,insect,2,6,pristine,1859,17,0.385,display,Capital Display,1,43.89,43.89
+SALE-00850,CR004,Swamp Hornet,insect,4,1,fair,1859,17,0.695,scholar,Scholar Study,1,2.61,2.61
+SALE-01515,CR007,Yeller Bird,bird,0,3,good,1859,17,0.438,collector,Capital Display,3,28.62,85.86
+SALE-01747,CR007,Yeller Bird,bird,0,3,fair,1859,17,0.469,unknown,Private Collection,5,34.41,172.05
+SALE-01847,CR012,Tunnel Eel,fish,3,4,good,1859,17,0.553,trader,Miasto Market,1,43.25,43.25
+SALE-01310,CR009,Stakdur,reptile,9,8,good,1859,18,0.709,trader,Miasto Market,2,749.0,1498.0
+SALE-01952,CR010,Grimslew,mammal,7,7,fair,1859,18,0.922,trader,Miasto Market,1,506.6,506.6
+SALE-00030,CR007,Yeller Bird,bird,0,3,damaged,1859,19,0.609,trader,Miasto Market,4,22.43,89.72
+SALE-00643,CR004,Swamp Hornet,insect,4,1,partial,1859,19,0.403,unknown,Senate Zoological,1,1.0,1.0
+SALE-01478,CR012,Tunnel Eel,fish,3,4,partial,1859,19,0.637,collector,Capital Display,1,2.6,2.6
+SALE-01899,CR013,Quarry Toad,amphibian,2,3,damaged,1859,19,0.764,archivist,Capital Archives,2,7.51,15.02
+SALE-00039,CR003,Granite Wren,bird,1,2,good,1859,20,0.651,archivist,Capital Archives,2,18.75,37.5
+SALE-01369,CR005,Marsh Stalker,reptile,6,5,partial,1859,20,0.766,archivist,Capital Archives,1,13.52,13.52
+SALE-01878,CR013,Quarry Toad,amphibian,2,3,pristine,1859,20,0.833,archivist,Capital Archives,5,34.08,170.4
+SALE-00227,CR014,Densmuck Crawler,arthropod,4,5,fair,1859,21,0.534,collector,Scholar Study,1,77.83,77.83
+SALE-00403,CR003,Granite Wren,bird,1,2,pristine,1859,21,0.751,senator,Private Collection,3,43.66,130.98
+SALE-00733,CR008,Wharver,mammal,8,6,partial,1859,21,0.814,senator,Private Collection,1,50.94,50.94
+SALE-00544,CR005,Marsh Stalker,reptile,6,5,pristine,1859,22,0.553,archivist,Capital Archives,1,101.15,101.15
+SALE-00415,CR004,Swamp Hornet,insect,4,1,good,1859,23,0.807,scholar,Scholar Study,1,3.65,3.65
+SALE-01186,CR014,Densmuck Crawler,arthropod,4,5,partial,1859,23,0.809,trader,Miasto Market,1,11.63,11.63
+SALE-01623,CR012,Tunnel Eel,fish,3,4,fair,1859,23,0.474,unknown,Scholar Study,1,47.63,47.63
+SALE-01786,CR012,Tunnel Eel,fish,3,4,fair,1859,23,0.789,archivist,Capital Archives,2,29.9,59.8
+SALE-01892,CR004,Swamp Hornet,insect,4,1,good,1859,23,0.896,collector,Unknown,3,1.71,5.13
+SALE-00109,CR006,Glass Beetle,insect,2,6,good,1859,24,0.313,scholar,Scholar Study,1,87.81,87.81
+SALE-00487,CR012,Tunnel Eel,fish,3,4,fair,1859,24,0.645,scholar,Scholar Study,1,20.18,20.18
+SALE-01154,CR005,Marsh Stalker,reptile,6,5,damaged,1859,24,0.591,trader,Miasto Market,1,15.19,15.19
+SALE-01159,CR009,Stakdur,reptile,9,8,partial,1859,24,0.359,archivist,Capital Archives,1,56.52,56.52
+SALE-01509,CR001,Leatherback Burrower,bird,3,4,partial,1859,24,0.828,collector,Private Collection,1,5.67,5.67
+SALE-00138,CR008,Wharver,mammal,8,6,fair,1859,25,0.609,archivist,Capital Archives,1,131.97,131.97
+SALE-00225,CR012,Tunnel Eel,fish,3,4,fair,1859,25,0.681,display,Capital Display,1,34.8,34.8
+SALE-00307,CR014,Densmuck Crawler,arthropod,4,5,pristine,1859,25,0.829,display,Capital Display,1,53.73,53.73
+SALE-00419,CR001,Leatherback Burrower,bird,3,4,fair,1859,25,0.651,archivist,Capital Archives,1,24.75,24.75
+SALE-00570,CR014,Densmuck Crawler,arthropod,4,5,fair,1859,25,0.683,scholar,Scholar Study,1,84.16,84.16
+SALE-00027,CR001,Leatherback Burrower,bird,3,4,partial,1859,26,0.396,unknown,Unknown,1,10.67,10.67
+SALE-00813,CR011,Cave Moth,insect,0,2,partial,1859,26,0.651,scholar,Scholar Study,5,1.36,6.8
+SALE-01324,CR009,Stakdur,reptile,9,8,fair,1859,26,0.751,senator,Senate Zoological,1,792.7,792.7
+SALE-01721,CR003,Granite Wren,bird,1,2,partial,1859,26,0.927,trader,Miasto Market,4,1.6,6.4
+SALE-01729,CR013,Quarry Toad,amphibian,2,3,pristine,1859,26,0.678,unknown,Senate Zoological,1,35.43,35.43
+SALE-01850,CR012,Tunnel Eel,fish,3,4,damaged,1859,26,0.396,unknown,Capital Archives,1,19.76,19.76
+SALE-00198,CR003,Granite Wren,bird,1,2,partial,1859,27,0.951,display,Capital Display,1,3.83,3.83
+SALE-00834,CR010,Grimslew,mammal,7,7,damaged,1859,27,0.579,archivist,Capital Archives,1,122.36,122.36
+SALE-01155,CR011,Cave Moth,insect,0,2,damaged,1859,27,0.727,unknown,Capital Archives,1,5.83,5.83
+SALE-01780,CR004,Swamp Hornet,insect,4,1,fair,1859,27,0.9,trader,Miasto Market,1,2.6,2.6
+SALE-01953,CR004,Swamp Hornet,insect,4,1,fair,1859,27,0.51,scholar,Scholar Study,2,1.5,3.0
+SALE-00529,CR011,Cave Moth,insect,0,2,good,1859,28,0.726,trader,Miasto Market,1,6.3,6.3
+SALE-01181,CR003,Granite Wren,bird,1,2,fair,1859,28,0.759,unknown,Senate Zoological,1,13.58,13.58
+SALE-01346,CR003,Granite Wren,bird,1,2,damaged,1859,28,0.424,collector,Scholar Study,4,9.25,37.0
+SALE-01032,CR003,Granite Wren,bird,1,2,good,1859,29,0.769,trader,Miasto Market,1,10.21,10.21
+SALE-01827,CR007,Yeller Bird,bird,0,3,good,1859,29,0.923,unknown,Senate Zoological,2,33.3,66.6
+SALE-00368,CR011,Cave Moth,insect,0,2,fair,1859,30,0.961,scholar,Scholar Study,1,5.55,5.55
+SALE-00490,CR004,Swamp Hornet,insect,4,1,pristine,1859,30,0.968,display,Capital Display,5,2.26,11.3
+SALE-00575,CR012,Tunnel Eel,fish,3,4,pristine,1859,30,0.843,archivist,Capital Archives,1,53.45,53.45
+SALE-00891,CR011,Cave Moth,insect,0,2,partial,1859,30,0.755,unknown,Capital Display,2,1.63,3.26
+SALE-01270,CR013,Quarry Toad,amphibian,2,3,fair,1859,30,0.618,collector,Unknown,1,22.04,22.04
+SALE-01965,CR004,Swamp Hornet,insect,4,1,fair,1859,30,0.595,senator,Private Collection,4,2.75,11.0
+SALE-00938,CR006,Glass Beetle,insect,2,6,damaged,1859,31,0.962,trader,Miasto Market,1,74.23,74.23
+SALE-01376,CR008,Wharver,mammal,8,6,partial,1859,31,0.541,collector,Scholar Study,1,31.69,31.69
+SALE-01215,CR001,Leatherback Burrower,bird,3,4,fair,1859,32,0.853,archivist,Capital Archives,1,18.29,18.29
+SALE-01782,CR011,Cave Moth,insect,0,2,good,1859,32,0.849,trader,Miasto Market,1,3.84,3.84
+SALE-01826,CR012,Tunnel Eel,fish,3,4,good,1859,32,0.794,senator,Senate Zoological,1,41.48,41.48
+SALE-00255,CR011,Cave Moth,insect,0,2,pristine,1859,33,0.569,unknown,Senate Zoological,3,5.4,16.2
+SALE-00443,CR005,Marsh Stalker,reptile,6,5,fair,1859,33,0.871,trader,Miasto Market,1,64.87,64.87
+SALE-00461,CR002,Stone Spine Lizard,reptile,5,7,fair,1859,33,0.734,archivist,Capital Archives,1,49.33,49.33
+SALE-01523,CR007,Yeller Bird,bird,0,3,pristine,1859,33,0.726,archivist,Capital Archives,1,68.33,68.33
+SALE-00660,CR005,Marsh Stalker,reptile,6,5,fair,1859,34,0.984,display,Capital Display,1,125.37,125.37
+SALE-00963,CR009,Stakdur,reptile,9,8,fair,1859,34,0.88,display,Capital Display,1,778.64,778.64
+SALE-01314,CR012,Tunnel Eel,fish,3,4,damaged,1859,34,0.725,collector,Senate Zoological,1,20.02,20.02
+SALE-00711,CR003,Granite Wren,bird,1,2,good,1859,35,0.655,senator,Senate Zoological,1,23.51,23.51
+SALE-00748,CR005,Marsh Stalker,reptile,6,5,good,1859,35,0.842,scholar,Scholar Study,1,143.23,143.23
+SALE-00125,CR011,Cave Moth,insect,0,2,fair,1859,36,0.848,trader,Miasto Market,1,8.92,8.92
+SALE-00568,CR008,Wharver,mammal,8,6,fair,1859,36,0.535,scholar,Scholar Study,1,200.04,200.04
+SALE-00194,CR003,Granite Wren,bird,1,2,fair,1859,37,0.339,unknown,Capital Archives,2,11.31,22.62
+SALE-01164,CR014,Densmuck Crawler,arthropod,4,5,damaged,1859,37,0.899,unknown,Capital Display,1,27.52,27.52
+SALE-01321,CR003,Granite Wren,bird,1,2,good,1859,37,0.688,trader,Miasto Market,2,13.71,27.42
+SALE-01565,CR011,Cave Moth,insect,0,2,fair,1859,37,0.813,archivist,Capital Archives,2,7.69,15.38
+SALE-00100,CR004,Swamp Hornet,insect,4,1,good,1859,38,0.362,archivist,Capital Archives,5,2.21,11.05
+SALE-00420,CR004,Swamp Hornet,insect,4,1,good,1859,38,0.761,archivist,Capital Archives,1,2.64,2.64
+SALE-00438,CR012,Tunnel Eel,fish,3,4,fair,1859,38,0.573,senator,Private Collection,1,38.38,38.38
+SALE-01861,CR005,Marsh Stalker,reptile,6,5,damaged,1859,38,0.752,trader,Miasto Market,1,38.25,38.25
+SALE-00261,CR004,Swamp Hornet,insect,4,1,good,1859,39,0.98,trader,Miasto Market,4,3.38,13.52
+SALE-00486,CR014,Densmuck Crawler,arthropod,4,5,partial,1859,39,0.74,collector,Unknown,1,7.15,7.15
+SALE-00958,CR014,Densmuck Crawler,arthropod,4,5,good,1859,40,0.856,unknown,Unknown,1,51.84,51.84
+SALE-01293,CR006,Glass Beetle,insect,2,6,damaged,1859,40,0.706,senator,Private Collection,1,63.37,63.37
+SALE-01461,CR012,Tunnel Eel,fish,3,4,damaged,1859,40,0.869,collector,Capital Archives,1,29.72,29.72
+SALE-01795,CR001,Leatherback Burrower,bird,3,4,fair,1859,40,0.786,trader,Miasto Market,1,38.45,38.45
+SALE-00096,CR014,Densmuck Crawler,arthropod,4,5,good,1859,41,0.867,scholar,Scholar Study,1,108.21,108.21
+SALE-00602,CR007,Yeller Bird,bird,0,3,fair,1859,41,0.929,display,Capital Display,2,44.67,89.34
+SALE-00610,CR003,Granite Wren,bird,1,2,pristine,1859,41,0.647,scholar,Scholar Study,2,28.35,56.7
+SALE-00932,CR008,Wharver,mammal,8,6,pristine,1859,41,0.761,archivist,Capital Archives,1,560.18,560.18
+SALE-01896,CR004,Swamp Hornet,insect,4,1,good,1859,41,0.951,scholar,Scholar Study,1,2.79,2.79
+SALE-00310,CR012,Tunnel Eel,fish,3,4,damaged,1859,42,0.631,collector,Capital Display,1,7.81,7.81
+SALE-00331,CR004,Swamp Hornet,insect,4,1,fair,1859,42,0.461,archivist,Capital Archives,1,2.24,2.24
+SALE-00689,CR001,Leatherback Burrower,bird,3,4,fair,1859,42,0.954,scholar,Scholar Study,1,30.27,30.27
+SALE-00889,CR008,Wharver,mammal,8,6,damaged,1859,42,0.567,senator,Senate Zoological,1,147.76,147.76
+SALE-01022,CR011,Cave Moth,insect,0,2,damaged,1859,42,0.554,trader,Miasto Market,1,2.92,2.92
+SALE-00118,CR011,Cave Moth,insect,0,2,fair,1859,43,0.726,archivist,Capital Archives,3,7.42,22.26
+SALE-00280,CR008,Wharver,mammal,8,6,fair,1859,43,0.629,unknown,Capital Display,2,482.02,964.04
+SALE-00515,CR002,Stone Spine Lizard,reptile,5,7,good,1859,43,0.923,display,Capital Display,1,168.83,168.83
+SALE-00576,CR013,Quarry Toad,amphibian,2,3,fair,1859,43,0.736,unknown,Capital Archives,3,16.13,48.39
+SALE-00893,CR013,Quarry Toad,amphibian,2,3,fair,1859,43,0.648,senator,Senate Zoological,2,18.65,37.3
+SALE-01101,CR009,Stakdur,reptile,9,8,fair,1859,43,0.835,trader,Miasto Market,1,101.57,101.57
+SALE-01993,CR011,Cave Moth,insect,0,2,damaged,1859,43,0.902,unknown,Unknown,1,2.34,2.34
+SALE-00085,CR004,Swamp Hornet,insect,4,1,pristine,1859,44,0.749,senator,Private Collection,3,4.25,12.75
+SALE-00859,CR001,Leatherback Burrower,bird,3,4,damaged,1859,44,0.57,scholar,Scholar Study,1,15.45,15.45
+SALE-00051,CR004,Swamp Hornet,insect,4,1,pristine,1859,45,0.463,unknown,Capital Archives,1,3.58,3.58
+SALE-00354,CR012,Tunnel Eel,fish,3,4,damaged,1859,45,0.917,trader,Miasto Market,1,11.74,11.74
+SALE-01092,CR008,Wharver,mammal,8,6,damaged,1859,45,0.829,senator,Private Collection,1,121.59,121.59
+SALE-01434,CR004,Swamp Hornet,insect,4,1,good,1859,45,0.937,scholar,Scholar Study,2,3.78,7.56
+SALE-01875,CR008,Wharver,mammal,8,6,fair,1859,45,0.55,display,Capital Display,1,257.66,257.66
+SALE-00065,CR009,Stakdur,reptile,9,8,partial,1859,46,0.711,collector,Senate Zoological,1,208.05,208.05
+SALE-00078,CR001,Leatherback Burrower,bird,3,4,good,1859,46,0.564,display,Capital Display,1,45.77,45.77
+SALE-00873,CR007,Yeller Bird,bird,0,3,pristine,1859,46,0.818,collector,Miasto Market,2,92.45,184.9
+SALE-00933,CR014,Densmuck Crawler,arthropod,4,5,fair,1859,46,0.725,display,Capital Display,1,100.54,100.54
+SALE-00967,CR013,Quarry Toad,amphibian,2,3,good,1859,46,0.833,display,Capital Display,1,19.52,19.52
+SALE-00304,CR006,Glass Beetle,insect,2,6,damaged,1859,47,0.872,scholar,Scholar Study,1,36.23,36.23
+SALE-00690,CR003,Granite Wren,bird,1,2,good,1859,47,0.824,trader,Miasto Market,3,17.14,51.42
+SALE-01513,CR003,Granite Wren,bird,1,2,damaged,1859,47,0.757,scholar,Scholar Study,2,9.0,18.0
+SALE-00341,CR004,Swamp Hornet,insect,4,1,good,1859,48,0.522,trader,Miasto Market,1,3.38,3.38
+SALE-00449,CR002,Stone Spine Lizard,reptile,5,7,damaged,1859,48,0.814,trader,Miasto Market,1,80.97,80.97
+SALE-00493,CR003,Granite Wren,bird,1,2,fair,1859,48,0.569,display,Capital Display,3,18.6,55.8
+SALE-01647,CR011,Cave Moth,insect,0,2,good,1859,48,0.646,senator,Senate Zoological,1,19.14,19.14
+SALE-01774,CR006,Glass Beetle,insect,2,6,good,1859,48,0.647,unknown,Private Collection,1,116.01,116.01
+SALE-00066,CR008,Wharver,mammal,8,6,fair,1859,49,0.738,collector,Capital Display,1,624.35,624.35
+SALE-00853,CR004,Swamp Hornet,insect,4,1,fair,1859,49,0.887,unknown,Capital Archives,3,3.92,11.76
+SALE-01890,CR014,Densmuck Crawler,arthropod,4,5,damaged,1859,49,0.765,scholar,Scholar Study,1,52.19,52.19
+SALE-00636,CR005,Marsh Stalker,reptile,6,5,fair,1859,50,0.827,unknown,Senate Zoological,1,236.23,236.23
+SALE-00767,CR004,Swamp Hornet,insect,4,1,good,1859,50,0.795,scholar,Scholar Study,1,3.68,3.68
+SALE-01858,CR003,Granite Wren,bird,1,2,good,1859,50,0.74,unknown,Capital Display,3,12.62,37.86
+SALE-00192,CR005,Marsh Stalker,reptile,6,5,partial,1859,51,0.567,unknown,Miasto Market,1,11.15,11.15
+SALE-01869,CR011,Cave Moth,insect,0,2,good,1859,51,0.536,collector,Capital Archives,4,10.36,41.44
+SALE-00171,CR012,Tunnel Eel,fish,3,4,fair,1859,52,0.688,unknown,Capital Archives,1,23.96,23.96
+SALE-00960,CR008,Wharver,mammal,8,6,good,1859,52,0.524,collector,Private Collection,1,690.1,690.1
+SALE-01732,CR014,Densmuck Crawler,arthropod,4,5,good,1859,52,0.952,display,Capital Display,1,57.15,57.15
+SALE-01934,CR012,Tunnel Eel,fish,3,4,fair,1859,52,0.786,display,Capital Display,1,25.0,25.0
+SALE-01975,CR001,Leatherback Burrower,bird,3,4,damaged,1859,52,0.571,display,Capital Display,1,27.03,27.03
+SALE-00214,CR003,Granite Wren,bird,1,2,fair,1860,1,0.845,senator,Private Collection,1,19.87,19.87
+SALE-00661,CR012,Tunnel Eel,fish,3,4,damaged,1860,1,0.942,display,Capital Display,1,14.52,14.52
+SALE-01354,CR012,Tunnel Eel,fish,3,4,damaged,1860,1,0.86,scholar,Scholar Study,1,27.11,27.11
+SALE-01432,CR005,Marsh Stalker,reptile,6,5,partial,1860,1,0.761,display,Capital Display,1,27.24,27.24
+SALE-01502,CR008,Wharver,mammal,8,6,fair,1860,1,0.848,archivist,Capital Archives,1,258.84,258.84
+SALE-00632,CR014,Densmuck Crawler,arthropod,4,5,partial,1860,2,0.664,display,Capital Display,1,14.98,14.98
+SALE-01253,CR003,Granite Wren,bird,1,2,good,1860,2,0.486,trader,Miasto Market,1,22.61,22.61
+SALE-01505,CR011,Cave Moth,insect,0,2,fair,1860,2,0.573,collector,Scholar Study,1,8.63,8.63
+SALE-01860,CR008,Wharver,mammal,8,6,good,1860,2,0.58,unknown,Scholar Study,1,298.8,298.8
+SALE-00099,CR014,Densmuck Crawler,arthropod,4,5,good,1860,3,0.739,scholar,Scholar Study,1,28.32,28.32
+SALE-00541,CR001,Leatherback Burrower,bird,3,4,damaged,1860,3,0.739,collector,Private Collection,1,23.41,23.41
+SALE-00640,CR006,Glass Beetle,insect,2,6,fair,1860,3,0.894,archivist,Capital Archives,1,160.71,160.71
+SALE-01724,CR010,Grimslew,mammal,7,7,fair,1860,3,0.641,senator,Senate Zoological,1,341.91,341.91
+SALE-00425,CR014,Densmuck Crawler,arthropod,4,5,good,1860,4,0.323,collector,Private Collection,1,60.19,60.19
+SALE-00778,CR005,Marsh Stalker,reptile,6,5,damaged,1860,4,0.819,senator,Private Collection,1,68.67,68.67
+SALE-00961,CR012,Tunnel Eel,fish,3,4,damaged,1860,4,0.74,trader,Miasto Market,2,19.11,38.22
+SALE-01220,CR006,Glass Beetle,insect,2,6,fair,1860,4,0.755,unknown,Capital Archives,1,139.47,139.47
+SALE-01754,CR013,Quarry Toad,amphibian,2,3,damaged,1860,4,0.859,collector,Private Collection,2,27.19,54.38
+SALE-01942,CR006,Glass Beetle,insect,2,6,fair,1860,4,0.861,display,Capital Display,2,97.78,195.56
+SALE-00814,CR004,Swamp Hornet,insect,4,1,fair,1860,5,0.946,collector,Miasto Market,1,3.99,3.99
+SALE-01191,CR004,Swamp Hornet,insect,4,1,fair,1860,5,0.919,scholar,Scholar Study,1,3.02,3.02
+SALE-01545,CR007,Yeller Bird,bird,0,3,pristine,1860,5,0.919,scholar,Scholar Study,1,89.84,89.84
+SALE-01597,CR013,Quarry Toad,amphibian,2,3,partial,1860,5,0.739,senator,Private Collection,3,5.33,15.99
+SALE-01979,CR005,Marsh Stalker,reptile,6,5,pristine,1860,5,0.746,collector,Capital Display,2,60.98,121.96
+SALE-01503,CR003,Granite Wren,bird,1,2,damaged,1860,6,0.734,display,Capital Display,2,9.21,18.42
+SALE-00272,CR011,Cave Moth,insect,0,2,good,1860,7,0.799,collector,Miasto Market,3,14.26,42.78
+SALE-01033,CR008,Wharver,mammal,8,6,fair,1860,7,0.777,collector,Scholar Study,1,244.43,244.43
+SALE-01548,CR013,Quarry Toad,amphibian,2,3,partial,1860,7,0.397,scholar,Scholar Study,1,3.56,3.56
+SALE-00706,CR012,Tunnel Eel,fish,3,4,fair,1860,8,0.759,scholar,Scholar Study,1,66.61,66.61
+SALE-00755,CR001,Leatherback Burrower,bird,3,4,good,1860,8,0.853,senator,Private Collection,1,30.51,30.51
+SALE-00913,CR004,Swamp Hornet,insect,4,1,good,1860,8,0.379,archivist,Capital Archives,1,2.23,2.23
+SALE-00973,CR001,Leatherback Burrower,bird,3,4,damaged,1860,9,0.824,senator,Private Collection,2,18.35,36.7
+SALE-01380,CR011,Cave Moth,insect,0,2,good,1860,9,0.833,collector,Unknown,1,13.4,13.4
+SALE-01999,CR001,Leatherback Burrower,bird,3,4,fair,1860,9,0.886,display,Capital Display,1,28.05,28.05
+SALE-00412,CR007,Yeller Bird,bird,0,3,damaged,1860,10,0.854,senator,Private Collection,1,61.01,61.01
+SALE-01072,CR009,Stakdur,reptile,9,8,good,1860,10,0.853,collector,Miasto Market,1,965.81,965.81
+SALE-01326,CR011,Cave Moth,insect,0,2,damaged,1860,10,0.855,collector,Unknown,2,5.76,11.52
+SALE-01339,CR007,Yeller Bird,bird,0,3,good,1860,10,0.972,archivist,Capital Archives,1,110.74,110.74
+SALE-01535,CR005,Marsh Stalker,reptile,6,5,partial,1860,10,0.84,archivist,Capital Archives,2,18.53,37.06
+SALE-01660,CR009,Stakdur,reptile,9,8,fair,1860,10,0.168,senator,Senate Zoological,1,523.94,523.94
+SALE-00695,CR007,Yeller Bird,bird,0,3,good,1860,11,0.355,collector,Capital Archives,1,20.23,20.23
+SALE-00416,CR013,Quarry Toad,amphibian,2,3,damaged,1860,12,0.661,senator,Senate Zoological,4,10.62,42.48
+SALE-00579,CR005,Marsh Stalker,reptile,6,5,damaged,1860,12,0.795,senator,Senate Zoological,1,78.58,78.58
+SALE-00670,CR013,Quarry Toad,amphibian,2,3,fair,1860,12,0.776,scholar,Scholar Study,1,23.17,23.17
+SALE-01586,CR007,Yeller Bird,bird,0,3,pristine,1860,12,0.451,scholar,Scholar Study,2,79.5,159.0
+SALE-00296,CR007,Yeller Bird,bird,0,3,fair,1860,13,0.44,archivist,Capital Archives,3,40.19,120.57
+SALE-01418,CR010,Grimslew,mammal,7,7,fair,1860,13,0.426,display,Capital Display,1,153.43,153.43
+SALE-01442,CR005,Marsh Stalker,reptile,6,5,fair,1860,13,0.851,trader,Miasto Market,1,51.54,51.54
+SALE-00557,CR003,Granite Wren,bird,1,2,fair,1860,14,0.818,display,Capital Display,3,5.24,15.72
+SALE-00718,CR012,Tunnel Eel,fish,3,4,good,1860,14,0.372,scholar,Scholar Study,1,12.92,12.92
+SALE-01281,CR013,Quarry Toad,amphibian,2,3,fair,1860,14,0.532,collector,Capital Display,1,28.1,28.1
+SALE-01529,CR005,Marsh Stalker,reptile,6,5,good,1860,14,0.83,display,Capital Display,1,315.71,315.71
+SALE-00537,CR004,Swamp Hornet,insect,4,1,damaged,1860,15,0.575,collector,Unknown,2,1.1,2.2
+SALE-00935,CR014,Densmuck Crawler,arthropod,4,5,good,1860,15,0.811,senator,Private Collection,1,190.7,190.7
+SALE-01476,CR009,Stakdur,reptile,9,8,good,1860,15,0.849,scholar,Scholar Study,1,852.48,852.48
+SALE-00595,CR013,Quarry Toad,amphibian,2,3,fair,1860,16,0.808,scholar,Scholar Study,1,11.8,11.8
+SALE-00613,CR010,Grimslew,mammal,7,7,damaged,1860,16,0.304,display,Capital Display,1,84.95,84.95
+SALE-01568,CR014,Densmuck Crawler,arthropod,4,5,partial,1860,16,0.907,archivist,Capital Archives,2,15.63,31.26
+SALE-01745,CR007,Yeller Bird,bird,0,3,good,1860,16,0.887,scholar,Scholar Study,2,54.43,108.86
+SALE-01963,CR004,Swamp Hornet,insect,4,1,pristine,1860,16,0.567,scholar,Scholar Study,1,4.85,4.85
+SALE-00323,CR004,Swamp Hornet,insect,4,1,good,1860,17,0.777,scholar,Scholar Study,1,1.78,1.78
+SALE-00533,CR006,Glass Beetle,insect,2,6,fair,1860,17,0.926,unknown,Private Collection,1,114.22,114.22
+SALE-00550,CR007,Yeller Bird,bird,0,3,pristine,1860,17,0.346,display,Capital Display,3,40.17,120.51
+SALE-00744,CR004,Swamp Hornet,insect,4,1,good,1860,17,0.749,senator,Senate Zoological,2,4.61,9.22
+SALE-00768,CR015,Golden Amalgam Snail,mollusk,0,9,pristine,1860,17,0.956,senator,Senate Zoological,1,311.75,311.75
+SALE-01344,CR011,Cave Moth,insect,0,2,damaged,1860,17,0.307,scholar,Scholar Study,1,3.5,3.5
+SALE-01349,CR013,Quarry Toad,amphibian,2,3,fair,1860,17,0.858,trader,Miasto Market,1,19.57,19.57
+SALE-01512,CR008,Wharver,mammal,8,6,pristine,1860,17,0.773,scholar,Scholar Study,2,671.56,1343.12
+SALE-01614,CR011,Cave Moth,insect,0,2,partial,1860,17,0.376,unknown,Capital Display,3,1.25,3.75
+SALE-01995,CR004,Swamp Hornet,insect,4,1,fair,1860,17,0.926,archivist,Capital Archives,1,1.58,1.58
+SALE-00352,CR005,Marsh Stalker,reptile,6,5,good,1860,18,0.722,archivist,Capital Archives,1,54.57,54.57
+SALE-00916,CR001,Leatherback Burrower,bird,3,4,pristine,1860,18,0.541,archivist,Capital Archives,1,25.63,25.63
+SALE-00941,CR003,Granite Wren,bird,1,2,damaged,1860,18,0.726,collector,Unknown,2,11.33,22.66
+SALE-01263,CR003,Granite Wren,bird,1,2,pristine,1860,18,0.501,unknown,Private Collection,2,21.61,43.22
+SALE-01622,CR011,Cave Moth,insect,0,2,partial,1860,18,0.901,collector,Scholar Study,2,1.39,2.78
+SALE-01690,CR006,Glass Beetle,insect,2,6,damaged,1860,18,0.902,collector,Capital Archives,2,84.27,168.54
+SALE-01973,CR013,Quarry Toad,amphibian,2,3,damaged,1860,18,0.751,unknown,Miasto Market,2,12.14,24.28
+SALE-00429,CR012,Tunnel Eel,fish,3,4,pristine,1860,19,0.715,collector,Capital Archives,1,28.6,28.6
+SALE-00473,CR007,Yeller Bird,bird,0,3,pristine,1860,19,0.547,unknown,Private Collection,3,31.69,95.07
+SALE-01295,CR003,Granite Wren,bird,1,2,fair,1860,19,0.828,scholar,Scholar Study,1,16.43,16.43
+SALE-00337,CR008,Wharver,mammal,8,6,fair,1860,20,0.539,collector,Unknown,1,79.04,79.04
+SALE-00388,CR012,Tunnel Eel,fish,3,4,damaged,1860,20,0.536,senator,Private Collection,1,27.98,27.98
+SALE-00682,CR006,Glass Beetle,insect,2,6,good,1860,20,0.834,trader,Miasto Market,1,56.88,56.88
+SALE-01299,CR007,Yeller Bird,bird,0,3,fair,1860,20,0.826,trader,Miasto Market,1,52.82,52.82
+SALE-01394,CR004,Swamp Hornet,insect,4,1,damaged,1860,20,0.568,collector,Senate Zoological,2,1.0,2.0
+SALE-01207,CR004,Swamp Hornet,insect,4,1,damaged,1860,21,0.759,archivist,Capital Archives,2,1.25,2.5
+SALE-01838,CR006,Glass Beetle,insect,2,6,fair,1860,21,0.819,scholar,Scholar Study,1,47.6,47.6
+SALE-00069,CR004,Swamp Hornet,insect,4,1,good,1860,22,0.348,archivist,Capital Archives,3,2.99,8.97
+SALE-00284,CR011,Cave Moth,insect,0,2,pristine,1860,22,0.646,senator,Private Collection,2,11.61,23.22
+SALE-01126,CR012,Tunnel Eel,fish,3,4,damaged,1860,22,0.351,archivist,Capital Archives,1,10.85,10.85
+SALE-01311,CR006,Glass Beetle,insect,2,6,damaged,1860,22,0.35,senator,Senate Zoological,1,54.35,54.35
+SALE-01348,CR005,Marsh Stalker,reptile,6,5,good,1860,22,0.512,senator,Senate Zoological,1,226.09,226.09
+SALE-01485,CR012,Tunnel Eel,fish,3,4,good,1860,22,0.807,senator,Private Collection,1,43.36,43.36
+SALE-00969,CR008,Wharver,mammal,8,6,damaged,1860,23,0.829,trader,Miasto Market,1,93.61,93.61
+SALE-00993,CR010,Grimslew,mammal,7,7,good,1860,23,0.966,display,Capital Display,1,163.17,163.17
+SALE-01856,CR011,Cave Moth,insect,0,2,fair,1860,24,0.501,senator,Senate Zoological,1,6.9,6.9
+SALE-00215,CR011,Cave Moth,insect,0,2,pristine,1860,25,0.649,unknown,Miasto Market,5,6.83,34.15
+SALE-01120,CR014,Densmuck Crawler,arthropod,4,5,fair,1860,25,0.796,archivist,Capital Archives,1,45.58,45.58
+SALE-01466,CR003,Granite Wren,bird,1,2,damaged,1860,25,0.455,trader,Miasto Market,1,7.16,7.16
+SALE-01616,CR011,Cave Moth,insect,0,2,fair,1860,25,0.496,trader,Miasto Market,1,2.74,2.74
+SALE-00655,CR015,Golden Amalgam Snail,mollusk,0,9,fair,1860,26,0.593,display,Capital Display,1,1234.44,1234.44
+SALE-01016,CR008,Wharver,mammal,8,6,damaged,1860,27,0.706,trader,Miasto Market,2,222.12,444.24
+SALE-01696,CR009,Stakdur,reptile,9,8,good,1860,27,0.584,senator,Private Collection,1,587.52,587.52
+SALE-01915,CR011,Cave Moth,insect,0,2,partial,1860,27,0.936,display,Capital Display,3,1.0,3.0
+SALE-01558,CR003,Granite Wren,bird,1,2,good,1860,28,0.676,archivist,Capital Archives,2,18.23,36.46
+SALE-01874,CR013,Quarry Toad,amphibian,2,3,good,1860,28,0.484,archivist,Capital Archives,5,22.94,114.7
+SALE-01944,CR003,Granite Wren,bird,1,2,damaged,1860,28,0.834,display,Capital Display,1,10.96,10.96
+SALE-00010,CR004,Swamp Hornet,insect,4,1,pristine,1860,29,0.745,display,Capital Display,1,3.25,3.25
+SALE-00033,CR001,Leatherback Burrower,bird,3,4,fair,1860,29,0.748,trader,Miasto Market,2,7.26,14.52
+SALE-01024,CR014,Densmuck Crawler,arthropod,4,5,good,1860,29,0.885,display,Capital Display,1,62.94,62.94
+SALE-01862,CR012,Tunnel Eel,fish,3,4,damaged,1860,29,0.665,unknown,Unknown,1,8.95,8.95
+SALE-00593,CR003,Granite Wren,bird,1,2,fair,1860,30,0.876,trader,Miasto Market,2,10.97,21.94
+SALE-01488,CR007,Yeller Bird,bird,0,3,fair,1860,30,0.745,unknown,Capital Display,1,40.21,40.21
+SALE-01517,CR003,Granite Wren,bird,1,2,partial,1860,30,0.641,senator,Senate Zoological,1,3.77,3.77
+SALE-00349,CR009,Stakdur,reptile,9,8,pristine,1860,31,0.915,collector,Senate Zoological,1,420.61,420.61
+SALE-01333,CR002,Stone Spine Lizard,reptile,5,7,fair,1860,31,0.874,display,Capital Display,1,287.94,287.94
+SALE-01652,CR014,Densmuck Crawler,arthropod,4,5,partial,1860,31,0.673,collector,Private Collection,1,6.26,6.26
+SALE-00344,CR011,Cave Moth,insect,0,2,fair,1860,32,0.374,display,Capital Display,2,6.28,12.56
+SALE-00874,CR007,Yeller Bird,bird,0,3,fair,1860,32,0.513,trader,Miasto Market,3,34.16,102.48
+SALE-00361,CR012,Tunnel Eel,fish,3,4,damaged,1860,33,0.649,trader,Miasto Market,1,12.17,12.17
+SALE-00068,CR013,Quarry Toad,amphibian,2,3,fair,1860,34,0.64,display,Capital Display,2,20.81,41.62
+SALE-01709,CR010,Grimslew,mammal,7,7,fair,1860,34,0.64,archivist,Capital Archives,1,93.72,93.72
+SALE-01872,CR004,Swamp Hornet,insect,4,1,partial,1860,34,0.656,display,Capital Display,2,1.0,2.0
+SALE-00219,CR011,Cave Moth,insect,0,2,damaged,1860,35,0.62,collector,Senate Zoological,4,5.27,21.08
+SALE-00483,CR001,Leatherback Burrower,bird,3,4,fair,1860,35,0.572,senator,Senate Zoological,1,33.5,33.5
+SALE-01898,CR011,Cave Moth,insect,0,2,partial,1860,35,0.655,trader,Miasto Market,5,1.0,5.0
+SALE-00598,CR007,Yeller Bird,bird,0,3,good,1860,36,0.928,archivist,Capital Archives,3,53.3,159.9
+SALE-01381,CR008,Wharver,mammal,8,6,damaged,1860,36,0.77,trader,Miasto Market,1,259.14,259.14
+SALE-01386,CR007,Yeller Bird,bird,0,3,good,1860,36,0.737,trader,Miasto Market,2,40.78,81.56
+SALE-00496,CR012,Tunnel Eel,fish,3,4,pristine,1860,37,0.853,collector,Scholar Study,1,78.1,78.1
+SALE-00791,CR010,Grimslew,mammal,7,7,fair,1860,37,0.459,unknown,Scholar Study,1,98.41,98.41
+SALE-01080,CR005,Marsh Stalker,reptile,6,5,fair,1860,37,0.94,senator,Private Collection,1,82.18,82.18
+SALE-01158,CR007,Yeller Bird,bird,0,3,partial,1860,37,0.646,trader,Miasto Market,4,5.12,20.48
+SALE-01680,CR014,Densmuck Crawler,arthropod,4,5,good,1860,37,0.586,trader,Miasto Market,1,31.61,31.61
+SALE-00995,CR013,Quarry Toad,amphibian,2,3,good,1860,38,0.348,scholar,Scholar Study,3,15.1,45.3
+SALE-01327,CR005,Marsh Stalker,reptile,6,5,fair,1860,38,0.574,scholar,Scholar Study,1,197.86,197.86
+SALE-00079,CR009,Stakdur,reptile,9,8,partial,1860,39,0.733,unknown,Unknown,1,48.19,48.19
+SALE-00161,CR008,Wharver,mammal,8,6,fair,1860,39,0.76,archivist,Capital Archives,1,602.12,602.12
+SALE-00338,CR015,Golden Amalgam Snail,mollusk,0,9,fair,1860,39,0.953,trader,Miasto Market,1,819.93,819.93
+SALE-00513,CR013,Quarry Toad,amphibian,2,3,partial,1860,39,0.798,archivist,Capital Archives,2,3.18,6.36
+SALE-00657,CR011,Cave Moth,insect,0,2,good,1860,39,0.853,collector,Miasto Market,2,12.03,24.06
+SALE-01070,CR005,Marsh Stalker,reptile,6,5,good,1860,39,0.798,archivist,Capital Archives,2,74.74,149.48
+SALE-00277,CR011,Cave Moth,insect,0,2,fair,1860,40,0.72,trader,Miasto Market,1,5.31,5.31
+SALE-00390,CR003,Granite Wren,bird,1,2,good,1860,40,0.818,scholar,Scholar Study,1,16.23,16.23
+SALE-01336,CR001,Leatherback Burrower,bird,3,4,fair,1860,40,0.729,trader,Miasto Market,1,30.54,30.54
+SALE-01803,CR002,Stone Spine Lizard,reptile,5,7,good,1860,40,0.807,scholar,Scholar Study,1,275.1,275.1
+SALE-00213,CR011,Cave Moth,insect,0,2,good,1860,41,0.694,unknown,Capital Archives,1,9.44,9.44
+SALE-00319,CR003,Granite Wren,bird,1,2,pristine,1860,41,0.497,trader,Miasto Market,1,11.18,11.18
+SALE-01167,CR001,Leatherback Burrower,bird,3,4,damaged,1860,41,0.845,collector,Miasto Market,1,18.25,18.25
+SALE-01235,CR003,Granite Wren,bird,1,2,damaged,1860,42,0.779,display,Capital Display,2,6.46,12.92
+SALE-00049,CR004,Swamp Hornet,insect,4,1,pristine,1860,43,0.951,archivist,Capital Archives,1,7.08,7.08
+SALE-00686,CR003,Granite Wren,bird,1,2,damaged,1860,44,0.763,archivist,Capital Archives,2,7.31,14.62
+SALE-01258,CR004,Swamp Hornet,insect,4,1,fair,1860,44,0.852,display,Capital Display,3,2.1,6.3
+SALE-00162,CR012,Tunnel Eel,fish,3,4,pristine,1860,45,0.836,display,Capital Display,1,16.43,16.43
+SALE-00330,CR003,Granite Wren,bird,1,2,good,1860,45,0.673,display,Capital Display,2,20.49,40.98
+SALE-00583,CR014,Densmuck Crawler,arthropod,4,5,good,1860,45,0.737,trader,Miasto Market,1,36.73,36.73
+SALE-00782,CR004,Swamp Hornet,insect,4,1,good,1860,45,0.642,display,Capital Display,1,3.99,3.99
+SALE-00911,CR003,Granite Wren,bird,1,2,fair,1860,45,0.811,unknown,Capital Display,2,16.23,32.46
+SALE-01286,CR001,Leatherback Burrower,bird,3,4,good,1860,45,0.784,senator,Private Collection,1,40.25,40.25
+SALE-01541,CR004,Swamp Hornet,insect,4,1,fair,1860,45,0.582,collector,Capital Display,1,3.43,3.43
+SALE-00944,CR004,Swamp Hornet,insect,4,1,good,1860,46,0.722,unknown,Senate Zoological,2,6.09,12.18
+SALE-01243,CR003,Granite Wren,bird,1,2,partial,1860,46,0.841,archivist,Capital Archives,1,4.17,4.17
+SALE-01451,CR007,Yeller Bird,bird,0,3,fair,1860,46,0.293,scholar,Scholar Study,1,28.75,28.75
+SALE-01472,CR011,Cave Moth,insect,0,2,partial,1860,46,0.781,scholar,Scholar Study,2,1.27,2.54
+SALE-01717,CR002,Stone Spine Lizard,reptile,5,7,fair,1860,46,0.911,trader,Miasto Market,2,149.15,298.3
+SALE-00313,CR011,Cave Moth,insect,0,2,pristine,1860,47,0.468,display,Capital Display,1,12.23,12.23
+SALE-00505,CR015,Golden Amalgam Snail,mollusk,0,9,damaged,1860,47,0.69,display,Capital Display,1,336.23,336.23
+SALE-01700,CR004,Swamp Hornet,insect,4,1,fair,1860,47,0.712,unknown,Private Collection,3,2.13,6.39
+SALE-00044,CR013,Quarry Toad,amphibian,2,3,fair,1860,49,0.822,display,Capital Display,4,36.78,147.12
+SALE-01822,CR012,Tunnel Eel,fish,3,4,damaged,1860,49,0.727,display,Capital Display,1,10.8,10.8
+SALE-01300,CR003,Granite Wren,bird,1,2,fair,1860,51,0.64,unknown,Capital Display,3,14.56,43.68
+SALE-01845,CR012,Tunnel Eel,fish,3,4,damaged,1860,51,0.915,archivist,Capital Archives,1,39.8,39.8
+SALE-00981,CR005,Marsh Stalker,reptile,6,5,fair,1860,52,0.667,collector,Capital Archives,1,84.15,84.15
+SALE-01078,CR002,Stone Spine Lizard,reptile,5,7,good,1860,52,0.673,collector,Private Collection,1,449.12,449.12
+SALE-01094,CR008,Wharver,mammal,8,6,fair,1860,52,0.866,display,Capital Display,1,287.32,287.32
+SALE-01107,CR004,Swamp Hornet,insect,4,1,pristine,1860,52,0.529,senator,Senate Zoological,5,4.16,20.8
+SALE-01340,CR004,Swamp Hornet,insect,4,1,damaged,1860,52,0.844,unknown,Capital Display,2,2.69,5.38
+SALE-01345,CR011,Cave Moth,insect,0,2,pristine,1860,52,0.825,trader,Miasto Market,2,9.44,18.88
+SALE-01443,CR013,Quarry Toad,amphibian,2,3,good,1860,52,0.916,unknown,Capital Archives,1,41.18,41.18
+SALE-01946,CR003,Granite Wren,bird,1,2,fair,1860,52,0.682,scholar,Scholar Study,1,11.86,11.86
