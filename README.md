@@ -2,6 +2,8 @@
 
 ## Mathematical Foundations for Machine Learning
 
+![ML Math with Densworld](images/hero.png)
+
 ---
 
 *"The Tribunal demanded evidence. 'Show us,' they said, 'how you know this manuscript is false.' I could not simply declare it—I needed mathematics that would stand before the court."*
