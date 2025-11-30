@@ -1,4 +1,5 @@
 # ML Math with Densworld
+
 ## Mathematical Foundations for Machine Learning
 
 ---
@@ -8,15 +9,18 @@
 
 ---
 
-## Overview
+## Course Overview
 
 This course teaches the mathematical foundations of machine learning through the lens of Densworld—a fictional world of archives, expeditions, and strange creatures. You'll learn real math skills while exploring manuscript forgery detection, creature classification, and expedition outcome prediction.
 
-### Why Fictional Data?
+**Prerequisites:**
+- Basic Python familiarity (loops, functions, lists)
+- High school algebra
+- No prior ML or advanced math required
 
-1. **You must actually learn the methods**—no copying solutions from Stack Overflow
-2. **The data tells a story** that rewards careful exploration
-3. **Domain knowledge matters**—understanding what a "yeller group" is helps you analyze the data
+**Compute Requirements:**
+- Free Google Colab (no GPU required)
+- All tutorials run on CPU
 
 ---
 
@@ -104,34 +108,55 @@ jupyter notebook
 
 ---
 
-## Learning Outcomes
+## Learning Objectives
 
 By the end of this course, you will be able to:
 
-1. **Derive algorithms from first principles** — not just memorize them
-2. **Diagnose model problems** — underfitting vs overfitting
-3. **Apply regularization** with mathematical understanding
-4. **Evaluate models properly** using cross-validation
+1. Understand probability distributions and their role in uncertainty quantification
+2. Apply hypothesis testing and Bayesian reasoning to real problems
+3. Work with vectors, matrices, and linear transformations
+4. Compute similarity using dot products and cosine distance
+5. Calculate derivatives and gradients for optimization
+6. Implement gradient descent from scratch
+7. Derive linear regression from first principles
+8. Diagnose underfitting vs overfitting (bias-variance trade-off)
+9. Apply L1/L2 regularization with mathematical understanding
+10. Evaluate models properly using cross-validation
 
 ---
 
-## The World of Densworld
+## Key Characters
 
-This course draws from Densworld, a fictional archive spanning fantasy, noir, and contemporary layers. Key figures include:
-
-- **Mink Pavar**: Reclusive scholar who exposed the Great Forgery
-- **The Colonel**: Commander besieging the Tower of Mirado for 20 years
-- **Boffa Trent**: Natural philosopher cataloguing creatures
-- **Vagabu Olt**: Wanderer whose observations inform expedition planning
+- **Mink Pavar** — Reclusive scholar who exposed the Great Forgery
+- **The Colonel** — Commander besieging the Tower of Mirado for 20 years
+- **Boffa Trent** — Natural philosopher cataloguing creatures
+- **Vagabu Olt** — Wanderer whose observations inform expedition planning
 
 ---
 
-## Credits
+## Course Series Context
 
-Densworld archive and course concept by Daniel.
-Course development in collaboration with Claude Code.
+This is a **Foundational Course** in the Densworld Courses project:
+
+| Category | Course | Focus |
+|----------|--------|-------|
+| **Foundational** | [Yeller Quarry Data Science](https://github.com/buildLittleWorlds/yeller-quarry-data-science) | Pandas & Data Analysis |
+| **Foundational** | [Capital Archives NLP](https://github.com/buildLittleWorlds/capital-archives-nlp) | Natural Language Processing |
+| **Foundational** | **ML Math with Densworld** | **Mathematical Foundations** |
+| **Foundational** | [Journeys and Graphs](https://github.com/buildLittleWorlds/journeys-and-graphs) | Graph Theory & Networks |
+| **Foundational** | [Densmok CC Analytics](https://github.com/buildLittleWorlds/densmok-cc-analytics) | Time Series & Anomaly Detection |
+| **Foundational** | [Densworld API Course](https://github.com/buildLittleWorlds/densworld-api-course) | FastAPI Development |
+| HF Series | [The Archivist's Inference Engine](https://github.com/buildLittleWorlds/archivist-inference-engine) | HF Transformers & Inference |
+| HF Series | [The Forge at Yeller Quarry](https://github.com/buildLittleWorlds/forge-yeller-quarry) | Fine-tuning |
+| HF Series | [The Densworld Oracle](https://github.com/buildLittleWorlds/densworld-oracle) | RAG & Domain-Specific LLM |
+
+---
+
+## License
+
+MIT License - See LICENSE file for details.
+
+---
 
 *"The mathematics of learning is now yours. Use it wisely."*
 — Mink Pavar
-
----
