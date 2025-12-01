@@ -51,44 +51,44 @@ This course is organized into four modules, each with its own narrative arc:
 ### Module 1: Statistics & Probability
 *The Archives Dilemma — Scholars seeking truth from noisy samples*
 
-| # | Lesson | What You'll Learn | The Story |
-|---|--------|-------------------|-----------|
-| 1 | Uncertainty & Intuition | Probability fundamentals, random variables | The Archives' sampling problem |
-| 2 | Distributions as Terrain | Normal, Poisson, Bernoulli distributions | Mapping the space of possible outcomes |
-| 3 | Central Limit Theorem | Sample means, standard error | Why the Archives demand detailed reports |
-| 4 | Hypothesis Testing | P-values, significance, Type I/II errors | Testing claims about manuscripts |
-| 5 | Bayesian Classification | Priors, likelihoods, posteriors | Classifying manuscripts by school |
+| # | Lesson | What You'll Learn | The Story | Notebook |
+|---|--------|-------------------|-----------|----------|
+| 1 | Uncertainty & Intuition | Probability fundamentals, random variables | The Archives' sampling problem | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/01-statistics-probability/notebooks/01-uncertainty-intuition.ipynb) |
+| 2 | Distributions as Terrain | Normal, Poisson, Bernoulli distributions | Mapping the space of possible outcomes | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/01-statistics-probability/notebooks/02-distributions-as-terrain.ipynb) |
+| 3 | Central Limit Theorem | Sample means, standard error | Why the Archives demand detailed reports | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/01-statistics-probability/notebooks/03-central-limit-theorem.ipynb) |
+| 4 | Hypothesis Testing | P-values, significance, Type I/II errors | Testing claims about manuscripts | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/01-statistics-probability/notebooks/04-hypothesis-testing.ipynb) |
+| 5 | Bayesian Classification | Priors, likelihoods, posteriors | Classifying manuscripts by school | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/01-statistics-probability/notebooks/05-bayesian-classification.ipynb) |
 
 ### Module 2: Linear Algebra
 *Creatures as Vectors — Cataloguing creatures in feature space*
 
-| # | Lesson | What You'll Learn | The Story |
-|---|--------|-------------------|-----------|
-| 1 | Vectors: The Dual View | Geometric vs algebraic vectors | Creatures as points in space |
-| 2 | Vector Norms & Distance | L1, L2 norms, distance metrics | How far apart are two creatures? |
-| 3 | Dot Product & Similarity | Dot product, cosine similarity | Which creatures are most similar? |
-| 4 | Matrix Transformations | Linear maps, matrix multiplication | Transforming the creature catalog |
-| 5 | Rank & Independence | Linear independence, rank, null space | Which features are redundant? |
+| # | Lesson | What You'll Learn | The Story | Notebook |
+|---|--------|-------------------|-----------|----------|
+| 1 | Vectors: The Dual View | Geometric vs algebraic vectors | Creatures as points in space | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/02-linear-algebra/notebooks/01-vectors-dual-view.ipynb) |
+| 2 | Vector Norms & Distance | L1, L2 norms, distance metrics | How far apart are two creatures? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/02-linear-algebra/notebooks/02-vector-norms.ipynb) |
+| 3 | Dot Product & Similarity | Dot product, cosine similarity | Which creatures are most similar? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/02-linear-algebra/notebooks/03-dot-product-similarity.ipynb) |
+| 4 | Matrix Transformations | Linear maps, matrix multiplication | Transforming the creature catalog | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/02-linear-algebra/notebooks/04-matrix-transformations.ipynb) |
+| 5 | Rank & Independence | Linear independence, rank, null space | Which features are redundant? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/02-linear-algebra/notebooks/05-rank-independence.ipynb) |
 
 ### Module 3: Calculus
 *The Colonel's Optimization — 20 years besieging the Tower of Mirado*
 
-| # | Lesson | What You'll Learn | The Story |
-|---|--------|-------------------|-----------|
-| 1 | Derivatives as Sensitivity | Rates of change, partial derivatives | The Colonel measures the slope |
-| 2 | The Gradient Compass | Gradient vectors, directional derivatives | Which way is downhill? |
-| 3 | Gradient Descent | The algorithm, learning rate, convergence | Twenty years of stepping carefully |
-| 4 | Chain Rule & Backprop | Composite functions, backpropagation | How errors flow backward |
+| # | Lesson | What You'll Learn | The Story | Notebook |
+|---|--------|-------------------|-----------|----------|
+| 1 | Derivatives as Sensitivity | Rates of change, partial derivatives | The Colonel measures the slope | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/03-calculus/notebooks/01-derivatives-sensitivity.ipynb) |
+| 2 | The Gradient Compass | Gradient vectors, directional derivatives | Which way is downhill? | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/03-calculus/notebooks/02-gradient-compass.ipynb) |
+| 3 | Gradient Descent | The algorithm, learning rate, convergence | Twenty years of stepping carefully | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/03-calculus/notebooks/03-gradient-descent.ipynb) |
+| 4 | Chain Rule & Backprop | Composite functions, backpropagation | How errors flow backward | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/03-calculus/notebooks/04-chain-rule-backprop.ipynb) |
 
 ### Module 4: Applied ML
 *The Forgery Trial — Mink Pavar defends mathematical methods*
 
-| # | Lesson | What You'll Learn | The Story |
-|---|--------|-------------------|-----------|
-| 1 | Deriving Linear Regression | Least squares, normal equations | Building the prosecution's model |
-| 2 | Bias-Variance Tradeoff | Underfitting, overfitting, model complexity | The Tribunal questions the evidence |
-| 3 | Regularization (L1/L2) | Ridge, Lasso, why constraints help | Keeping the model honest |
-| 4 | Model Selection (Capstone) | Cross-validation, hyperparameters | The verdict |
+| # | Lesson | What You'll Learn | The Story | Notebook |
+|---|--------|-------------------|-----------|----------|
+| 1 | Deriving Linear Regression | Least squares, normal equations | Building the prosecution's model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/04-applied-ml/notebooks/01-deriving-linear-regression.ipynb) |
+| 2 | Bias-Variance Tradeoff | Underfitting, overfitting, model complexity | The Tribunal questions the evidence | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/04-applied-ml/notebooks/02-bias-variance-tradeoff.ipynb) |
+| 3 | Regularization (L1/L2) | Ridge, Lasso, why constraints help | Keeping the model honest | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/04-applied-ml/notebooks/03-regularization.ipynb) |
+| 4 | Model Selection (Capstone) | Cross-validation, hyperparameters | The verdict | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/04-applied-ml/notebooks/04-model-selection-capstone.ipynb) |
 
 ---
 
@@ -244,4 +244,4 @@ The techniques in this course gave him that power. Now they're yours.
 
 **Ready?**
 
-[Start Module 1, Lesson 1 →](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/01-statistics-probability/notebooks/01-uncertainty-intuition.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/buildLittleWorlds/ml-math-with-densworld/blob/main/modules/01-statistics-probability/notebooks/01-uncertainty-intuition.ipynb) **Start Module 1, Lesson 1: Uncertainty & Intuition**
